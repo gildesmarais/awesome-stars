@@ -60,6 +60,7 @@
 
 ## C++ 
 
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founde
 - [exaile/moodbar](https://github.com/exaile/moodbar) - Audio timeline visualization
 - [spezifisch/pymoodbar](https://github.com/spezifisch/pymoodbar) - Generate moodbar files and images in Python
 - [wez/atomicparsley](https://github.com/wez/atomicparsley) - AtomicParsley is a lightweight command line program for reading, parsing and setting metadata into MPEG-4 files, in particular, iTunes-style metadata.
@@ -265,6 +266,7 @@
 
 ## Others 
 
+- [gildesmarais/awesome-stars](https://github.com/gildesmarais/awesome-stars) - ✨ Automatically updated Awesome List of Stars I handed out on Github
 - [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
@@ -505,7 +507,6 @@
 - [DamirSvrtan/fasterer](https://github.com/DamirSvrtan/fasterer) - :zap: Don't make your Rubies go fast. Make them go fasterer ™. :zap:
 - [faker-ruby/faker](https://github.com/faker-ruby/faker) - A library for generating fake data such as names, addresses, and phone numbers.
 - [ankane/chartkick](https://github.com/ankane/chartkick) - Create beautiful JavaScript charts with one line of Ruby
-- [flyerhzm/bullet](https://github.com/flyerhzm/bullet) - help to kill N+1 queries and unused eager loading
 - [plentz/lol_dba](https://github.com/plentz/lol_dba) - lol_dba is a small package of rake tasks that scan your application models and displays a list of columns that probably should be indexed. Also, it can generate .sql migration scripts.
 - [thoughtbot/guides](https://github.com/thoughtbot/guides) - A guide for programming in style.
 
