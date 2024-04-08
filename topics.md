@@ -1147,7 +1147,6 @@
 - [sportngin/okcomputer](https://github.com/sportngin/okcomputer) - Provides a health-check endpoint to your Ruby on Rails apps.
 - [zombocom/wicked](https://github.com/zombocom/wicked) - Use wicked to turn your controller into a wizard
 - [alexreisner/geocoder](https://github.com/alexreisner/geocoder) - Complete Ruby geocoding solution.
-- [CDrummond/cantata](https://github.com/CDrummond/cantata) - Qt5 Graphical MPD Client
 - [roshiro/TitleNotifier.js](https://github.com/roshiro/TitleNotifier.js) - 👋 Lightweight (&lt; 3kb), dependency-free javascript library to dynamically show the number of unread notifications in your webpage title through a simple API.
 - [domnikl/highscore](https://github.com/domnikl/highscore) - Find and rank keywords in text
 - [HexFiend/HexFiend](https://github.com/HexFiend/HexFiend) - A fast and clever hex editor for macOS
