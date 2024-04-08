@@ -68,7 +68,6 @@
 - [strawberrymusicplayer/strawberry](https://github.com/strawberrymusicplayer/strawberry) - :strawberry: Strawberry Music Player
 - [enzo1982/freac](https://github.com/enzo1982/freac) - The fre:ac audio converter project
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
-- [CDrummond/cantata](https://github.com/CDrummond/cantata) - Qt5 Graphical MPD Client
 
 ## CSS 
 
