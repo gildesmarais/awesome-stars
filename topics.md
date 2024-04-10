@@ -1009,7 +1009,7 @@
 - [Shopify/pitchfork](https://github.com/Shopify/pitchfork) - 
 - [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet
 - [alfredapp/shortcuts-workflow](https://github.com/alfredapp/shortcuts-workflow) - Run installed macOS shortcuts
-- [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, and predictable development environments
+- [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
 - [mhib/pairing_heap](https://github.com/mhib/pairing_heap) - Performant priority queue in pure Ruby with support for changing priority using pairing heap data structure
 - [bi1yeu/recruiter_rm](https://github.com/bi1yeu/recruiter_rm) - A small utility to send personalized responses to recruiters
 - [polarsys/b612](https://github.com/polarsys/b612) - Eclipse B612
