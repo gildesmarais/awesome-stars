@@ -351,6 +351,7 @@
 
 ## Ruby 
 
+- [patterns-ai-core/langchainrb](https://github.com/patterns-ai-core/langchainrb) - Build LLM-backed Ruby applications
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
 - [timkaechele/rex](https://github.com/timkaechele/rex) - Migrated to my own git server
 - [reidmorrison/rails_semantic_logger](https://github.com/reidmorrison/rails_semantic_logger) - Rails Semantic Logger replaces the Rails default logger with Semantic Logger
