@@ -512,6 +512,7 @@
 
 ## Rust 
 
+- [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [makarski/gtasks-rs](https://github.com/makarski/gtasks-rs) - Rust Client for Google Tasks API
 - [gopher64/gopher64](https://github.com/gopher64/gopher64) - N64 emulator written in Rust
 - [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
