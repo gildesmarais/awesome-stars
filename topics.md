@@ -1443,6 +1443,7 @@
 
 ## rust 
 
+- [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
 - [makarski/gtasks-rs](https://github.com/makarski/gtasks-rs) - Rust Client for Google Tasks API
 - [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
