@@ -106,6 +106,7 @@
 
 ## Go 
 
+- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted links shortener and sharing platform. Save and share your links very easily
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
@@ -265,6 +266,7 @@
 
 ## Others 
 
+- [adbar/German-NLP](https://github.com/adbar/German-NLP) - Curated list of open-access/open-source/off-the-shelf resources and tools developed with a particular focus on German
 - [gildesmarais/awesome-stars](https://github.com/gildesmarais/awesome-stars) - ✨ Automatically updated Awesome List of Stars I handed out on Github
 - [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
@@ -319,6 +321,7 @@
 
 ## Python 
 
+- [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & command-line tool to gather text on the Web: web crawling/scraping, extraction of text, metadata, comments
 - [zdf-opensource/recommendations-pa-base](https://github.com/zdf-opensource/recommendations-pa-base) - 
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
