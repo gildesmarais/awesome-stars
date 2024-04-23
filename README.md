@@ -628,7 +628,6 @@
 - [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [BlackGlory/copycat](https://github.com/BlackGlory/copycat) - 🌳 Copy content from web powerful than ever before.
-- [brielov/typed](https://github.com/brielov/typed) - Fast, tiny and type-safe runtime validation library.
 - [easepick/easepick](https://github.com/easepick/easepick) - Date range picker. Uses Shadow DOM, lightweight size, no dependencies.
 - [renovatebot/github-action](https://github.com/renovatebot/github-action) - 
 - [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Keystroke launcher for Windows, macOS and Linux
