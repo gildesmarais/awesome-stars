@@ -1043,7 +1043,6 @@
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [zigtools/zls](https://github.com/zigtools/zls) - A Zig language server supporting Zig developers with features like autocomplete and goto definition
 - [asdf-community/asdf-deno](https://github.com/asdf-community/asdf-deno) - Deno plugin for the asdf version manager
-- [brielov/typed](https://github.com/brielov/typed) - Fast, tiny and type-safe runtime validation library.
 - [renovatebot/github-action](https://github.com/renovatebot/github-action) - 
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [ankane/slowpoke](https://github.com/ankane/slowpoke) - Rack::Timeout enhancements for Rails
