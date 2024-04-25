@@ -132,6 +132,7 @@
 
 ## HTML 
 
+- [AndyTheFactory/newspaper4k](https://github.com/AndyTheFactory/newspaper4k) - 📰 Newspaper4k a fork of the beloved Newspaper3k. Extraction of articles, titles, and metadata from news websites.
 - [janko/rodauth-rails](https://github.com/janko/rodauth-rails) - Rails integration for Rodauth authentication framework
 - [damoeb/feedless](https://github.com/damoeb/feedless) - Middleware to create RSS feeds, filter existing feeds and transform them (e.g.  fulltext or media detection)
 - [opensubsonic/open-subsonic-api](https://github.com/opensubsonic/open-subsonic-api) - Repository hosting the definition and discussions of the Open Subsonic API
