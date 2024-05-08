@@ -359,6 +359,7 @@
 
 ## Ruby 
 
+- [ruby/ruby.wasm](https://github.com/ruby/ruby.wasm) - ruby.wasm is a collection of WebAssembly ports of the CRuby.
 - [patterns-ai-core/langchainrb](https://github.com/patterns-ai-core/langchainrb) - Build LLM-powered applications in Ruby
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
 - [timkaechele/rex](https://github.com/timkaechele/rex) - Migrated to my own git server
