@@ -1381,6 +1381,7 @@
 
 ## ruby 
 
+- [ruby/ruby.wasm](https://github.com/ruby/ruby.wasm) - ruby.wasm is a collection of WebAssembly ports of the CRuby.
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
 - [timkaechele/rex](https://github.com/timkaechele/rex) - Migrated to my own git server
 - [arbox/nlp-with-ruby](https://github.com/arbox/nlp-with-ruby) - Curated List: Practical Natural Language Processing done in Ruby
