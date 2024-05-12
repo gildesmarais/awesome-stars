@@ -285,7 +285,7 @@
 - [TheWebScrapingClub/webscraping-from-0-to-hero](https://github.com/TheWebScrapingClub/webscraping-from-0-to-hero) - The web scraping open project repository aims to share knowledge and experiences about web scraping with Python
 - [okfde/lebensmittel-kontrollergebnisse-data](https://github.com/okfde/lebensmittel-kontrollergebnisse-data) - 
 - [OldUnreal/UnrealTournamentPatches](https://github.com/OldUnreal/UnrealTournamentPatches) - 
-- [danvk/effective-typescript](https://github.com/danvk/effective-typescript) - Effective TypeScript: 62 Specific Ways to Improve Your TypeScript
+- [danvk/effective-typescript](https://github.com/danvk/effective-typescript) - Effective TypeScript 2nd Edition: 83 Specific Ways to Improve Your TypeScript
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [plenaryapp/awesome-rss-feeds](https://github.com/plenaryapp/awesome-rss-feeds) - Awesome RSS feeds - A curated list of RSS feeds (and OPML files) used in Recommended Feeds and local news sections of Plenary - an RSS reader, article downloader and a podcast player app for android
 - [html2rss/brand](https://github.com/html2rss/brand) - 🗃 Logos and icons (for now).
