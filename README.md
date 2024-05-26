@@ -266,6 +266,7 @@
 
 ## Objective-C 
 
+- [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall
 - [HexFiend/HexFiend](https://github.com/HexFiend/HexFiend) - A fast and clever hex editor for macOS
 
 ## Others 
@@ -619,7 +620,7 @@
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
-- [webpro/knip](https://github.com/webpro/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
+- [webpro-nl/knip](https://github.com/webpro-nl/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [frysztak/orpington-news](https://github.com/frysztak/orpington-news) - Self-hosted RSS reader with PWA support
 - [dev-yakuza/react-native-image-modal](https://github.com/dev-yakuza/react-native-image-modal) - the simple image modal for React Native
