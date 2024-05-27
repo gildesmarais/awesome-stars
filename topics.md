@@ -1007,6 +1007,7 @@
 
 ## others 
 
+- [pascalpp/FreeRuler](https://github.com/pascalpp/FreeRuler) - A ruler application for Mac OS X
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall
 - [jaredbeck/libyear-bundler](https://github.com/jaredbeck/libyear-bundler) - A simple measure of dependency freshness
 - [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks
