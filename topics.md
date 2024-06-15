@@ -174,6 +174,7 @@
 - [website](#website)
 - [windows](#windows)
 - [xml](#xml)
+- [zig](#zig)
 
 ## ai 
 
@@ -1738,6 +1739,11 @@
 
 - [kgiszczak/shale](https://github.com/kgiszczak/shale) - Shale is a Ruby object mapper and serializer for JSON, YAML, TOML, CSV and XML. It allows you to parse JSON, YAML, TOML, CSV and XML data and convert it into Ruby data structures, as well as serialize
 - [Synthoid/ExportSheetData](https://github.com/Synthoid/ExportSheetData) - Add-on for Google Sheets that allows sheets to be exported as JSON or XML.
+
+## zig 
+
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
+- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 
 ## License
