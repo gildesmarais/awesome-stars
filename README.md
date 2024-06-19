@@ -524,6 +524,7 @@
 
 ## Rust 
 
+- [pdeljanov/Symphonia](https://github.com/pdeljanov/Symphonia) - Pure Rust multimedia format demuxing, tag reading, and audio decoding library
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [makarski/gtasks-rs](https://github.com/makarski/gtasks-rs) - Rust Client for Google Tasks API
 - [gopher64/gopher64](https://github.com/gopher64/gopher64) - N64 emulator written in Rust
