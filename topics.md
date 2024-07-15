@@ -527,6 +527,7 @@
 
 ## dotfiles 
 
+- [casey/dotfiles](https://github.com/casey/dotfiles) - 📜 Dotfiles & Scripts
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [gildesmarais/dotfiles](https://github.com/gildesmarais/dotfiles) - 🤯 Collection of files whose names are supposed to begin with a dot. But they don't in this repo. rcm handles the dots…
 
@@ -1018,6 +1019,7 @@
 
 ## others 
 
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [trashhalo/reddit-rss](https://github.com/trashhalo/reddit-rss) - improved rss feed for reddit
 - [knu/git-merge-structure-sql](https://github.com/knu/git-merge-structure-sql) - git merge driver for db/structure.sql of Rails projects
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
