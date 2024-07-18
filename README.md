@@ -363,6 +363,7 @@
 
 ## Ruby 
 
+- [cantino/ruby-readability](https://github.com/cantino/ruby-readability) - Port of arc90's readability project to Ruby
 - [knu/git-merge-structure-sql](https://github.com/knu/git-merge-structure-sql) - git merge driver for db/structure.sql of Rails projects
 - [stitchfix/stitches](https://github.com/stitchfix/stitches) - Create a Microservice in Rails with minimal ceremony
 - [jaredbeck/libyear-bundler](https://github.com/jaredbeck/libyear-bundler) - A simple measure of dependency freshness
