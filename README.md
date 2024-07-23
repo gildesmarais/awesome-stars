@@ -343,7 +343,7 @@
 - [blueset/alfred-search-unicode](https://github.com/blueset/alfred-search-unicode) - Search Unicode is an Alfred 4 Workflow to lookup and reverse lookup Unicode characters and emoji with their names.
 - [bundesAPI/strukturen](https://github.com/bundesAPI/strukturen) - 
 - [hodcroftlab/covariants](https://github.com/hodcroftlab/covariants) - Real-time updates and information about key SARS-CoV-2 variants, plus the scripts that generate this information.
-- [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Make your web services secure by default !
+- [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 - [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 - [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1) - FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry
