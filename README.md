@@ -627,6 +627,7 @@
 
 ## TypeScript 
 
+- [Xe/praise-me](https://github.com/Xe/praise-me) - Praise my GitHub profile!
 - [Shopify/flash-list](https://github.com/Shopify/flash-list) - A better list for React Native
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [grammyjs/grammY](https://github.com/grammyjs/grammY) - The Telegram Bot Framework.
