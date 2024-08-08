@@ -180,7 +180,6 @@
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [juliuste/direkt.bahn.guru](https://github.com/juliuste/direkt.bahn.guru) - All direct long-distance railway connections for cities in and beyond central Europe.
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
-- [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
 - [microsoft/vscode-recipes](https://github.com/microsoft/vscode-recipes) - 
 - [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
 - [sindresorhus/alfred-emoj](https://github.com/sindresorhus/alfred-emoj) - Alfred 3 workflow to find relevant emoji from text
@@ -366,6 +365,7 @@
 
 ## Ruby 
 
+- [AaronLasseigne/active_interaction](https://github.com/AaronLasseigne/active_interaction) - :briefcase: Manage application specific business logic.
 - [sparklemotion/mechanize](https://github.com/sparklemotion/mechanize) - Mechanize is a ruby library that makes automated web interaction easy.
 - [cantino/ruby-readability](https://github.com/cantino/ruby-readability) - Port of arc90's readability project to Ruby
 - [knu/git-merge-structure-sql](https://github.com/knu/git-merge-structure-sql) - git merge driver for db/structure.sql of Rails projects
