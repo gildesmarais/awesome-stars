@@ -485,7 +485,7 @@
 - [2called-chaos/watchmonkey_cli](https://github.com/2called-chaos/watchmonkey_cli) - Watchmonkey CLI - dead simple monitoring tool for rubyists
 - [monora/rgl](https://github.com/monora/rgl) - RGL is a framework for graph data structures and algorithms in Ruby.
 - [softwareinmotion/ibanizator](https://github.com/softwareinmotion/ibanizator) - Ruby gem for calculating iban out of account details.
-- [html2rss/html2rss-web](https://github.com/html2rss/html2rss-web) - 🕸 Generates and delivers RSS feeds via HTTP. Docker image available! Create your own feeds or get started quickly with the included configs.
+- [html2rss/html2rss-web](https://github.com/html2rss/html2rss-web) - 🕸 Create custom RSS feeds from any website with ease! Quick setup with Docker. Use built-in configs or tailor your own. Stay updated effortlessly.
 - [gildesmarais/alfred_workflows](https://github.com/gildesmarais/alfred_workflows) - ⌨️ Alfred workflows
 - [drapergem/draper](https://github.com/drapergem/draper) - Decorators/View-Models for Rails Applications
 - [tj/terminal-table](https://github.com/tj/terminal-table) - Ruby ASCII Table Generator, simple and feature rich.
