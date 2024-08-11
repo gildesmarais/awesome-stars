@@ -1016,6 +1016,7 @@
 
 ## others 
 
+- [ankane/rdkit-ruby](https://github.com/ankane/rdkit-ruby) - Cheminformatics for Ruby, powered by RDKit
 - [Xe/praise-me](https://github.com/Xe/praise-me) - Praise my GitHub profile!
 - [scrapinghub/article-extraction-benchmark](https://github.com/scrapinghub/article-extraction-benchmark) - Article extraction benchmark: dataset and evaluation scripts
 - [cantino/ruby-readability](https://github.com/cantino/ruby-readability) - Port of arc90's readability project to Ruby
@@ -1409,6 +1410,7 @@
 
 ## ruby 
 
+- [gbuesing/pca](https://github.com/gbuesing/pca) - Principal component analysis (PCA) in Ruby
 - [AaronLasseigne/active_interaction](https://github.com/AaronLasseigne/active_interaction) - :briefcase: Manage application specific business logic.
 - [sparklemotion/mechanize](https://github.com/sparklemotion/mechanize) - Mechanize is a ruby library that makes automated web interaction easy.
 - [stitchfix/stitches](https://github.com/stitchfix/stitches) - Create a Microservice in Rails with minimal ceremony
