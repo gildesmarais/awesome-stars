@@ -365,6 +365,8 @@
 
 ## Ruby 
 
+- [gbuesing/pca](https://github.com/gbuesing/pca) - Principal component analysis (PCA) in Ruby
+- [ankane/rdkit-ruby](https://github.com/ankane/rdkit-ruby) - Cheminformatics for Ruby, powered by RDKit
 - [AaronLasseigne/active_interaction](https://github.com/AaronLasseigne/active_interaction) - :briefcase: Manage application specific business logic.
 - [sparklemotion/mechanize](https://github.com/sparklemotion/mechanize) - Mechanize is a ruby library that makes automated web interaction easy.
 - [cantino/ruby-readability](https://github.com/cantino/ruby-readability) - Port of arc90's readability project to Ruby
