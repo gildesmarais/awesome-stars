@@ -534,6 +534,7 @@
 
 ## Rust 
 
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [pdeljanov/Symphonia](https://github.com/pdeljanov/Symphonia) - Pure Rust multimedia format demuxing, tag reading, and audio decoding library
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
