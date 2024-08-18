@@ -82,6 +82,7 @@
 - [html](#html)
 - [html5](#html5)
 - [http](#http)
+- [https](#https)
 - [ios](#ios)
 - [ipfs](#ipfs)
 - [java](#java)
@@ -723,7 +724,7 @@
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [wezm/rsspls](https://github.com/wezm/rsspls) - Generate RSS feeds from websites
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
-- [html2rss/html2rss](https://github.com/html2rss/html2rss) - 📰 Build RSS 2.0 feeds from websites (and JSON APIs) with a few CSS selectors.
+- [html2rss/html2rss](https://github.com/html2rss/html2rss) - 📰 Build RSS 2.0 feeds from websites (and JSON APIs) automatically or with a few CSS selectors.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
 - [ffoodd/a11y.css](https://github.com/ffoodd/a11y.css) - This CSS file intends to warn developers about possible risks and mistakes that exist in HTML code. It can also be used to roughly evaluate a site's quality by simply including it as an external style
@@ -735,6 +736,10 @@
 ## http 
 
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+
+## https 
+
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 ## ios 
@@ -816,7 +821,7 @@
 
 - [kgiszczak/shale](https://github.com/kgiszczak/shale) - Shale is a Ruby object mapper and serializer for JSON, YAML, TOML, CSV and XML. It allows you to parse JSON, YAML, TOML, CSV and XML data and convert it into Ruby data structures, as well as serialize
 - [stoplightio/spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI v3.1, v3.0, and v2.0 as well as AsyncAPI v2.x.
-- [html2rss/html2rss](https://github.com/html2rss/html2rss) - 📰 Build RSS 2.0 feeds from websites (and JSON APIs) with a few CSS selectors.
+- [html2rss/html2rss](https://github.com/html2rss/html2rss) - 📰 Build RSS 2.0 feeds from websites (and JSON APIs) automatically or with a few CSS selectors.
 - [Synthoid/ExportSheetData](https://github.com/Synthoid/ExportSheetData) - Add-on for Google Sheets that allows sheets to be exported as JSON or XML.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 
@@ -1029,6 +1034,7 @@
 
 ## others 
 
+- [maptz/maptz.vscode.extensions.customfolding](https://github.com/maptz/maptz.vscode.extensions.customfolding) - 
 - [basecamp/handbook](https://github.com/basecamp/handbook) - Basecamp Employee Handbook
 - [mateuszwu/ruby-multitool](https://github.com/mateuszwu/ruby-multitool) - VSCode Extension
 - [ankane/rdkit-ruby](https://github.com/ankane/rdkit-ruby) - Cheminformatics for Ruby, powered by RDKit
@@ -1476,7 +1482,7 @@
 - [westonganger/spreadsheet_architect](https://github.com/westonganger/spreadsheet_architect) - Spreadsheet Architect is a library that allows you to create XLSX, ODS, or CSV spreadsheets super easily from ActiveRecord relations, plain Ruby objects, or tabular data.
 - [ledermann/unread](https://github.com/ledermann/unread) - Handle unread records and mark them as read with Ruby on Rails
 - [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system
-- [html2rss/html2rss](https://github.com/html2rss/html2rss) - 📰 Build RSS 2.0 feeds from websites (and JSON APIs) with a few CSS selectors.
+- [html2rss/html2rss](https://github.com/html2rss/html2rss) - 📰 Build RSS 2.0 feeds from websites (and JSON APIs) automatically or with a few CSS selectors.
 - [shrinerb/shrine](https://github.com/shrinerb/shrine) - File Attachment toolkit for Ruby applications
 - [nathanl/searchlight](https://github.com/nathanl/searchlight) - Searchlight helps you build searches from options via Ruby methods that you write.
 - [gildesmarais/matomo-to-influx](https://github.com/gildesmarais/matomo-to-influx) - 📯Push Matomo stats to influxDB. Can optionally run in Docker.
