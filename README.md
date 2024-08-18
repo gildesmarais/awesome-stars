@@ -475,7 +475,7 @@
 - [ankane/strong_migrations](https://github.com/ankane/strong_migrations) - Catch unsafe migrations in development
 - [html2rss/html2rss-configs](https://github.com/html2rss/html2rss-configs) - 📇 A growing collection of html2rss feed configs. Generate configs with the handy generator.
 - [thoughtbot/high_voltage](https://github.com/thoughtbot/high_voltage) - Easily include static pages in your Rails app.
-- [html2rss/html2rss](https://github.com/html2rss/html2rss) - 📰 Build RSS 2.0 feeds from websites (and JSON APIs) with a few CSS selectors.
+- [html2rss/html2rss](https://github.com/html2rss/html2rss) - 📰 Build RSS 2.0 feeds from websites (and JSON APIs) automatically or with a few CSS selectors.
 - [fxn/zeitwerk](https://github.com/fxn/zeitwerk) - Efficient and thread-safe code loader for Ruby
 - [pcreux/csv-importer](https://github.com/pcreux/csv-importer) - CSV Import for humans on Ruby / Ruby on Rails
 - [shrinerb/shrine](https://github.com/shrinerb/shrine) - File Attachment toolkit for Ruby applications
@@ -633,6 +633,7 @@
 
 ## TypeScript 
 
+- [maptz/maptz.vscode.extensions.customfolding](https://github.com/maptz/maptz.vscode.extensions.customfolding) - 
 - [mateuszwu/ruby-multitool](https://github.com/mateuszwu/ruby-multitool) - VSCode Extension
 - [Xe/praise-me](https://github.com/Xe/praise-me) - Praise my GitHub profile!
 - [Shopify/flash-list](https://github.com/Shopify/flash-list) - A better list for React Native
