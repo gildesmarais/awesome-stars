@@ -333,6 +333,7 @@
 
 ## Python 
 
+- [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [rss-translator/RSS-Translator](https://github.com/rss-translator/RSS-Translator) - 开源、简洁、可自部署的RSS翻译器 | Translate RSS feeds into your language!
 - [scrapinghub/article-extraction-benchmark](https://github.com/scrapinghub/article-extraction-benchmark) - Article extraction benchmark: dataset and evaluation scripts
 - [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks
