@@ -297,7 +297,7 @@
 - [plenaryapp/awesome-rss-feeds](https://github.com/plenaryapp/awesome-rss-feeds) - Awesome RSS feeds - A curated list of RSS feeds (and OPML files) used in Recommended Feeds and local news sections of Plenary - an RSS reader, article downloader and a podcast player app for android
 - [html2rss/brand](https://github.com/html2rss/brand) - 🗃 Logos and icons (for now).
 - [mihai-vlc/spacegray-vscode](https://github.com/mihai-vlc/spacegray-vscode) - Spacegray theme for visual studio code
-- [ossu/data-science](https://github.com/ossu/data-science) - :bar_chart: Path to a free self-taught education in Data Science!
+- [ossu/data-science](https://github.com/ossu/data-science) - 📊 Path to a free self-taught education in Data Science!
 - [hanshack/car-tagging-data-berlin](https://github.com/hanshack/car-tagging-data-berlin) - This repo is about the **data** collected by volunteers using a map tagging tool which was developed to tag cars on aerial images from the city of Berlin.
 - [jfqd/robots.txt](https://github.com/jfqd/robots.txt) - robots.txt to block unwanted bandwidth wasting bots
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
