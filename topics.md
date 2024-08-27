@@ -1169,7 +1169,7 @@
 - [vega/vega](https://github.com/vega/vega) - A visualization grammar.
 - [HierBautBerlin/website](https://github.com/HierBautBerlin/website) - A tool to inform citizens of Berlin about changes in their neighborhood.
 - [ankane/disco](https://github.com/ankane/disco) - Recommendations for Ruby and Rails using collaborative filtering
-- [ossu/data-science](https://github.com/ossu/data-science) - :bar_chart: Path to a free self-taught education in Data Science!
+- [ossu/data-science](https://github.com/ossu/data-science) - 📊 Path to a free self-taught education in Data Science!
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [miloserdow/capistrano-deploy](https://github.com/miloserdow/capistrano-deploy) - Github Actions for Capistrano
 - [utkarshkukreti/select.rs](https://github.com/utkarshkukreti/select.rs) - A Rust library to extract useful data from HTML documents, suitable for web scraping.
