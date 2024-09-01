@@ -135,6 +135,7 @@
 
 ## HTML 
 
+- [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [AndyTheFactory/newspaper4k](https://github.com/AndyTheFactory/newspaper4k) - 📰 Newspaper4k a fork of the beloved Newspaper3k. Extraction of articles, titles, and metadata from news websites.
 - [janko/rodauth-rails](https://github.com/janko/rodauth-rails) - Rails integration for Rodauth authentication framework
 - [damoeb/feedless](https://github.com/damoeb/feedless) - Middleware to create RSS feeds, filter existing feeds and transform them (e.g.  fulltext)
