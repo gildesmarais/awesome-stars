@@ -85,6 +85,7 @@
 - [html5](#html5)
 - [http](#http)
 - [https](#https)
+- [instagram](#instagram)
 - [ios](#ios)
 - [ipfs](#ipfs)
 - [java](#java)
@@ -756,6 +757,11 @@
 ## https 
 
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+
+## instagram 
+
+- [stefansundin/rssbox](https://github.com/stefansundin/rssbox) - :newspaper: I consume the world via RSS feeds, and this is my attempt to keep it that way.
+- [SimonBrazell/privacy-redirect](https://github.com/SimonBrazell/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives.
 
 ## ios 
 
