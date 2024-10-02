@@ -715,6 +715,7 @@
 - [test-prof/test-prof](https://github.com/test-prof/test-prof) - Ruby Tests Profiling Toolbox
 - [palkan/isolator](https://github.com/palkan/isolator) - Detect non-atomic interactions within DB transactions
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [eggheads/eggdrop](https://github.com/eggheads/eggdrop) - The Eggdrop IRC Bot
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
