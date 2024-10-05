@@ -95,7 +95,7 @@
 
 ## Dockerfile 
 
-- [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 110+ open-source web apps with one Docker command
+- [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 120+ open-source web apps with one Docker command
 - [litetex/pull-detached-remote](https://github.com/litetex/pull-detached-remote) - Creates a branch with updates from a detached upstream of a repo and a corresponding PullRequest
 
 ## Elixir 
