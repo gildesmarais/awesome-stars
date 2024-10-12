@@ -974,6 +974,7 @@
 
 ## mongodb 
 
+- [awakari/core](https://github.com/awakari/core) - Core Awakari system deployment and tests
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 
 ## monitoring 
@@ -1080,6 +1081,7 @@
 
 ## others 
 
+- [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
 - [david-mccullars/text_rank](https://github.com/david-mccullars/text_rank) - Ruby implementation of TextRank solution to ranked keyword extraction
 - [WinampDesktop/winamp](https://github.com/WinampDesktop/winamp) - Iconic media player
 - [remvze/nothing](https://github.com/remvze/nothing) - 🕳 Simply do nothing.
@@ -1643,6 +1645,7 @@
 
 ## self-hosted 
 
+- [awakari/core](https://github.com/awakari/core) - Core Awakari system deployment and tests
 - [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS.
 - [rss-translator/RSS-Translator](https://github.com/rss-translator/RSS-Translator) - 开源、简洁、可自部署的RSS翻译器 | Translate RSS feeds into your language!
 - [offen/offen](https://github.com/offen/offen) - Offen Fair Web Analytics
@@ -1726,6 +1729,7 @@
 
 ## telegram 
 
+- [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 - [grammyjs/grammY](https://github.com/grammyjs/grammY) - The Telegram Bot Framework.
 
 ## tensorflow 
