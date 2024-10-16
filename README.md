@@ -64,7 +64,6 @@
 
 ## C++ 
 
-- [WinampDesktop/winamp](https://github.com/WinampDesktop/winamp) - Iconic media player
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founde
 - [exaile/moodbar](https://github.com/exaile/moodbar) - Audio timeline visualization
 - [spezifisch/pymoodbar](https://github.com/spezifisch/pymoodbar) - Generate moodbar files and images in Python
