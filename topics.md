@@ -381,6 +381,7 @@
 
 ## chrome-extension 
 
+- [lasuillard/raindrop-sync-chrome](https://github.com/lasuillard/raindrop-sync-chrome) - Chrome browser extension for syncing bookmarks with Raindrop.
 - [notlmn/copy-as-markdown](https://github.com/notlmn/copy-as-markdown) - 🖱 Browser extension to copy hyperlinks, images, and selected text as Markdown with GFM support
 - [bramus/mastodon-redirector](https://github.com/bramus/mastodon-redirector) - View Mastodon profiles on your Mastodon instance
 - [zombieFox/nightTab](https://github.com/zombieFox/nightTab) - A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab.
@@ -745,7 +746,6 @@
 - [test-prof/test-prof](https://github.com/test-prof/test-prof) - Ruby Tests Profiling Toolbox
 - [palkan/isolator](https://github.com/palkan/isolator) - Detect non-atomic interactions within DB transactions
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [eggheads/eggdrop](https://github.com/eggheads/eggdrop) - The Eggdrop IRC Bot
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -1522,10 +1522,11 @@
 
 ## robotics 
 
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.
 
 ## ruby 
 
+- [jeromedalbert/rubocop-obsession](https://github.com/jeromedalbert/rubocop-obsession) - RuboCop extension focused on higher-level concepts, like checking that code reads from top to bottom
 - [serpapi/nokolexbor](https://github.com/serpapi/nokolexbor) - High-performance HTML5 parser for Ruby based on Lexbor, with support for both CSS selectors and XPath.
 - [YusukeIwaki/puppeteer-ruby](https://github.com/YusukeIwaki/puppeteer-ruby) - A Ruby port of Puppeteer
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
@@ -1757,6 +1758,7 @@
 
 ## tailwindcss 
 
+- [lasuillard/raindrop-sync-chrome](https://github.com/lasuillard/raindrop-sync-chrome) - Chrome browser extension for syncing bookmarks with Raindrop.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 
 ## telegram 
@@ -1802,6 +1804,7 @@
 
 ## typescript 
 
+- [lasuillard/raindrop-sync-chrome](https://github.com/lasuillard/raindrop-sync-chrome) - Chrome browser extension for syncing bookmarks with Raindrop.
 - [grammyjs/grammY](https://github.com/grammyjs/grammY) - The Telegram Bot Framework.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
 - [ParthJadhav/Verve](https://github.com/ParthJadhav/Verve) - Verve is a lightweight and blazingly fast launcher for accessing and opening applications, files and documents. ⚡
