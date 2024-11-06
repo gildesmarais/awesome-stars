@@ -494,7 +494,7 @@
 - [makandra/assignable_values](https://github.com/makandra/assignable_values) - Restrict the values assignable to ActiveRecord attributes or associations.
 - [makandra/minidusen](https://github.com/makandra/minidusen) - Low-tech search for ActiveRecord with MySQL or PostgreSQL
 - [makandra/query_diet](https://github.com/makandra/query_diet) - A Rails database query counter that stays out of your way
-- [renderedtext/render_async](https://github.com/renderedtext/render_async) - render_async lets you include pages asynchronously with AJAX
+- [nikolalsvk/render_async](https://github.com/nikolalsvk/render_async) - render_async lets you include pages asynchronously with AJAX
 - [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system
 - [ankane/lockbox](https://github.com/ankane/lockbox) - Modern encryption for Ruby and Rails
 - [ankane/strong_migrations](https://github.com/ankane/strong_migrations) - Catch unsafe migrations in development
