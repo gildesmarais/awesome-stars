@@ -350,6 +350,7 @@
 
 ## Python 
 
+- [yinan-c/RSSbrew](https://github.com/yinan-c/RSSbrew) - Self-hosted, easy-to-deploy RSS tool - Aggregate, filter, digest and AI summarize articles in RSS feeds.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [rss-translator/RSS-Translator](https://github.com/rss-translator/RSS-Translator) - 开源、简洁、可自部署的RSS翻译器 | Translate RSS feeds into your language!
@@ -515,7 +516,7 @@
 - [2called-chaos/watchmonkey_cli](https://github.com/2called-chaos/watchmonkey_cli) - Watchmonkey CLI - dead simple monitoring tool for rubyists
 - [monora/rgl](https://github.com/monora/rgl) - RGL is a framework for graph data structures and algorithms in Ruby.
 - [softwareinmotion/ibanizator](https://github.com/softwareinmotion/ibanizator) - Ruby gem for calculating iban out of account details.
-- [html2rss/html2rss-web](https://github.com/html2rss/html2rss-web) - 🕸 Create custom RSS feeds from any website with ease! Quick setup with Docker. Use built-in configs or tailor your own. Stay updated effortlessly.
+- [html2rss/html2rss-web](https://github.com/html2rss/html2rss-web) - 🕸 generates RSS feeds of any website a d servers to the web! Docker. Automatic scraping, use the built-in configs or create your own. Rolling release for speedy updates.
 - [gildesmarais/alfred_workflows](https://github.com/gildesmarais/alfred_workflows) - ⌨️ Alfred workflows
 - [drapergem/draper](https://github.com/drapergem/draper) - Decorators/View-Models for Rails Applications
 - [tj/terminal-table](https://github.com/tj/terminal-table) - Ruby ASCII Table Generator, simple and feature rich.
