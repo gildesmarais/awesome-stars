@@ -143,6 +143,7 @@
 
 ## HTML 
 
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [team-watchdog/colombo-skylines](https://github.com/team-watchdog/colombo-skylines) - A digital twin of the city of Colombo, Sri Lanka, implemented in Cities: Skylines, based on real data. Nearly 1:1 in terms of geography and population.
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [ai-genie/chatgpt-vscode](https://github.com/ai-genie/chatgpt-vscode) - Your best AI pair programmer in VS Code
