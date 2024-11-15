@@ -569,6 +569,7 @@
 
 ## Rust 
 
+- [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [mgunyho/tere](https://github.com/mgunyho/tere) - Terminal file explorer
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
@@ -622,7 +623,6 @@
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [wasmerio/wasmer-ruby](https://github.com/wasmerio/wasmer-ruby) - 💎🕸 WebAssembly runtime for Ruby
-- [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [utkarshkukreti/select.rs](https://github.com/utkarshkukreti/select.rs) - A Rust library to extract useful data from HTML documents, suitable for web scraping.
 - [unused-code/unused](https://github.com/unused-code/unused) - A tool to identify potentially unused code.
