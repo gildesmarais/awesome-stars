@@ -295,6 +295,7 @@
 
 ## Others 
 
+- [wanghaisheng/awesome-microservice](https://github.com/wanghaisheng/awesome-microservice) - A curated list of Microservice resources
 - [97-things/97-things-every-programmer-should-know](https://github.com/97-things/97-things-every-programmer-should-know) - Pearls of wisdom for programmers collected from leading practitioners.
 - [basecamp/handbook](https://github.com/basecamp/handbook) - Basecamp Employee Handbook
 - [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
@@ -669,10 +670,12 @@
 
 ## TypeScript 
 
+- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
+- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx
 - [lasuillard/raindrop-sync-chrome](https://github.com/lasuillard/raindrop-sync-chrome) - Chrome browser extension for syncing bookmarks with Raindrop.
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [remvze/nothing](https://github.com/remvze/nothing) - 🕳 Simply do nothing.
-- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
+- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow your favorites in one inbox
 - [afadil/wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command 
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
