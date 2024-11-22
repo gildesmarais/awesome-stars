@@ -181,6 +181,7 @@
 
 ## JavaScript 
 
+- [jono-hayward/jjjplay](https://github.com/jono-hayward/jjjplay) - An unofficial revival of the Triple J Plays Twitter account on Bluesky (and others later maybe)
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [microlinkhq/top-user-agents](https://github.com/microlinkhq/top-user-agents) - An always up-to-date list of the top 100 HTTP user-agents most used over the Internet.
 - [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - The headless Chrome/Chromium driver on top of Puppeteer.
@@ -211,6 +212,7 @@
 - [jefflau/jest-fetch-mock](https://github.com/jefflau/jest-fetch-mock) - Jest mock for fetch
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [semohr/risikogebiete_deutschland](https://github.com/semohr/risikogebiete_deutschland) - 
+- [pawurb/rails-pg-extras](https://github.com/pawurb/rails-pg-extras) - Rails PostgreSQL database performance insights. Locks, index usage, buffer cache hit ratios, vacuum stats and more.
 - [AndreasArvidsson/MasvisOnline](https://github.com/AndreasArvidsson/MasvisOnline) - Online audio file mastering analyzer
 - [le0pard/pgtune](https://github.com/le0pard/pgtune) - Pgtune - tuning PostgreSQL config by your hardware
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
@@ -457,7 +459,6 @@
 - [castwide/solargraph](https://github.com/castwide/solargraph) - A Ruby language server.
 - [weg-li/weg-li](https://github.com/weg-li/weg-li) - 📸 📝 ✊ weg.li: 1, 2, 3 - Macht die Bahn frei!
 - [test-prof/test-prof](https://github.com/test-prof/test-prof) - Ruby Tests Profiling Toolbox
-- [pawurb/rails-pg-extras](https://github.com/pawurb/rails-pg-extras) - Rails PostgreSQL database performance insights. Locks, index usage, buffer cache hit ratios, vacuum stats and more.
 - [mbulat/plutus](https://github.com/mbulat/plutus) - A Ruby on Rails Engine which provides a double entry accounting system for your application
 - [motor-admin/motor-admin](https://github.com/motor-admin/motor-admin) - Deploy a no-code admin panel for any application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports.
 - [palkan/isolator](https://github.com/palkan/isolator) - Detect non-atomic interactions within DB transactions
@@ -526,7 +527,7 @@
 - [2called-chaos/watchmonkey_cli](https://github.com/2called-chaos/watchmonkey_cli) - Watchmonkey CLI - dead simple monitoring tool for rubyists
 - [monora/rgl](https://github.com/monora/rgl) - RGL is a framework for graph data structures and algorithms in Ruby.
 - [softwareinmotion/ibanizator](https://github.com/softwareinmotion/ibanizator) - Ruby gem for calculating iban out of account details.
-- [html2rss/html2rss-web](https://github.com/html2rss/html2rss-web) - 🕸 generates RSS feeds of any website a d servers to the web! Docker. Automatic scraping, use the built-in configs or create your own. Rolling release for speedy updates.
+- [html2rss/html2rss-web](https://github.com/html2rss/html2rss-web) - 🕸 Generates RSS feeds of any website & serves to the web! Automatic scraping. Ready to use configs. Write your own. Rolling Docker releases for speedy updates.
 - [gildesmarais/alfred_workflows](https://github.com/gildesmarais/alfred_workflows) - ⌨️ Alfred workflows
 - [drapergem/draper](https://github.com/drapergem/draper) - Decorators/View-Models for Rails Applications
 - [tj/terminal-table](https://github.com/tj/terminal-table) - Ruby ASCII Table Generator, simple and feature rich.
