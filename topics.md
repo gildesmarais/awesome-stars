@@ -579,7 +579,7 @@
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [gildesmarais/matomo-to-influx](https://github.com/gildesmarais/matomo-to-influx) - 📯Push Matomo stats to influxDB. Can optionally run in Docker.
 - [jfcoz/postgresqltuner](https://github.com/jfcoz/postgresqltuner) - Simple script to analyse your PostgreSQL database configuration, and give tuning advice
-- [html2rss/html2rss-web](https://github.com/html2rss/html2rss-web) - 🕸 generates RSS feeds of any website a d servers to the web! Docker. Automatic scraping, use the built-in configs or create your own. Rolling release for speedy updates.
+- [html2rss/html2rss-web](https://github.com/html2rss/html2rss-web) - 🕸 Generates RSS feeds of any website & serves to the web! Automatic scraping. Ready to use configs. Write your own. Rolling Docker releases for speedy updates.
 
 ## documentation 
 
@@ -1127,6 +1127,8 @@
 
 ## others 
 
+- [jono-hayward/jjjplay](https://github.com/jono-hayward/jjjplay) - An unofficial revival of the Triple J Plays Twitter account on Bluesky (and others later maybe)
+- [stevendborrelli/bluesky-tech-starter-packs](https://github.com/stevendborrelli/bluesky-tech-starter-packs) - A list of tech-related Bluesky starter packs
 - [laserlemon/figaro](https://github.com/laserlemon/figaro) - Simple Rails app configuration
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [wanghaisheng/awesome-microservice](https://github.com/wanghaisheng/awesome-microservice) - A curated list of Microservice resources
@@ -1608,7 +1610,7 @@
 - [glebm/i18n-tasks](https://github.com/glebm/i18n-tasks) - Manage translation and localization with static analysis, for Ruby i18n
 - [2called-chaos/watchmonkey_cli](https://github.com/2called-chaos/watchmonkey_cli) - Watchmonkey CLI - dead simple monitoring tool for rubyists
 - [monora/rgl](https://github.com/monora/rgl) - RGL is a framework for graph data structures and algorithms in Ruby.
-- [html2rss/html2rss-web](https://github.com/html2rss/html2rss-web) - 🕸 generates RSS feeds of any website a d servers to the web! Docker. Automatic scraping, use the built-in configs or create your own. Rolling release for speedy updates.
+- [html2rss/html2rss-web](https://github.com/html2rss/html2rss-web) - 🕸 Generates RSS feeds of any website & serves to the web! Automatic scraping. Ready to use configs. Write your own. Rolling Docker releases for speedy updates.
 - [gildesmarais/alfred_workflows](https://github.com/gildesmarais/alfred_workflows) - ⌨️ Alfred workflows
 - [drapergem/draper](https://github.com/drapergem/draper) - Decorators/View-Models for Rails Applications
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
