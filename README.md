@@ -400,6 +400,7 @@
 
 ## Ruby 
 
+- [flavorjones/sqlean-ruby](https://github.com/flavorjones/sqlean-ruby) - Precompiled SQLean extensions for SQLite, packaged for the Ruby ecosystem.
 - [laserlemon/figaro](https://github.com/laserlemon/figaro) - Simple Rails app configuration
 - [jeromedalbert/rubocop-obsession](https://github.com/jeromedalbert/rubocop-obsession) - RuboCop extension focused on higher-level concepts, like checking that code reads from top to bottom
 - [flori/ollama-ruby](https://github.com/flori/ollama-ruby) - Ollama Ruby Library
@@ -676,6 +677,7 @@
 
 ## TypeScript 
 
+- [TylerFisher/sill](https://github.com/TylerFisher/sill) - Find the most popular links from your Mastodon/Bluesky networks
 - [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
 - [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx
 - [lasuillard/raindrop-sync-chrome](https://github.com/lasuillard/raindrop-sync-chrome) - Chrome browser extension for syncing bookmarks with Raindrop.
