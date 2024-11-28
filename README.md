@@ -115,6 +115,7 @@
 
 ## Go 
 
+- [gugray/rss-parrot](https://github.com/gugray/rss-parrot) - Notifies Mastodon accounts about new posts in the RSS feeds they follow
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [basecamp/thruster](https://github.com/basecamp/thruster) - 
@@ -361,6 +362,7 @@
 
 ## Python 
 
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [yinan-c/RSSbrew](https://github.com/yinan-c/RSSbrew) - Self-hosted, easy-to-deploy RSS tool - Aggregate, filter, digest and AI summarize articles in RSS feeds.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
@@ -467,7 +469,7 @@
 - [knudmoeller/berlin_corona_cases](https://github.com/knudmoeller/berlin_corona_cases) - Scraper for the official dashboard with current Corona case numbers, traffic light indicators ("Corona-Ampel") and vaccination situation for Berlin.
 - [rkh/income-tax](https://github.com/rkh/income-tax) - Ruby library to calculate the income tax for any country
 - [rkh/nii](https://github.com/rkh/nii) - Modern internationalization and localization solution for Ruby
-- [AlexB52/retest](https://github.com/AlexB52/retest) - A simple CLI to watch file changes and run their matching Ruby specs. Works on any ruby projects with no setup.
+- [AlexB52/retest](https://github.com/AlexB52/retest) - A trusty CLI companion to monitor file changes and automatically run the corresponding Ruby specs. Ready to assist on any Ruby project, no setup needed!
 - [Shopify/limiter](https://github.com/Shopify/limiter) - Simple Ruby rate limiting mechanism.
 - [testdouble/suture](https://github.com/testdouble/suture) - 🏥 A Ruby gem that helps you refactor your legacy code
 - [bibendi/activerecord-postgres_enum](https://github.com/bibendi/activerecord-postgres_enum) - Integrate PostgreSQL's enum data type into ActiveRecord's schema and migrations.
