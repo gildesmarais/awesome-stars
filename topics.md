@@ -246,6 +246,7 @@
 
 ## atom 
 
+- [gugray/rss-parrot](https://github.com/gugray/rss-parrot) - Notifies Mastodon accounts about new posts in the RSS feeds they follow
 - [damoeb/feedless](https://github.com/damoeb/feedless) - Middleware to create RSS feeds, filter existing feeds and transform them (e.g.  fulltext)
 
 ## automation 
@@ -370,6 +371,7 @@
 
 ## chatgpt 
 
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [ai-genie/chatgpt-vscode](https://github.com/ai-genie/chatgpt-vscode) - Your best AI pair programmer in VS Code
@@ -403,6 +405,7 @@
 
 ## cli 
 
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [tukaani-project/xz](https://github.com/tukaani-project/xz) - XZ Utils
@@ -416,7 +419,7 @@
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-- [AlexB52/retest](https://github.com/AlexB52/retest) - A simple CLI to watch file changes and run their matching Ruby specs. Works on any ruby projects with no setup.
+- [AlexB52/retest](https://github.com/AlexB52/retest) - A trusty CLI companion to monitor file changes and automatically run the corresponding Ruby specs. Ready to assist on any Ruby project, no setup needed!
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
@@ -1008,6 +1011,7 @@
 
 ## mastodon 
 
+- [gugray/rss-parrot](https://github.com/gugray/rss-parrot) - Notifies Mastodon accounts about new posts in the RSS feeds they follow
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [bramus/mastodon-redirector](https://github.com/bramus/mastodon-redirector) - View Mastodon profiles on your Mastodon instance
 
@@ -1119,6 +1123,7 @@
 
 ## openai 
 
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️
@@ -1129,6 +1134,7 @@
 
 ## others 
 
+- [hendricius/the-sourdough-framework](https://github.com/hendricius/the-sourdough-framework) - Open source book dedicated to helping you to make the best possible sourdough bread at home.
 - [TylerFisher/sill](https://github.com/TylerFisher/sill) - Find the most popular links from your Mastodon/Bluesky networks
 - [flavorjones/sqlean-ruby](https://github.com/flavorjones/sqlean-ruby) - Precompiled SQLean extensions for SQLite, packaged for the Ruby ecosystem.
 - [jono-hayward/jjjplay](https://github.com/jono-hayward/jjjplay) - An unofficial revival of the Triple J Plays Twitter account on Bluesky (and others later maybe)
@@ -1482,7 +1488,7 @@
 - [test-prof/test-prof](https://github.com/test-prof/test-prof) - Ruby Tests Profiling Toolbox
 - [pawurb/rails-pg-extras](https://github.com/pawurb/rails-pg-extras) - Rails PostgreSQL database performance insights. Locks, index usage, buffer cache hit ratios, vacuum stats and more.
 - [palkan/isolator](https://github.com/palkan/isolator) - Detect non-atomic interactions within DB transactions
-- [AlexB52/retest](https://github.com/AlexB52/retest) - A simple CLI to watch file changes and run their matching Ruby specs. Works on any ruby projects with no setup.
+- [AlexB52/retest](https://github.com/AlexB52/retest) - A trusty CLI companion to monitor file changes and automatically run the corresponding Ruby specs. Ready to assist on any Ruby project, no setup needed!
 - [bibendi/activerecord-postgres_enum](https://github.com/bibendi/activerecord-postgres_enum) - Integrate PostgreSQL's enum data type into ActiveRecord's schema and migrations.
 - [hyperstack-org/hyperstack](https://github.com/hyperstack-org/hyperstack) - Hyperstack ALPHA https://hyperstack.org
 - [charkost/prosopite](https://github.com/charkost/prosopite) - :mag: Rails N+1 queries auto-detection with zero false positives / false negatives
@@ -1582,7 +1588,7 @@
 - [test-prof/test-prof](https://github.com/test-prof/test-prof) - Ruby Tests Profiling Toolbox
 - [knudmoeller/berlin_corona_cases](https://github.com/knudmoeller/berlin_corona_cases) - Scraper for the official dashboard with current Corona case numbers, traffic light indicators ("Corona-Ampel") and vaccination situation for Berlin.
 - [rkh/nii](https://github.com/rkh/nii) - Modern internationalization and localization solution for Ruby
-- [AlexB52/retest](https://github.com/AlexB52/retest) - A simple CLI to watch file changes and run their matching Ruby specs. Works on any ruby projects with no setup.
+- [AlexB52/retest](https://github.com/AlexB52/retest) - A trusty CLI companion to monitor file changes and automatically run the corresponding Ruby specs. Ready to assist on any Ruby project, no setup needed!
 - [Shopify/limiter](https://github.com/Shopify/limiter) - Simple Ruby rate limiting mechanism.
 - [bibendi/activerecord-postgres_enum](https://github.com/bibendi/activerecord-postgres_enum) - Integrate PostgreSQL's enum data type into ActiveRecord's schema and migrations.
 - [fixrb/brutal](https://github.com/fixrb/brutal) - A code-first approach to automate the writing of unit tests.
@@ -1821,7 +1827,7 @@
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [tendersearls/tldr](https://github.com/tendersearls/tldr) - A Ruby test framework for people who don't have time for slow tests 💣💥
 - [test-prof/test-prof](https://github.com/test-prof/test-prof) - Ruby Tests Profiling Toolbox
-- [AlexB52/retest](https://github.com/AlexB52/retest) - A simple CLI to watch file changes and run their matching Ruby specs. Works on any ruby projects with no setup.
+- [AlexB52/retest](https://github.com/AlexB52/retest) - A trusty CLI companion to monitor file changes and automatically run the corresponding Ruby specs. Ready to assist on any Ruby project, no setup needed!
 
 ## twitter 
 
