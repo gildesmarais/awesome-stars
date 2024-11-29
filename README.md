@@ -39,6 +39,7 @@
 - [SCSS](#scss)
 - [Shell](#shell)
 - [Swift](#swift)
+- [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
@@ -208,7 +209,6 @@
 - [sindresorhus/alfred-emoj](https://github.com/sindresorhus/alfred-emoj) - Alfred 3 workflow to find relevant emoji from text
 - [dibollinger/CookieBlock](https://github.com/dibollinger/CookieBlock) - Repository for the CookieBlock browser extension, which automatically enforces user privacy policy on browser cookies.
 - [tgel0/crssnt](https://github.com/tgel0/crssnt) - 🥐  Open-source RSS feed generator for Google Sheets.
-- [oblador/react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for image source and full styling.
 - [hectahertz/react-native-typography](https://github.com/hectahertz/react-native-typography) - Pixel–perfect, native–looking typographic styles for React Native ✒️
 - [jefflau/jest-fetch-mock](https://github.com/jefflau/jest-fetch-mock) - Jest mock for fetch
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
@@ -677,6 +677,10 @@
 - [MainasuK/Song-Rating](https://github.com/MainasuK/Song-Rating) - macOS song rating app for Music.app and iTunes.app
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 
+## TeX 
+
+- [hendricius/the-sourdough-framework](https://github.com/hendricius/the-sourdough-framework) - Open source book dedicated to helping you to make the best possible sourdough bread at home.
+
 ## TypeScript 
 
 - [TylerFisher/sill](https://github.com/TylerFisher/sill) - Find the most popular links from your Mastodon/Bluesky networks
@@ -726,6 +730,7 @@
 - [plantain-00/type-coverage](https://github.com/plantain-00/type-coverage) - A CLI tool to check type coverage for typescript code
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [microsoft/clarity](https://github.com/microsoft/clarity) - A behavioral analytics library that uses dom mutations and user interactions to generate aggregated insights.
+- [oblador/react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for image source and full styling.
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [pavlitsky/vscode-yard](https://github.com/pavlitsky/vscode-yard) - YARD comments generator for Visual Studio Code
 - [WesleyAC/deeplinks](https://github.com/WesleyAC/deeplinks) - Simple deep links to any selection of text on your website.
