@@ -420,7 +420,7 @@
 - [ruby/ruby.wasm](https://github.com/ruby/ruby.wasm) - ruby.wasm is a collection of WebAssembly ports of the CRuby.
 - [patterns-ai-core/langchainrb](https://github.com/patterns-ai-core/langchainrb) - Build LLM-powered applications in Ruby
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
-- [timkaechele/rex](https://github.com/timkaechele/rex) - Migrated to my own git server
+- [timkaechele/rex](https://github.com/timkaechele/rex) - [Migrated to my own git server] Limit order book based exchange implementation
 - [reidmorrison/rails_semantic_logger](https://github.com/reidmorrison/rails_semantic_logger) - Rails Semantic Logger replaces the Rails default logger with Semantic Logger
 - [reidmorrison/semantic_logger](https://github.com/reidmorrison/semantic_logger) - Semantic Logger is a feature rich logging framework, and replacement for existing Ruby & Rails loggers.
 - [arbox/nlp-with-ruby](https://github.com/arbox/nlp-with-ruby) - Curated List: Practical Natural Language Processing done in Ruby
