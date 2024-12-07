@@ -1485,7 +1485,7 @@
 - [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️
 - [Shopify/ruby-lsp-rails](https://github.com/Shopify/ruby-lsp-rails) - A Ruby LSP add-on for Rails
 - [scenic-views/scenic](https://github.com/scenic-views/scenic) - Versioned database views for Rails
-- [weg-li/weg-li](https://github.com/weg-li/weg-li) - 📸 📝 ✊ weg.li: 1, 2, 3 - Macht die Bahn frei!
+- [weg-li/weg-li](https://github.com/weg-li/weg-li) - 📸 📝 ✊ Für sichere Radwege und freie Bürgersteige: www.weg.li
 - [test-prof/test-prof](https://github.com/test-prof/test-prof) - Ruby Tests Profiling Toolbox
 - [pawurb/rails-pg-extras](https://github.com/pawurb/rails-pg-extras) - Rails PostgreSQL database performance insights. Locks, index usage, buffer cache hit ratios, vacuum stats and more.
 - [palkan/isolator](https://github.com/palkan/isolator) - Detect non-atomic interactions within DB transactions
@@ -1570,7 +1570,7 @@
 - [stitchfix/stitches](https://github.com/stitchfix/stitches) - Create a Microservice in Rails with minimal ceremony
 - [ruby/ruby.wasm](https://github.com/ruby/ruby.wasm) - ruby.wasm is a collection of WebAssembly ports of the CRuby.
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
-- [timkaechele/rex](https://github.com/timkaechele/rex) - Migrated to my own git server
+- [timkaechele/rex](https://github.com/timkaechele/rex) - [Migrated to my own git server] Limit order book based exchange implementation
 - [arbox/nlp-with-ruby](https://github.com/arbox/nlp-with-ruby) - Curated List: Practical Natural Language Processing done in Ruby
 - [davishmcclurg/json_schemer](https://github.com/davishmcclurg/json_schemer) - JSON Schema validator. Supports drafts 4, 6, 7, 2019-09, 2020-12, OpenAPI 3.0, and OpenAPI 3.1.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
@@ -1585,7 +1585,7 @@
 - [krisleech/wisper](https://github.com/krisleech/wisper) - A micro library providing Ruby objects with Publish-Subscribe capabilities
 - [pavlitsky/vscode-yard](https://github.com/pavlitsky/vscode-yard) - YARD comments generator for Visual Studio Code
 - [castwide/solargraph](https://github.com/castwide/solargraph) - A Ruby language server.
-- [weg-li/weg-li](https://github.com/weg-li/weg-li) - 📸 📝 ✊ weg.li: 1, 2, 3 - Macht die Bahn frei!
+- [weg-li/weg-li](https://github.com/weg-li/weg-li) - 📸 📝 ✊ Für sichere Radwege und freie Bürgersteige: www.weg.li
 - [test-prof/test-prof](https://github.com/test-prof/test-prof) - Ruby Tests Profiling Toolbox
 - [knudmoeller/berlin_corona_cases](https://github.com/knudmoeller/berlin_corona_cases) - Scraper for the official dashboard with current Corona case numbers, traffic light indicators ("Corona-Ampel") and vaccination situation for Berlin.
 - [rkh/nii](https://github.com/rkh/nii) - Modern internationalization and localization solution for Ruby
