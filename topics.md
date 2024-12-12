@@ -213,6 +213,7 @@
 
 ## android 
 
+- [nova-video-player/aos-AVP](https://github.com/nova-video-player/aos-AVP) - NOVA opeN sOurce Video plAyer: main repository to build them all
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founde
 - [a-mabe/OpenHIIT](https://github.com/a-mabe/OpenHIIT) - :weight_lifting: :medal_sports: Open-source, cross platform HIIT and Tabata interval timer. Pull requests are appreciated!
@@ -1115,6 +1116,7 @@
 
 ## open-source 
 
+- [nova-video-player/aos-AVP](https://github.com/nova-video-player/aos-AVP) - NOVA opeN sOurce Video plAyer: main repository to build them all
 - [SAP/macOS-enterprise-privileges](https://github.com/SAP/macOS-enterprise-privileges) - For Mac users in enterprise environments, this application gives users control over the administration of their machine by elevating their level of access to administrator privileges on macOS.  Users 
 - [ParthJadhav/Verve](https://github.com/ParthJadhav/Verve) - Verve is a lightweight and blazingly fast launcher for accessing and opening applications, files and documents. ⚡
 - [spotter-application/spotter](https://github.com/spotter-application/spotter) - 🔭 Productivity tool to launch everything
