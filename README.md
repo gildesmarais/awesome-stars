@@ -7,7 +7,6 @@
 
 - [AppleScript](#applescript)
 - [C](#c)
-- [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
 - [Clojure](#clojure)
@@ -62,10 +61,6 @@
 - [pmq20/ruby-packer](https://github.com/pmq20/ruby-packer) - Packing your Ruby application into a single executable.
 - [vmg/rinku](https://github.com/vmg/rinku) - Autolinking. Ruby. Yes, that's pretty much it.
 - [nfroidure/ttf2woff2](https://github.com/nfroidure/ttf2woff2) - Convert ttf files to woff2.
-
-## C# # 
-
-- [mganss/CueGen](https://github.com/mganss/CueGen) - Create Rekordbox cue points from Mixed in Key
 
 ## C++ 
 
