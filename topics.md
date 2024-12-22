@@ -237,6 +237,7 @@
 
 ## api 
 
+- [tuwukee/jwt_sessions](https://github.com/tuwukee/jwt_sessions) - XSS/CSRF safe JWT auth designed for SPA
 - [opensubsonic/open-subsonic-api](https://github.com/opensubsonic/open-subsonic-api) - Repository hosting the definition and discussions of the Open Subsonic API
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 
@@ -1565,6 +1566,7 @@
 
 ## ruby 
 
+- [tuwukee/jwt_sessions](https://github.com/tuwukee/jwt_sessions) - XSS/CSRF safe JWT auth designed for SPA
 - [jeromedalbert/rubocop-obsession](https://github.com/jeromedalbert/rubocop-obsession) - RuboCop extension focused on higher-level concepts, like checking that code reads from top to bottom
 - [serpapi/nokolexbor](https://github.com/serpapi/nokolexbor) - High-performance HTML5 parser for Ruby based on Lexbor, with support for both CSS selectors and XPath.
 - [YusukeIwaki/puppeteer-ruby](https://github.com/YusukeIwaki/puppeteer-ruby) - A Ruby port of Puppeteer
