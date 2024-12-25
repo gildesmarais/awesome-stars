@@ -383,7 +383,6 @@
 - [open-discourse/open-discourse](https://github.com/open-discourse/open-discourse) - Open Discourse is the first fully comprehensive corpus of the plenary proceedings of the federal German Parliament (Bundestag).
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.
 - [IBM/MAX-Image-Resolution-Enhancer](https://github.com/IBM/MAX-Image-Resolution-Enhancer) - Upscale an image by a factor of 4, while generating photo-realistic details.
-- [spipm/Depix](https://github.com/spipm/Depix) - Recovers passwords from pixelized screenshots
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [mre/the-coding-interview](https://github.com/mre/the-coding-interview) - Programming exercises, code katas and puzzles for your job interview training - or just for fun.
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
