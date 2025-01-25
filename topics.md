@@ -1271,7 +1271,7 @@
 - [testdouble/suture](https://github.com/testdouble/suture) - 🏥 A Ruby gem that helps you refactor your legacy code
 - [AndreasArvidsson/MasvisOnline](https://github.com/AndreasArvidsson/MasvisOnline) - Online audio file mastering analyzer
 - [wez/atomicparsley](https://github.com/wez/atomicparsley) - AtomicParsley is a lightweight command line program for reading, parsing and setting metadata into MPEG-4 files, in particular, iTunes-style metadata.
-- [micke/valid_email2](https://github.com/micke/valid_email2) - ActiveModel validation for email. Including MX lookup and disposable email blacklist
+- [micke/valid_email2](https://github.com/micke/valid_email2) - ActiveModel validation for email. Including MX lookup and disposable email blocklist
 - [alexkay/spek](https://github.com/alexkay/spek) - Acoustic spectrum analyser
 - [rossmcdonald/telegraf](https://github.com/rossmcdonald/telegraf) - Ansible role for installing, configuring, and maintaining Telegraf
 - [html2rss/brand](https://github.com/html2rss/brand) - 🗃 Logos and icons (for now).
