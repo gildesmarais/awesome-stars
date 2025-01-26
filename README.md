@@ -359,6 +359,7 @@
 
 ## Python 
 
+- [explosion/spacy-models](https://github.com/explosion/spacy-models) - 💫  Models for the spaCy Natural Language Processing (NLP) library
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper
 - [ivbeg/newsworker](https://github.com/ivbeg/newsworker) - Advanced news feeds extractor and finder library. Helps to automatically extract news from websites without RSS/ATOM feeds
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
@@ -400,6 +401,8 @@
 
 ## Ruby 
 
+- [SamSaffron/memory_profiler](https://github.com/SamSaffron/memory_profiler) - memory_profiler for ruby
+- [jpmckinney/tf-idf-similarity](https://github.com/jpmckinney/tf-idf-similarity) - Ruby gem to calculate the similarity between texts using tf*idf
 - [tuwukee/jwt_sessions](https://github.com/tuwukee/jwt_sessions) - XSS/CSRF safe JWT auth designed for SPA
 - [flavorjones/sqlean-ruby](https://github.com/flavorjones/sqlean-ruby) - Precompiled SQLean extensions for SQLite, packaged for the Ruby ecosystem.
 - [laserlemon/figaro](https://github.com/laserlemon/figaro) - Simple Rails app configuration
