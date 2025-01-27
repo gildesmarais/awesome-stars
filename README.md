@@ -76,6 +76,7 @@
 
 ## CSS 
 
+- [lazaronixon/css-zero](https://github.com/lazaronixon/css-zero) - An opinionated CSS starter kit for your "nobuild" application
 - [jensimmons/cssremedy](https://github.com/jensimmons/cssremedy) - Start your project with a remedy for the technical debt of CSS.
 - [ghosh/microtip](https://github.com/ghosh/microtip) - 💬  Minimal, accessible, ultra lightweight css tooltip library. Just 1kb.
 - [HubSpot/odometer](https://github.com/HubSpot/odometer) - Smoothly transitions numbers with ease. #hubspot-open-source
@@ -176,6 +177,7 @@
 
 ## JavaScript 
 
+- [sabjorn/BandcampEnhancementSuite](https://github.com/sabjorn/BandcampEnhancementSuite) - A Chrome Extension providing extra functionality for Bandcamp
 - [thoughtbot/superglue](https://github.com/thoughtbot/superglue) - A productive library for Classic Rails, React and Redux
 - [steel-dev/steel-browser](https://github.com/steel-dev/steel-browser) - 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser instance that lets you automate the web without worrying about infrastructure.
 - [jono-hayward/jjjplay](https://github.com/jono-hayward/jjjplay) - An unofficial revival of the Triple J Plays Twitter account on Bluesky (and others later maybe)
@@ -401,6 +403,7 @@
 
 ## Ruby 
 
+- [noraj/OSCP-Exam-Report-Template-Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown) - :orange_book: Markdown Templates for Offensive Security OSCP, OSWE, OSCE, OSEE, OSWP exam report
 - [SamSaffron/memory_profiler](https://github.com/SamSaffron/memory_profiler) - memory_profiler for ruby
 - [jpmckinney/tf-idf-similarity](https://github.com/jpmckinney/tf-idf-similarity) - Ruby gem to calculate the similarity between texts using tf*idf
 - [tuwukee/jwt_sessions](https://github.com/tuwukee/jwt_sessions) - XSS/CSRF safe JWT auth designed for SPA
@@ -581,6 +584,8 @@
 
 ## Rust 
 
+- [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [Holzhaus/rekordcrate](https://github.com/Holzhaus/rekordcrate) - Library for parsing Pioneer Rekordbox device exports
 - [gjtorikian/commonmarker](https://github.com/gjtorikian/commonmarker) - Ruby wrapper for the comrak (CommonMark parser) Rust crate
 - [exaroth/liveboat](https://github.com/exaroth/liveboat) - Generate static pages from your RSS urls
@@ -690,6 +695,7 @@
 
 ## TypeScript 
 
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [PaulKinlan/full-rss](https://github.com/PaulKinlan/full-rss) - 
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [TylerFisher/sill](https://github.com/TylerFisher/sill) - Find the most popular links from your Mastodon/Bluesky networks
