@@ -6,7 +6,6 @@
 ## Contents
 
 - [ai](#ai)
-- [ajax](#ajax)
 - [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
@@ -202,10 +201,6 @@
 - [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️
 - [IBM/MAX-Image-Resolution-Enhancer](https://github.com/IBM/MAX-Image-Resolution-Enhancer) - Upscale an image by a factor of 4, while generating photo-realistic details.
-
-## ajax 
-
-- [nikolalsvk/render_async](https://github.com/nikolalsvk/render_async) - render_async lets you include pages asynchronously with AJAX
 
 ## analytics 
 
@@ -789,7 +784,6 @@
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [pay-rails/pay](https://github.com/pay-rails/pay) - Payments for Ruby on Rails apps
 - [stoplightio/spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI (v3.1, v3.0, and v2.0), Arazzo v1.0, as well as AsyncAPI v2.x.
-- [nikolalsvk/render_async](https://github.com/nikolalsvk/render_async) - render_async lets you include pages asynchronously with AJAX
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [nasa-gibs/worldview](https://github.com/nasa-gibs/worldview) - Interactive interface for browsing global, full-resolution satellite imagery
 - [mmccaff/PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) - Compiled list of links from "Ask HN: Where can I post my startup to get beta users?"
@@ -1183,6 +1177,8 @@
 
 ## others 
 
+- [planbnet/QuickNFO](https://github.com/planbnet/QuickNFO) - Quicklook Plugin for NFO files
+- [Naunter/BT_BlockLists](https://github.com/Naunter/BT_BlockLists) - Transmission block list
 - [mktg/AwesomeTraktor](https://github.com/mktg/AwesomeTraktor) - Awesome shit for Native Instruments Traktor++
 - [Shopify/erb_lint](https://github.com/Shopify/erb_lint) - Lint your ERB or HTML files
 - [sabjorn/BandcampEnhancementSuite](https://github.com/sabjorn/BandcampEnhancementSuite) - A Chrome Extension providing extra functionality for Bandcamp
@@ -1561,7 +1557,6 @@
 - [GeorgeKaraszi/ActiveRecordExtended](https://github.com/GeorgeKaraszi/ActiveRecordExtended) - Adds additional postgres functionality to an ActiveRecord / Rails application
 - [westonganger/spreadsheet_architect](https://github.com/westonganger/spreadsheet_architect) - Spreadsheet Architect is a library that allows you to create XLSX, ODS, or CSV spreadsheets super easily from ActiveRecord relations, plain Ruby objects, or tabular data.
 - [ledermann/unread](https://github.com/ledermann/unread) - Handle unread records and mark them as read with Ruby on Rails
-- [nikolalsvk/render_async](https://github.com/nikolalsvk/render_async) - render_async lets you include pages asynchronously with AJAX
 - [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system
 - [ddnexus/pagy](https://github.com/ddnexus/pagy) - 🏆 The Best Pagination Ruby Gem 🥇
 - [markets/invisible_captcha](https://github.com/markets/invisible_captcha) - 🍯 Unobtrusive and flexible spam protection for Rails apps
@@ -1743,7 +1738,7 @@
 - [wezm/rsspls](https://github.com/wezm/rsspls) - Generate RSS feeds from websites
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
-- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+- [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
@@ -1898,7 +1893,7 @@
 - [naggie/dstask](https://github.com/naggie/dstask) - Git powered terminal-based todo/note manager --  markdown note page per task. Single binary!
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
-- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+- [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
