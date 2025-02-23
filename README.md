@@ -407,6 +407,7 @@
 
 ## Ruby 
 
+- [tamatebako/tebako](https://github.com/tamatebako/tebako) - Tebako: an executable packager (for Ruby programs)
 - [postmodern/spidr](https://github.com/postmodern/spidr) - A versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.
 - [tonytonyjan/jaro_winkler](https://github.com/tonytonyjan/jaro_winkler) - Ruby & C implementation of Jaro-Winkler distance algorithm which supports UTF-8 string.
 - [ElMassimo/vite_ruby](https://github.com/ElMassimo/vite_ruby) - ⚡️ Vite.js in Ruby, bringing joy to your JavaScript experience
