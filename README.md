@@ -668,6 +668,7 @@
 
 ## Shell 
 
+- [ready4mars/n8n-render](https://github.com/ready4mars/n8n-render) - Deploying n8n on Render (render.com) hosting, using separate Web Service (with Docker and Persistent Disk Storage) + Postgres DB.
 - [Naunter/BT_BlockLists](https://github.com/Naunter/BT_BlockLists) - Transmission block list
 - [connorworley/cdj3k-root](https://github.com/connorworley/cdj3k-root) - Enable root SSH access on your CDJ-3000.
 - [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
@@ -708,6 +709,7 @@
 
 ## TypeScript 
 
+- [romansky/dom-to-semantic-markdown](https://github.com/romansky/dom-to-semantic-markdown) - DOM to Semantic-Markdown for use with LLMs
 - [mtayllan/vscode-ruby-run-tests](https://github.com/mtayllan/vscode-ruby-run-tests) - Quickly run tests on terminal
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [steel-dev/steel-browser](https://github.com/steel-dev/steel-browser) - 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser instance that lets you automate the web without worrying about infrastructure.
