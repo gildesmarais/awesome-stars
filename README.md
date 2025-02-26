@@ -690,6 +690,7 @@
 
 ## Swift 
 
+- [mikker/LeaderKey.app](https://github.com/mikker/LeaderKey.app) - The *faster than your launcher* launcher
 - [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [pascalpp/FreeRuler](https://github.com/pascalpp/FreeRuler) - A ruler application for Mac OS X
