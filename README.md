@@ -112,6 +112,7 @@
 
 ## Go 
 
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source
 - [sentriz/wrtag](https://github.com/sentriz/wrtag) - fast automated music tagging and organization based on MusicBrainz
 - [gugray/rss-parrot](https://github.com/gugray/rss-parrot) - Notifies Mastodon accounts about new posts in the RSS feeds they follow
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
@@ -403,7 +404,7 @@
 - [pideck/pideck](https://github.com/pideck/pideck) - Setup scripts for PiDeck
 - [liqd/a4-meinberlin](https://github.com/liqd/a4-meinberlin) - The central participation platform of the city of Berlin, Germany
 - [open-discourse/open-discourse](https://github.com/open-discourse/open-discourse) - Open Discourse is the first fully comprehensive corpus of the plenary proceedings of the federal German Parliament (Bundestag).
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
 - [IBM/MAX-Image-Resolution-Enhancer](https://github.com/IBM/MAX-Image-Resolution-Enhancer) - Upscale an image by a factor of 4, while generating photo-realistic details.
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [mre/the-coding-interview](https://github.com/mre/the-coding-interview) - Programming exercises, code katas and puzzles for your job interview training - or just for fun.
