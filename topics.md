@@ -1111,6 +1111,7 @@
 - [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
 - [Marekkon5/onetagger](https://github.com/Marekkon5/onetagger) - Music tagger for Windows, MacOS and Linux with Beatport, Discogs, Musicbrainz, Spotify, Traxsource and many other platforms support.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
+- [Polochon-street/bliss-rs](https://github.com/Polochon-street/bliss-rs) - A song analysis library for making playlists
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 - [exaile/moodbar](https://github.com/exaile/moodbar) - Audio timeline visualization
 - [cdown/mack](https://github.com/cdown/mack) - An opinionated, fast music organiser.
@@ -1242,7 +1243,7 @@
 - [connorworley/cdj3k-root](https://github.com/connorworley/cdj3k-root) - Enable root SSH access on your CDJ-3000.
 - [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org) - HTTP Archive's annual "State of the Web" report made by the web community
 - [exaroth/liveboat](https://github.com/exaroth/liveboat) - Generate static pages from your RSS urls
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/mEkkMXFG
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [workos/awesome-developer-experience](https://github.com/workos/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
 - [PaulKinlan/full-rss](https://github.com/PaulKinlan/full-rss) - 
 - [fivefilters/ftr-site-config](https://github.com/fivefilters/ftr-site-config) - Site-specific article extraction rules to aid content extractors, feed readers, and 'read later' applications.
@@ -1301,7 +1302,6 @@
 - [Droogans/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
 - [joschi/cassandra-blog-rss](https://github.com/joschi/cassandra-blog-rss) - Unofficial RSS feed for the Apache Cassandra blog
 - [gskinner/regexr](https://github.com/gskinner/regexr) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
-- [Polochon-street/bliss-rs](https://github.com/Polochon-street/bliss-rs) - A song analysis library for making playlists
 - [Shopify/pitchfork](https://github.com/Shopify/pitchfork) - 
 - [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet
 - [alfredapp/shortcuts-workflow](https://github.com/alfredapp/shortcuts-workflow) - Run installed macOS shortcuts
@@ -1791,6 +1791,7 @@
 - [ParthJadhav/Verve](https://github.com/ParthJadhav/Verve) - Verve is a lightweight and blazingly fast launcher for accessing and opening applications, files and documents. ⚡
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
+- [Polochon-street/bliss-rs](https://github.com/Polochon-street/bliss-rs) - A song analysis library for making playlists
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
