@@ -373,6 +373,7 @@
 
 ## Python 
 
+- [pgadmin-org/pgadmin4](https://github.com/pgadmin-org/pgadmin4) - pgAdmin is the most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world.
 - [fabriziosalmi/UglyFeed](https://github.com/fabriziosalmi/UglyFeed) - Retrieve, aggregate, filter, evaluate, rewrite and serve RSS feeds using Large Language Models for fun, research and learning purposes
 - [metabrainz/troi-recommendation-playground](https://github.com/metabrainz/troi-recommendation-playground) - A recommendation engine playground that should hopefully make playing with music recommendations easy.
 - [blastbeng/spotisub](https://github.com/blastbeng/spotisub) - Spotify to subsonic Playlist Generator and Importer
