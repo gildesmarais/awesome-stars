@@ -1685,6 +1685,7 @@
 
 ## ruby 
 
+- [ardatetikbey/Standalone-Ruby](https://github.com/ardatetikbey/Standalone-Ruby) - A project that allows Ruby projects to be opened without the need to install a Ruby interpreter.
 - [ksylvest/omniai](https://github.com/ksylvest/omniai) - OmniAI standardizes the APIs for multiple AI providers like OpenAI's Chat GPT, Mistral's LeChat, Claude's Anthropic, Google's Gemini and DeepSeek's Chat..
 - [julianrubisch/attractor](https://github.com/julianrubisch/attractor) - code complexity metrics visualization and exploration tool for ruby and javascript
 - [postmodern/spidr](https://github.com/postmodern/spidr) - A versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.
