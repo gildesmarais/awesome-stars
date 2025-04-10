@@ -558,7 +558,7 @@
 - [nathanl/searchlight](https://github.com/nathanl/searchlight) - Searchlight helps you build searches from options via Ruby methods that you write.
 - [gildesmarais/matomo-to-influx](https://github.com/gildesmarais/matomo-to-influx) - 📯Push Matomo stats to influxDB. Can optionally run in Docker.
 - [InfluxCommunity/influxdb-ruby](https://github.com/InfluxCommunity/influxdb-ruby) - Ruby client for InfluxDB
-- [influxdata/influxdb-rails](https://github.com/influxdata/influxdb-rails) - Ruby on Rails bindings to automatically write metrics into InfluxDB
+- [InfluxCommunity/influxdb-rails](https://github.com/InfluxCommunity/influxdb-rails) - Ruby on Rails bindings to automatically write metrics into InfluxDB
 - [ddnexus/pagy](https://github.com/ddnexus/pagy) - 🏆 The Best Pagination Ruby Gem 🥇
 - [glebm/i18n-tasks](https://github.com/glebm/i18n-tasks) - Manage translation and localization with static analysis, for Ruby i18n
 - [maid/maid](https://github.com/maid/maid) - Be lazy.  Let Maid clean up after you, based on rules you define.  Think of it as "Hazel for hackers".
@@ -733,6 +733,7 @@
 
 ## TypeScript 
 
+- [AykutSarac/jsoncrack-vscode](https://github.com/AykutSarac/jsoncrack-vscode) - VS Code extension of JSON Crack. Convert your JSON files into graphs with a single click and view them onto graphs.
 - [abstimmung-eu/abstimmung.eu](https://github.com/abstimmung-eu/abstimmung.eu) - 
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [tryanything-ai/anything](https://github.com/tryanything-ai/anything) - ✨ If Posthog built Zapier. Feature complete, Fullstack,  AI Automation framework made for users.
