@@ -50,6 +50,7 @@
 
 ## C 
 
+- [aubio/aubio](https://github.com/aubio/aubio) - a library for audio and music analysis
 - [planbnet/QuickNFO](https://github.com/planbnet/QuickNFO) - Quicklook Plugin for NFO files
 - [serpapi/nokolexbor](https://github.com/serpapi/nokolexbor) - High-performance HTML5 parser for Ruby based on Lexbor, with support for both CSS selectors and XPath.
 - [tukaani-project/xz](https://github.com/tukaani-project/xz) - XZ Utils
@@ -64,6 +65,8 @@
 
 ## C++ 
 
+- [egordm/libtempo](https://github.com/egordm/libtempo) - C++ / Python library with signal processing and tempo estimation utilities.
+- [MTG/essentia](https://github.com/MTG/essentia) - C++ library for audio and music analysis, description and synthesis, including Python bindings
 - [electronicarts/CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) - Command & Conquer: Remastered Collection
 - [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
 - [mikekazakov/nimble-commander](https://github.com/mikekazakov/nimble-commander) - Nimble Commander - dual-pane file manager for Mac
@@ -613,6 +616,7 @@
 
 ## Rust 
 
+- [korken89/biquad-rs](https://github.com/korken89/biquad-rs) - A Rust library for digital second order IIR filtrers, also known as biquads
 - [rpgp/rpgp](https://github.com/rpgp/rpgp) - OpenPGP implemented in pure Rust, permissively licensed
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
