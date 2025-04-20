@@ -228,7 +228,7 @@
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [nova-video-player/aos-AVP](https://github.com/nova-video-player/aos-AVP) - NOVA opeN sOurce Video plAyer: main repository to build them all
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - This is an archive, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [a-mabe/OpenHIIT](https://github.com/a-mabe/OpenHIIT) - :weight_lifting: :medal_sports: Open-source, cross platform HIIT and Tabata interval timer. Pull requests are appreciated!
 - [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
@@ -507,9 +507,9 @@
 
 - [egordm/libtempo](https://github.com/egordm/libtempo) - C++ / Python library with signal processing and tempo estimation utilities.
 - [mikekazakov/nimble-commander](https://github.com/mikekazakov/nimble-commander) - Nimble Commander - dual-pane file manager for Mac
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - This is an archive, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 
 ## cryptography 
 
@@ -803,7 +803,7 @@
 
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - This is an archive, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [fastruby/next_rails](https://github.com/fastruby/next_rails) - A toolkit to upgrade your next Rails application
@@ -877,7 +877,7 @@
 
 - [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - This is an archive, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [raivo-otp/ios-application](https://github.com/raivo-otp/ios-application) - A native, lightweight and secure one-time-password (OTP) client built for iOS; Raivo OTP!
 - [a-mabe/OpenHIIT](https://github.com/a-mabe/OpenHIIT) - :weight_lifting: :medal_sports: Open-source, cross platform HIIT and Tabata interval timer. Pull requests are appreciated!
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
@@ -896,7 +896,7 @@
 ## java 
 
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - This is an archive, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
@@ -925,7 +925,7 @@
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [sindresorhus/alfred-emoj](https://github.com/sindresorhus/alfred-emoj) - Alfred 3 workflow to find relevant emoji from text
 - [WesleyAC/deeplinks](https://github.com/WesleyAC/deeplinks) - Simple deep links to any selection of text on your website.
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [le0pard/pgtune](https://github.com/le0pard/pgtune) - Pgtune - tuning PostgreSQL config by your hardware
 - [apvarun/toastify-js](https://github.com/apvarun/toastify-js) - Pure JavaScript library for better notification messages
 - [mpetroff/pannellum](https://github.com/mpetroff/pannellum) - Pannellum is a lightweight, free, and open source panorama viewer for the web.
@@ -978,7 +978,7 @@
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [artichoke/artichoke](https://github.com/artichoke/artichoke) - 💎 Artichoke is a Ruby made with Rust
 
 ## latex 
@@ -1106,7 +1106,7 @@
 
 ## mobile 
 
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - This is an archive, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
@@ -1207,7 +1207,7 @@
 
 ## objective-c 
 
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - This is an archive, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 
 ## open-data 
@@ -1242,6 +1242,7 @@
 
 ## others 
 
+- [usernamehw/vscode-error-lens](https://github.com/usernamehw/vscode-error-lens) - VSCode extension that enhances display of errors and warnings.
 - [korken89/biquad-rs](https://github.com/korken89/biquad-rs) - A Rust library for digital second order IIR filtrers, also known as biquads
 - [licensee/licensed](https://github.com/licensee/licensed) - A Ruby gem to cache and verify the licenses of dependencies
 - [rileytestut/Delta](https://github.com/rileytestut/Delta) - Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.
@@ -1549,7 +1550,7 @@
 ## privacy 
 
 - [offen/offen](https://github.com/offen/offen) - Offen Fair Web Analytics
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - This is an archive, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
@@ -1836,7 +1837,7 @@
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [cdown/mack](https://github.com/cdown/mack) - An opinionated, fast music organiser.
 - [RustAudio/rodio](https://github.com/RustAudio/rodio) - Rust audio playback library
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
