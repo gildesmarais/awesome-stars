@@ -308,6 +308,7 @@
 
 ## Others 
 
+- [cherysun/chatgpt-siri-shortcut](https://github.com/cherysun/chatgpt-siri-shortcut) - Talk to ChatGPT with Siri shortcuts on iOS, macOS, and watchOS devices. This open-source project is lightweight and highly customizable.
 - [22a/slack-github-emoji](https://github.com/22a/slack-github-emoji) - Github emoji for Slack
 - [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) - Get PROXY List  that gets updated everyday
 - [classcompliant/awesome-dj-producer](https://github.com/classcompliant/awesome-dj-producer) - Manually curated collection of tools, resources and tutorials for nerdy DJs and Producers.
@@ -526,6 +527,7 @@
 - [ankane/disco](https://github.com/ankane/disco) - Recommendations for Ruby and Rails using collaborative filtering
 - [shlima/health_bit](https://github.com/shlima/health_bit) - Tiny health check of Rack apps like Rails, Sinatra for use with uptime checking systems like Kubernetes, Docker or Uptimerobot
 - [ice-cube-ruby/ice_cube](https://github.com/ice-cube-ruby/ice_cube) - Ruby Date Recurrence Library - Allows easy creation of recurrence rules and fast querying
+- [gildesmarais/dotfiles](https://github.com/gildesmarais/dotfiles) - 🤯 Collection of files whose names are supposed to begin with a dot. But they don't in this repo. rcm handles the dots…
 - [serradura/u-case](https://github.com/serradura/u-case) - Represent use cases in a simple and powerful way while writing modular, expressive and sequentially logical code.
 - [AaronC81/sord](https://github.com/AaronC81/sord) - Convert YARD docs to Sorbet RBI and Ruby 3/Steep RBS files
 - [jrochkind/attr_json](https://github.com/jrochkind/attr_json) - Serialized json-hash-backed ActiveRecord attributes, super smooth
@@ -616,6 +618,8 @@
 
 ## Rust 
 
+- [TianyiShi2001/audiotags](https://github.com/TianyiShi2001/audiotags) - Unified IO for different types of audio metadata
+- [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [korken89/biquad-rs](https://github.com/korken89/biquad-rs) - A Rust library for digital second order IIR filtrers, also known as biquads
 - [rpgp/rpgp](https://github.com/rpgp/rpgp) - OpenPGP implemented in pure Rust, permissively licensed
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
@@ -707,7 +711,6 @@
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
 - [AlexanderWillner/deepl-alfred-workflow2](https://github.com/AlexanderWillner/deepl-alfred-workflow2) - DeepL Alfred Workflow
-- [gildesmarais/dotfiles](https://github.com/gildesmarais/dotfiles) - 🤯 Collection of files whose names are supposed to begin with a dot. But they don't in this repo. rcm handles the dots…
 - [code-lever/asdf-rust](https://github.com/code-lever/asdf-rust) - Rust plugin for the asdf version manager
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [opengapps/opengapps](https://github.com/opengapps/opengapps) - The main repository of the Open GApps Project
