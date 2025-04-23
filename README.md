@@ -252,7 +252,7 @@
 - [YozhikM/stylelint-a11y](https://github.com/YozhikM/stylelint-a11y) - Plugin for stylelint with a11y rules
 - [glidejs/glide](https://github.com/glidejs/glide) - A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more
 - [sachinchoolur/lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) - Full featured JavaScript image & video gallery. No dependencies
-- [thcolin/oleoo](https://github.com/thcolin/oleoo) - 🎟💸☠️ Parse scene / p2p release name, return object with title, tags and flags
+- [thcolin/oleoo](https://github.com/thcolin/oleoo) - 🏴‍☠️✨🎟 Oleoo - Scene/P2P/Warez release name parser
 - [jdan/tota11y](https://github.com/jdan/tota11y) - an accessibility (a11y) visualization toolkit
 - [basecamp/local_time](https://github.com/basecamp/local_time) - Rails engine for cache-friendly, client-side local time
 - [postlight/parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
@@ -359,7 +359,7 @@
 - [hail2u/html-best-practices](https://github.com/hail2u/html-best-practices) - For writing maintainable and scalable HTML documents
 - [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
 - [mmccaff/PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) - Compiled list of links from "Ask HN: Where can I post my startup to get beta users?"
-- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
+- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 - [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
@@ -741,6 +741,7 @@
 
 ## TypeScript 
 
+- [holochain-apps/volla-messages](https://github.com/holochain-apps/volla-messages) - Chat app for the Volla ecosystem!
 - [usernamehw/vscode-error-lens](https://github.com/usernamehw/vscode-error-lens) - VSCode extension that enhances display of errors and warnings.
 - [AykutSarac/jsoncrack-vscode](https://github.com/AykutSarac/jsoncrack-vscode) - VS Code extension of JSON Crack. Convert your JSON files into graphs with a single click and view them onto graphs.
 - [abstimmung-eu/abstimmung.eu](https://github.com/abstimmung-eu/abstimmung.eu) - 
