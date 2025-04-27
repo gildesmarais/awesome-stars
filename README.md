@@ -619,13 +619,13 @@
 
 ## Rust 
 
-- [alexykn/spm](https://github.com/alexykn/spm) - Rust based package manager for macOS
+- [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
+- [alexykn/sp](https://github.com/alexykn/sp) - Rust based package manager for macOS
 - [TianyiShi2001/audiotags](https://github.com/TianyiShi2001/audiotags) - Unified IO for different types of audio metadata
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [korken89/biquad-rs](https://github.com/korken89/biquad-rs) - A Rust library for digital second order IIR filtrers, also known as biquads
 - [rpgp/rpgp](https://github.com/rpgp/rpgp) - OpenPGP implemented in pure Rust, permissively licensed
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [Marekkon5/onetagger](https://github.com/Marekkon5/onetagger) - Music tagger for Windows, MacOS and Linux with Beatport, Discogs, Musicbrainz, Spotify, Traxsource and many other platforms support.
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
