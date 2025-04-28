@@ -376,7 +376,7 @@
 - [aubio/aubio](https://github.com/aubio/aubio) - a library for audio and music analysis
 - [tukaani-project/xz](https://github.com/tukaani-project/xz) - XZ Utils
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
-- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [eggheads/eggdrop](https://github.com/eggheads/eggdrop) - The Eggdrop IRC Bot
@@ -433,6 +433,7 @@
 
 ## cli 
 
+- [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
@@ -509,7 +510,7 @@
 - [egordm/libtempo](https://github.com/egordm/libtempo) - C++ / Python library with signal processing and tempo estimation utilities.
 - [mikekazakov/nimble-commander](https://github.com/mikekazakov/nimble-commander) - Nimble Commander - dual-pane file manager for Mac
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
-- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 
 ## cryptography 
@@ -518,7 +519,7 @@
 
 ## csharp 
 
-- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 
 ## css 
 
@@ -650,7 +651,7 @@
 
 ## dotnet 
 
-- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 
 ## education 
 
@@ -663,7 +664,7 @@
 
 ## elixir 
 
-- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [signdict/website](https://github.com/signdict/website) - A sign language dictionary
 
@@ -727,6 +728,7 @@
 
 ## git 
 
+- [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
@@ -759,7 +761,7 @@
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
 - [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management.
-- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
@@ -835,11 +837,12 @@
 
 ## haskell 
 
-- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
 ## homebrew 
 
+- [alexykn/sp](https://github.com/alexykn/sp) - Rust based package manager for macOS
 - [gildesmarais/dotfiles](https://github.com/gildesmarais/dotfiles) - 🤯 Collection of files whose names are supposed to begin with a dot. But they don't in this repo. rcm handles the dots…
 
 ## html 
@@ -898,7 +901,7 @@
 
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
-- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [portfolio-performance/portfolio](https://github.com/portfolio-performance/portfolio) - Track and evaluate the performance of your investment portfolio across stocks, cryptocurrencies, and other assets.
@@ -909,7 +912,7 @@
 - [yairEO/tagify](https://github.com/yairEO/tagify) - 🔖 lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue
 - [thoughtbot/superglue](https://github.com/thoughtbot/superglue) - A productive library for Classic Rails, React and Redux
 - [grammyjs/grammY](https://github.com/grammyjs/grammY) - The Telegram Bot Framework.
-- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [webpro-nl/knip](https://github.com/webpro-nl/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
@@ -1055,6 +1058,7 @@
 
 ## macos 
 
+- [alexykn/sp](https://github.com/alexykn/sp) - Rust based package manager for macOS
 - [mikker/LeaderKey.app](https://github.com/mikker/LeaderKey.app) - The *faster than your launcher* launcher
 - [mikekazakov/nimble-commander](https://github.com/mikekazakov/nimble-commander) - Nimble Commander - dual-pane file manager for Mac
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -1193,7 +1197,7 @@
 
 ## node 
 
-- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [postlight/parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 
@@ -1244,6 +1248,7 @@
 
 ## others 
 
+- [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari.
 - [holochain-apps/volla-messages](https://github.com/holochain-apps/volla-messages) - Chat app for the Volla ecosystem!
 - [cherysun/chatgpt-siri-shortcut](https://github.com/cherysun/chatgpt-siri-shortcut) - Talk to ChatGPT with Siri shortcuts on iOS, macOS, and watchOS devices. This open-source project is lightweight and highly customizable.
 - [TianyiShi2001/audiotags](https://github.com/TianyiShi2001/audiotags) - Unified IO for different types of audio metadata
@@ -1264,7 +1269,6 @@
 - [ready4mars/n8n-render](https://github.com/ready4mars/n8n-render) - Deploying n8n on Render (render.com) hosting, using separate Web Service (with Docker and Persistent Disk Storage) + Postgres DB.
 - [romansky/dom-to-semantic-markdown](https://github.com/romansky/dom-to-semantic-markdown) - DOM to Semantic-Markdown for use with LLMs
 - [tamatebako/tebako](https://github.com/tamatebako/tebako) - Tebako: an executable packager (for Ruby programs)
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [planbnet/QuickNFO](https://github.com/planbnet/QuickNFO) - Quicklook Plugin for NFO files
 - [Naunter/BT_BlockLists](https://github.com/Naunter/BT_BlockLists) - Transmission block list
 - [mktg/AwesomeTraktor](https://github.com/mktg/AwesomeTraktor) - Awesome shit for Native Instruments Traktor++
@@ -1510,6 +1514,7 @@
 
 ## package-manager 
 
+- [alexykn/sp](https://github.com/alexykn/sp) - Rust based package manager for macOS
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 
 ## parsing 
@@ -1600,7 +1605,7 @@
 - [rss-translator/RSS-Translator](https://github.com/rss-translator/RSS-Translator) - 开源、简洁、可自部署的RSS翻译器 | Translate RSS feeds into your language!
 - [AndyTheFactory/newspaper4k](https://github.com/AndyTheFactory/newspaper4k) - 📰 Newspaper4k a fork of the beloved Newspaper3k. Extraction of articles, titles, and metadata from news websites.
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
-- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
@@ -1739,7 +1744,7 @@
 - [timkaechele/rex](https://github.com/timkaechele/rex) - [Migrated to my own git server] Limit order book based exchange implementation
 - [arbox/nlp-with-ruby](https://github.com/arbox/nlp-with-ruby) - Curated List: Practical Natural Language Processing done in Ruby
 - [davishmcclurg/json_schemer](https://github.com/davishmcclurg/json_schemer) - JSON Schema validator. Supports drafts 4, 6, 7, 2019-09, 2020-12, OpenAPI 3.0, and OpenAPI 3.1.
-- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now with Responses API + DeepSeek!
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [github/scientist](https://github.com/github/scientist) - :microscope: A Ruby library for carefully refactoring critical paths.
@@ -1812,6 +1817,7 @@
 
 ## rust 
 
+- [alexykn/sp](https://github.com/alexykn/sp) - Rust based package manager for macOS
 - [rpgp/rpgp](https://github.com/rpgp/rpgp) - OpenPGP implemented in pure Rust, permissively licensed
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [Marekkon5/onetagger](https://github.com/Marekkon5/onetagger) - Music tagger for Windows, MacOS and Linux with Beatport, Discogs, Musicbrainz, Spotify, Traxsource and many other platforms support.
@@ -1828,7 +1834,7 @@
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
 - [makarski/gtasks-rs](https://github.com/makarski/gtasks-rs) - Rust Client for Google Tasks API
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
-- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [ParthJadhav/Verve](https://github.com/ParthJadhav/Verve) - Verve is a lightweight and blazingly fast launcher for accessing and opening applications, files and documents. ⚡
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
@@ -1910,7 +1916,7 @@
 ## serverless 
 
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.
-- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 
 ## shell 
 
@@ -2141,7 +2147,7 @@
 
 ## zig 
 
-- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 
