@@ -173,6 +173,7 @@
 - [sql](#sql)
 - [sql-server](#sql-server)
 - [sqlite](#sqlite)
+- [statistics](#statistics)
 - [support](#support)
 - [svelte](#svelte)
 - [swift](#swift)
@@ -344,6 +345,7 @@
 
 ## bash 
 
+- [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin) - A multi-shell completion binary.
 - [naggie/dstask](https://github.com/naggie/dstask) - Git powered terminal-based todo/note manager --  markdown note page per task. Single binary!
@@ -690,7 +692,7 @@
 
 ## finance 
 
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 
 ## firebase 
 
@@ -728,6 +730,7 @@
 
 ## git 
 
+- [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
@@ -842,7 +845,7 @@
 
 ## homebrew 
 
-- [alexykn/sp](https://github.com/alexykn/sp) - Rust based package manager for macOS
+- [alexykn/sps](https://github.com/alexykn/sps) - Rust based package manager for macOS
 - [gildesmarais/dotfiles](https://github.com/gildesmarais/dotfiles) - 🤯 Collection of files whose names are supposed to begin with a dot. But they don't in this repo. rcm handles the dots…
 
 ## html 
@@ -1058,7 +1061,8 @@
 
 ## macos 
 
-- [alexykn/sp](https://github.com/alexykn/sp) - Rust based package manager for macOS
+- [FuzzyIdeas/Clop](https://github.com/FuzzyIdeas/Clop) - Clipboard optimizer for macOS
+- [alexykn/sps](https://github.com/alexykn/sps) - Rust based package manager for macOS
 - [mikker/LeaderKey.app](https://github.com/mikker/LeaderKey.app) - The *faster than your launcher* launcher
 - [mikekazakov/nimble-commander](https://github.com/mikekazakov/nimble-commander) - Nimble Commander - dual-pane file manager for Mac
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -1248,6 +1252,7 @@
 
 ## others 
 
+- [kortina/vscode-markdown-notes](https://github.com/kortina/vscode-markdown-notes) - Install from: https://ark.dance/md-notes
 - [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari.
 - [holochain-apps/volla-messages](https://github.com/holochain-apps/volla-messages) - Chat app for the Volla ecosystem!
 - [cherysun/chatgpt-siri-shortcut](https://github.com/cherysun/chatgpt-siri-shortcut) - Talk to ChatGPT with Siri shortcuts on iOS, macOS, and watchOS devices. This open-source project is lightweight and highly customizable.
@@ -1514,7 +1519,7 @@
 
 ## package-manager 
 
-- [alexykn/sp](https://github.com/alexykn/sp) - Rust based package manager for macOS
+- [alexykn/sps](https://github.com/alexykn/sps) - Rust based package manager for macOS
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 
 ## parsing 
@@ -1538,7 +1543,7 @@
 ## postgresql 
 
 - [pgadmin-org/pgadmin4](https://github.com/pgadmin-org/pgadmin4) - pgAdmin is the most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world.
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 - [adelsz/pgtyped](https://github.com/adelsz/pgtyped) - pgTyped - Typesafe SQL in TypeScript
 - [pawurb/rails-pg-extras](https://github.com/pawurb/rails-pg-extras) - Rails PostgreSQL database performance insights. Locks, index usage, buffer cache hit ratios, vacuum stats and more.
@@ -1734,7 +1739,7 @@
 - [jeromedalbert/rubocop-obsession](https://github.com/jeromedalbert/rubocop-obsession) - RuboCop extension focused on higher-level concepts, like checking that code reads from top to bottom
 - [serpapi/nokolexbor](https://github.com/serpapi/nokolexbor) - High-performance HTML5 parser for Ruby based on Lexbor, with support for both CSS selectors and XPath.
 - [YusukeIwaki/puppeteer-ruby](https://github.com/YusukeIwaki/puppeteer-ruby) - A Ruby port of Puppeteer
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [gbuesing/pca](https://github.com/gbuesing/pca) - Principal component analysis (PCA) in Ruby
 - [AaronLasseigne/active_interaction](https://github.com/AaronLasseigne/active_interaction) - :briefcase: Manage application specific business logic.
 - [sparklemotion/mechanize](https://github.com/sparklemotion/mechanize) - Mechanize is a ruby library that makes automated web interaction easy.
@@ -1817,7 +1822,7 @@
 
 ## rust 
 
-- [alexykn/sp](https://github.com/alexykn/sp) - Rust based package manager for macOS
+- [alexykn/sps](https://github.com/alexykn/sps) - Rust based package manager for macOS
 - [rpgp/rpgp](https://github.com/rpgp/rpgp) - OpenPGP implemented in pure Rust, permissively licensed
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [Marekkon5/onetagger](https://github.com/Marekkon5/onetagger) - Music tagger for Windows, MacOS and Linux with Beatport, Discogs, Musicbrainz, Spotify, Traxsource and many other platforms support.
@@ -1920,6 +1925,7 @@
 
 ## shell 
 
+- [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin) - A multi-shell completion binary.
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
@@ -1952,6 +1958,10 @@
 - [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management.
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+
+## statistics 
+
+- [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 
 ## support 
 
