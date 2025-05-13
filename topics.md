@@ -179,6 +179,7 @@
 - [svelte](#svelte)
 - [swift](#swift)
 - [swiftui](#swiftui)
+- [tailwind](#tailwind)
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
 - [telegram-bot](#telegram-bot)
@@ -188,6 +189,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [ui](#ui)
 - [vagrant](#vagrant)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
@@ -415,6 +417,7 @@
 
 ## chrome 
 
+- [bamdadfr/bandcamp-plus--extension](https://github.com/bamdadfr/bandcamp-plus--extension) - Add multiple features to bandcamp.com
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
 - [zombieFox/nightTab](https://github.com/zombieFox/nightTab) - A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab.
@@ -424,6 +427,7 @@
 
 ## chrome-extension 
 
+- [bamdadfr/bandcamp-plus--extension](https://github.com/bamdadfr/bandcamp-plus--extension) - Add multiple features to bandcamp.com
 - [lasuillard/raindrop-sync-chrome](https://github.com/lasuillard/raindrop-sync-chrome) - Chrome browser extension for syncing bookmarks with Raindrop.
 - [notlmn/copy-as-markdown](https://github.com/notlmn/copy-as-markdown) - 🖱 Browser extension to copy hyperlinks, images, and selected text as Markdown with GFM support
 - [bramus/mastodon-redirector](https://github.com/bramus/mastodon-redirector) - View Mastodon profiles on your Mastodon instance
@@ -701,6 +705,7 @@
 
 ## firefox 
 
+- [bamdadfr/bandcamp-plus--extension](https://github.com/bamdadfr/bandcamp-plus--extension) - Add multiple features to bandcamp.com
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
 - [zombieFox/nightTab](https://github.com/zombieFox/nightTab) - A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab.
@@ -912,6 +917,7 @@
 
 ## javascript 
 
+- [bamdadfr/bandcamp-plus--extension](https://github.com/bamdadfr/bandcamp-plus--extension) - Add multiple features to bandcamp.com
 - [julianrubisch/attractor](https://github.com/julianrubisch/attractor) - code complexity metrics visualization and exploration tool for ruby and javascript
 - [yairEO/tagify](https://github.com/yairEO/tagify) - 🔖 lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue
 - [thoughtbot/superglue](https://github.com/thoughtbot/superglue) - A productive library for Classic Rails, React and Redux
@@ -1995,6 +2001,10 @@
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [oblador/hush](https://github.com/oblador/hush) - 🤫 Noiseless Browsing – Content Blocker for Safari
 
+## tailwind 
+
+- [nickjj/docker-rails-example](https://github.com/nickjj/docker-rails-example) - A production ready example Rails app that's using Docker and Docker Compose.
+
 ## tailwindcss 
 
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
@@ -2053,6 +2063,7 @@
 
 ## typescript 
 
+- [bamdadfr/bandcamp-plus--extension](https://github.com/bamdadfr/bandcamp-plus--extension) - Add multiple features to bandcamp.com
 - [AykutSarac/jsoncrack-vscode](https://github.com/AykutSarac/jsoncrack-vscode) - VS Code extension of JSON Crack. Convert your JSON files into graphs with a single click and view them onto graphs.
 - [lasuillard/raindrop-sync-chrome](https://github.com/lasuillard/raindrop-sync-chrome) - Chrome browser extension for syncing bookmarks with Raindrop.
 - [grammyjs/grammY](https://github.com/grammyjs/grammY) - The Telegram Bot Framework.
@@ -2086,6 +2097,15 @@
 ## ubuntu 
 
 - [gildesmarais/ansible-5-minutes-server](https://github.com/gildesmarais/ansible-5-minutes-server) - 🚀 Setup an Ubuntu server with common security configurations in less than 5 minutes.
+
+## ui 
+
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+- [openui/open-ui](https://github.com/openui/open-ui) - Maintain an open standard for UI and promote its adherence and adoption.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+- [oblador/react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for image source and full styling.
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 
 ## vagrant 
 
