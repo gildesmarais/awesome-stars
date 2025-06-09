@@ -813,7 +813,7 @@
 - [ridedott/merge-me-action](https://github.com/ridedott/merge-me-action) - Automatically merges Pull Requests.
 - [oakserver/oak](https://github.com/oakserver/oak) - A middleware framework for handling HTTP with Deno, Node, Bun and Cloudflare Workers 🐿️ 🦕
 - [brimdata/react-arborist](https://github.com/brimdata/react-arborist) - The complete tree view component for React
-- [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
+- [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
 - [adelsz/pgtyped](https://github.com/adelsz/pgtyped) - pgTyped - Typesafe SQL in TypeScript
 - [soutaro/steep-vscode](https://github.com/soutaro/steep-vscode) - VSCode extension for Steep
