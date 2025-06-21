@@ -1281,6 +1281,7 @@
 
 ## others 
 
+- [akhilkalepu/record-stacks](https://github.com/akhilkalepu/record-stacks) - A web app which analyzes your DJ software's database file and provides analytics on your digital record collection.
 - [johansan/notebook-navigator](https://github.com/johansan/notebook-navigator) - Replace the default file explorer with a clean two-pane interface featuring folder tree, tag browsing, file previews, keyboard navigation, drag-and-drop, pinned notes, and customizable display options
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon.
 - [seatsurfing/seatsurfing](https://github.com/seatsurfing/seatsurfing) - Desk sharing, room reservation, free seating, and co-working in your organization.
@@ -1773,7 +1774,7 @@
 
 ## ruby 
 
-- [ardatetikbey/Standalone-Ruby](https://github.com/ardatetikbey/Standalone-Ruby) - A project that allows you to convert your Ruby projects to exe files and make them independent of Ruby installations.
+- [ardatetikbey/Standalone-Ruby](https://github.com/ardatetikbey/Standalone-Ruby) - Standalone-Ruby allows you to make your projects independent of Ruby installations.
 - [ksylvest/omniai](https://github.com/ksylvest/omniai) - OmniAI standardizes the APIs for multiple AI providers like OpenAI's Chat GPT, Mistral's LeChat, Claude's Anthropic, Google's Gemini and DeepSeek's Chat..
 - [julianrubisch/attractor](https://github.com/julianrubisch/attractor) - code complexity metrics visualization and exploration tool for ruby and javascript
 - [postmodern/spidr](https://github.com/postmodern/spidr) - A versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.
