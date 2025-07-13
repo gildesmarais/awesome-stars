@@ -313,7 +313,6 @@
 
 ## Others 
 
-- [cherysun/chatgpt-siri-shortcut](https://github.com/cherysun/chatgpt-siri-shortcut) - Talk to ChatGPT with Siri shortcuts on iOS, macOS, and watchOS devices. This open-source project is lightweight and highly customizable.
 - [22a/slack-github-emoji](https://github.com/22a/slack-github-emoji) - Github emoji for Slack
 - [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) - Get PROXY List  that gets updated everyday
 - [classcompliant/awesome-dj-producer](https://github.com/classcompliant/awesome-dj-producer) - Manually curated collection of tools, resources and tutorials for nerdy DJs and Producers.
@@ -762,7 +761,6 @@
 - [Developer-Mike/obsidian-advanced-canvas](https://github.com/Developer-Mike/obsidian-advanced-canvas) - ⚡ Supercharge your canvas experience! Graph view integration and unlimited styling options empower flowcharts, dynamic presentations, and interconnected knowledge.
 - [bamdadfr/bandcamp-plus--extension](https://github.com/bamdadfr/bandcamp-plus--extension) - Add multiple features to bandcamp.com
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
-- [obsidian-tasks-group/obsidian-tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) - Task management for the Obsidian knowledge base.
 - [kortina/vscode-markdown-notes](https://github.com/kortina/vscode-markdown-notes) - Install from: https://ark.dance/md-notes
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [holochain-apps/volla-messages](https://github.com/holochain-apps/volla-messages) - Chat app for the Volla ecosystem!
