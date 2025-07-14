@@ -502,7 +502,6 @@
 - [jeremyevans/roda-sequel-stack](https://github.com/jeremyevans/roda-sequel-stack) - Application Skeleton For Roda/Sequel stack
 - [fastruby/skunk](https://github.com/fastruby/skunk) - A SkunkScore Calculator for Ruby Code -- Find the most complicated code without test coverage!
 - [dejan/auto_html](https://github.com/dejan/auto_html) - Collection of filters that transform plain text into HTML code.
-- [castwide/solargraph](https://github.com/castwide/solargraph) - A Ruby language server.
 - [weg-li/weg-li](https://github.com/weg-li/weg-li) - 📸 📝 ✊ Für sichere Radwege und freie Bürgersteige: www.weg.li
 - [test-prof/test-prof](https://github.com/test-prof/test-prof) - Ruby Tests Profiling Toolbox
 - [pawurb/rails-pg-extras](https://github.com/pawurb/rails-pg-extras) - Rails PostgreSQL database performance insights. Locks, index usage, buffer cache hit ratios, vacuum stats and more.
