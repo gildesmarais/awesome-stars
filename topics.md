@@ -688,7 +688,7 @@
 
 ## emulator 
 
-- [gopher64/gopher64](https://github.com/gopher64/gopher64) - N64 emulator written in Rust
+- [gopher64/gopher64](https://github.com/gopher64/gopher64) - Highly compatible N64 emulator
 
 ## es6 
 
@@ -732,7 +732,7 @@
 ## game 
 
 - [widelands/widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and d
-- [gopher64/gopher64](https://github.com/gopher64/gopher64) - N64 emulator written in Rust
+- [gopher64/gopher64](https://github.com/gopher64/gopher64) - Highly compatible N64 emulator
 
 ## gh-extension 
 
@@ -1885,6 +1885,7 @@
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
 - [makarski/gtasks-rs](https://github.com/makarski/gtasks-rs) - Rust Client for Google Tasks API
+- [gopher64/gopher64](https://github.com/gopher64/gopher64) - Highly compatible N64 emulator
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [ParthJadhav/Verve](https://github.com/ParthJadhav/Verve) - Verve is a lightweight and blazingly fast launcher for accessing and opening applications, files and documents. ⚡
