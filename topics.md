@@ -206,6 +206,7 @@
 - [windows](#windows)
 - [xml](#xml)
 - [zig](#zig)
+- [zsh](#zsh)
 
 ## ai 
 
@@ -753,6 +754,7 @@
 
 ## git 
 
+- [nutthead/samoyed](https://github.com/nutthead/samoyed) - An ultra-fast Rust-based alternative to Husky
 - [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
@@ -1127,6 +1129,7 @@
 
 ## markdown 
 
+- [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [noraj/OSCP-Exam-Report-Template-Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown) - :orange_book: Markdown Templates for Offensive Security OSCP, OSWE, OSCE, OSEE, OSWP exam report
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
@@ -1476,12 +1479,11 @@
 - [hanshack/car-tagging-data-berlin](https://github.com/hanshack/car-tagging-data-berlin) - This repo is about the **data** collected by volunteers using a map tagging tool which was developed to tag cars on aerial images from the city of Berlin.
 - [kernow/shortcode](https://github.com/kernow/shortcode) - A Wordpress style shortcode parser ruby gem that's easily extendable
 - [unused-code/unused](https://github.com/unused-code/unused) - A tool to identify potentially unused code.
-- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [ankane/rollup](https://github.com/ankane/rollup) - Rollup time-series data in Rails
 - [fnando/i18n-js](https://github.com/fnando/i18n-js) - It's a small library to provide the I18n translations on the Javascript. It comes with Rails support.
 - [vmg/rinku](https://github.com/vmg/rinku) - Autolinking. Ruby. Yes, that's pretty much it.
 - [grosser/parallel](https://github.com/grosser/parallel) - Ruby: parallel processing made simple and fast
-- [html2rss/html2rss.github.io](https://github.com/html2rss/html2rss.github.io) - The website for html2rss. Provides an overview of available feed configs and more.
+- [html2rss/html2rss.github.io](https://github.com/html2rss/html2rss.github.io) - Our website. Serves project documentation and showcases out of the box available feeds.
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [BloombergGraphics/whatiscode](https://github.com/BloombergGraphics/whatiscode) - Paul Ford’s “What Is Code?”
 - [ankane/prophet-ruby](https://github.com/ankane/prophet-ruby) - Time series forecasting for Ruby
@@ -1632,7 +1634,7 @@
 
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [remvze/nothing](https://github.com/remvze/nothing) - 🕳 Simply do nothing.
+- [awwwsm/nothing](https://github.com/awwwsm/nothing) - 🌱 | Simply do nothing and just be.
 - [carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin) - A multi-shell completion binary.
 - [dteoh/devdocs-macos](https://github.com/dteoh/devdocs-macos) - An unofficial DevDocs API Documentation viewer for macOS.
 - [spotter-application/spotter](https://github.com/spotter-application/spotter) - 🔭 Productivity tool to launch everything
@@ -1881,6 +1883,7 @@
 
 ## rust 
 
+- [nutthead/samoyed](https://github.com/nutthead/samoyed) - An ultra-fast Rust-based alternative to Husky
 - [richardscollin/tmux-rs](https://github.com/richardscollin/tmux-rs) - A Rust port of tmux
 - [alexykn/sps](https://github.com/alexykn/sps) - Rust based package manager for macOS
 - [rpgp/rpgp](https://github.com/rpgp/rpgp) - OpenPGP implemented in pure Rust, permissively licensed
@@ -2245,6 +2248,17 @@
 
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+
+## zsh 
+
+- [carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin) - A multi-shell completion binary.
+- [naggie/dstask](https://github.com/naggie/dstask) - Git powered terminal-based todo/note manager --  markdown note page per task. Single binary!
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [gildesmarais/dotfiles](https://github.com/gildesmarais/dotfiles) - 🤯 Collection of files whose names are supposed to begin with a dot. But they don't in this repo. rcm handles the dots…
+- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 
 
 ## License
