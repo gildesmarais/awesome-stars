@@ -215,7 +215,7 @@
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [versun/RSS-Translator](https://github.com/versun/RSS-Translator) - 开源、简洁、可自部署的RSS翻译器 | Translate RSS feeds into your language!
-- [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
+- [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now with Responses API + DeepSeek!
 - [IBM/MAX-Image-Resolution-Enhancer](https://github.com/IBM/MAX-Image-Resolution-Enhancer) - Upscale an image by a factor of 4, while generating photo-realistic details.
 
@@ -414,7 +414,7 @@
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [ai-genie/chatgpt-vscode](https://github.com/ai-genie/chatgpt-vscode) - Your best AI pair programmer in VS Code
-- [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
+- [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now with Responses API + DeepSeek!
 
 ## chatgpt-api 
@@ -650,7 +650,7 @@
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
 - [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx
-- [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
+- [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
 - [nickjj/docker-rails-example](https://github.com/nickjj/docker-rails-example) - A production ready example Rails app that's using Docker and Docker Compose.
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
@@ -1009,7 +1009,7 @@
 
 ## kubernetes 
 
-- [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
+- [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 
@@ -1059,7 +1059,7 @@
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with comma
-- [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
+- [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
 - [tgel0/crssnt](https://github.com/tgel0/crssnt) - 🥐  Open-source LLM-friendly Markdown/JSON generator
 
@@ -1290,7 +1290,7 @@
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
-- [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
+- [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now with Responses API + DeepSeek!
 
 ## operating-system 
@@ -1812,7 +1812,6 @@
 - [stitchfix/stitches](https://github.com/stitchfix/stitches) - Create a Microservice in Rails with minimal ceremony
 - [ruby/ruby.wasm](https://github.com/ruby/ruby.wasm) - ruby.wasm is a collection of WebAssembly ports of the CRuby.
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
-- [timkaechele/rex](https://github.com/timkaechele/rex) - [Migrated to my own git server] Limit order book based exchange implementation
 - [arbox/nlp-with-ruby](https://github.com/arbox/nlp-with-ruby) - Curated List: Practical Natural Language Processing done in Ruby
 - [davishmcclurg/json_schemer](https://github.com/davishmcclurg/json_schemer) - JSON Schema validator. Supports drafts 4, 6, 7, 2019-09, 2020-12, OpenAPI 3.0, and OpenAPI 3.1.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
