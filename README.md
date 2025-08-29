@@ -316,6 +316,7 @@
 
 ## Others 
 
+- [rehypejs/awesome-rehype](https://github.com/rehypejs/awesome-rehype) - Curated list of awesome rehype resources
 - [22a/slack-github-emoji](https://github.com/22a/slack-github-emoji) - Github emoji for Slack
 - [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) - Get PROXY List  that gets updated everyday
 - [classcompliant/awesome-dj-producer](https://github.com/classcompliant/awesome-dj-producer) - Manually curated collection of tools, resources and tutorials for nerdy DJs and Producers.
