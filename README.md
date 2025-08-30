@@ -556,7 +556,7 @@
 - [makandra/assignable_values](https://github.com/makandra/assignable_values) - Restrict the values assignable to ActiveRecord attributes or associations.
 - [makandra/minidusen](https://github.com/makandra/minidusen) - Low-tech search for ActiveRecord with MySQL or PostgreSQL
 - [makandra/query_diet](https://github.com/makandra/query_diet) - A Rails database query counter that stays out of your way
-- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system
+- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system.
 - [ankane/lockbox](https://github.com/ankane/lockbox) - Modern encryption for Ruby and Rails
 - [ankane/strong_migrations](https://github.com/ankane/strong_migrations) - Catch unsafe migrations in development
 - [html2rss/html2rss-configs](https://github.com/html2rss/html2rss-configs) - 📇 A growing collection of html2rss feed configs. Generate configs with the handy generator.
