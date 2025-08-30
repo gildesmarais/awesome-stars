@@ -200,6 +200,7 @@
 - [visual-studio-code](#visual-studio-code)
 - [vpn](#vpn)
 - [vue](#vue)
+- [vuejs](#vuejs)
 - [web](#web)
 - [web-components](#web-components)
 - [web-development](#web-development)
@@ -291,6 +292,7 @@
 
 ## awesome 
 
+- [rehypejs/awesome-rehype](https://github.com/rehypejs/awesome-rehype) - Curated list of awesome rehype resources
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
 - [gildesmarais/awesome-stars](https://github.com/gildesmarais/awesome-stars) - ✨ Automatically updated Awesome List of Stars I handed out on Github
@@ -317,6 +319,7 @@
 
 ## awesome-list 
 
+- [rehypejs/awesome-rehype](https://github.com/rehypejs/awesome-rehype) - Curated list of awesome rehype resources
 - [classcompliant/awesome-dj-producer](https://github.com/classcompliant/awesome-dj-producer) - Manually curated collection of tools, resources and tutorials for nerdy DJs and Producers.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
@@ -838,6 +841,7 @@
 
 ## graphql 
 
+- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 
 ## hacking 
@@ -991,7 +995,7 @@
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [micromodal/Micromodal](https://github.com/micromodal/Micromodal) - ⭕   Tiny javascript library for creating accessible modal dialogs
 - [francoischalifour/medium-zoom](https://github.com/francoischalifour/medium-zoom) - 🔎🖼 A JavaScript library for zooming images like Medium
-- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system
+- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system.
 - [glidejs/glide](https://github.com/glidejs/glide) - A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more
 - [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -1749,7 +1753,7 @@
 - [GeorgeKaraszi/ActiveRecordExtended](https://github.com/GeorgeKaraszi/ActiveRecordExtended) - Adds additional postgres functionality to an ActiveRecord / Rails application
 - [westonganger/spreadsheet_architect](https://github.com/westonganger/spreadsheet_architect) - Spreadsheet Architect is a library that allows you to create XLSX, ODS, or CSV spreadsheets super easily from ActiveRecord relations, plain Ruby objects, or tabular data.
 - [ledermann/unread](https://github.com/ledermann/unread) - Handle unread records and mark them as read with Ruby on Rails
-- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system
+- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system.
 - [ddnexus/pagy](https://github.com/ddnexus/pagy) - 🏆 The Best Pagination Ruby Gem 🥇
 - [markets/invisible_captcha](https://github.com/markets/invisible_captcha) - 🍯 Unobtrusive and flexible spam protection for Rails apps
 - [eliotsykes/rails-security-checklist](https://github.com/eliotsykes/rails-security-checklist) - :key: Community-driven Rails Security Checklist (see our GitHub Issues for the newest checks that aren't yet in the README)
@@ -1876,7 +1880,7 @@
 - [byroot/frozen_record](https://github.com/byroot/frozen_record) - Read only ActiveRecord-like interface to query static YAML files
 - [westonganger/spreadsheet_architect](https://github.com/westonganger/spreadsheet_architect) - Spreadsheet Architect is a library that allows you to create XLSX, ODS, or CSV spreadsheets super easily from ActiveRecord relations, plain Ruby objects, or tabular data.
 - [ledermann/unread](https://github.com/ledermann/unread) - Handle unread records and mark them as read with Ruby on Rails
-- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system
+- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system.
 - [html2rss/html2rss](https://github.com/html2rss/html2rss) - 📰 Build RSS 2.0 feeds from websites (and JSON APIs) automatically or with a few CSS selectors.
 - [shrinerb/shrine](https://github.com/shrinerb/shrine) - File Attachment toolkit for Ruby applications
 - [nathanl/searchlight](https://github.com/nathanl/searchlight) - Searchlight helps you build searches from options via Ruby methods that you write.
@@ -2060,7 +2064,7 @@
 
 ## support 
 
-- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system
+- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system.
 
 ## svelte 
 
@@ -2182,6 +2186,7 @@
 - [WesleyAC/deeplinks](https://github.com/WesleyAC/deeplinks) - Simple deep links to any selection of text on your website.
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
@@ -2220,6 +2225,10 @@
 ## vue 
 
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+
+## vuejs 
+
+- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system.
 
 ## web 
 
