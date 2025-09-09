@@ -217,7 +217,7 @@
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
-- [versun/RSS-Translator](https://github.com/versun/RSS-Translator) - 开源、简洁、可自部署的RSS翻译器 | Translate RSS feeds into your language!
+- [versun/RSSBox](https://github.com/versun/RSSBox) - 让RSS管理更智能，让信息获取更高效 | Smarter RSS management, more efficient information access
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ GPT-5 & Realtime WebRTC compatible!
 - [IBM/MAX-Image-Resolution-Enhancer](https://github.com/IBM/MAX-Image-Resolution-Enhancer) - Upscale an image by a factor of 4, while generating photo-realistic details.
@@ -661,7 +661,7 @@
 
 ## django 
 
-- [versun/RSS-Translator](https://github.com/versun/RSS-Translator) - 开源、简洁、可自部署的RSS翻译器 | Translate RSS feeds into your language!
+- [versun/RSSBox](https://github.com/versun/RSSBox) - 让RSS管理更智能，让信息获取更高效 | Smarter RSS management, more efficient information access
 - [kevinschaul/feedmaker](https://github.com/kevinschaul/feedmaker) - Quickly generate an RSS feed from any website
 - [liqd/a4-meinberlin](https://github.com/liqd/a4-meinberlin) - The central participation platform of the city of Berlin, Germany
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
@@ -1701,7 +1701,7 @@
 - [widelands/widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and d
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
-- [versun/RSS-Translator](https://github.com/versun/RSS-Translator) - 开源、简洁、可自部署的RSS翻译器 | Translate RSS feeds into your language!
+- [versun/RSSBox](https://github.com/versun/RSSBox) - 让RSS管理更智能，让信息获取更高效 | Smarter RSS management, more efficient information access
 - [AndyTheFactory/newspaper4k](https://github.com/AndyTheFactory/newspaper4k) - 📰 Newspaper4k a fork of the beloved Newspaper3k. Extraction of articles, titles, and metadata from news websites.
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
@@ -1999,7 +1999,7 @@
 
 - [awakari/core](https://github.com/awakari/core) - Core Awakari system deployment and tests
 - [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS.
-- [versun/RSS-Translator](https://github.com/versun/RSS-Translator) - 开源、简洁、可自部署的RSS翻译器 | Translate RSS feeds into your language!
+- [versun/RSSBox](https://github.com/versun/RSSBox) - 让RSS管理更智能，让信息获取更高效 | Smarter RSS management, more efficient information access
 - [offen/offen](https://github.com/offen/offen) - Offen Fair Web Analytics
 - [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
 - [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management.
