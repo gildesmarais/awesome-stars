@@ -1332,6 +1332,7 @@
 
 ## others 
 
+- [basecamp/once-campfire](https://github.com/basecamp/once-campfire) - 
 - [jessegrosjean/TaskPaper](https://github.com/jessegrosjean/TaskPaper) - TaskPaper shared source code for TaskPaper license holders
 - [richiehowelll/jira-diff](https://github.com/richiehowelll/jira-diff) - 
 - [envato/zxcvbn-ruby](https://github.com/envato/zxcvbn-ruby) - Ruby port of Dropbox's zxcvbn javascript lib
