@@ -211,6 +211,7 @@
 - [windows](#windows)
 - [xml](#xml)
 - [zig](#zig)
+- [zsh](#zsh)
 
 ## ai 
 
@@ -578,7 +579,6 @@
 
 ## data 
 
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 - [open-discourse/open-discourse](https://github.com/open-discourse/open-discourse) - Open Discourse is the first fully comprehensive corpus of the plenary proceedings of the federal German Parliament (Bundestag).
 - [Synthoid/ExportSheetData](https://github.com/Synthoid/ExportSheetData) - Add-on for Google Sheets that allows data to be exported as JSON or XML.
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
@@ -1516,7 +1516,6 @@
 - [hanshack/car-tagging-data-berlin](https://github.com/hanshack/car-tagging-data-berlin) - This repo is about the **data** collected by volunteers using a map tagging tool which was developed to tag cars on aerial images from the city of Berlin.
 - [kernow/shortcode](https://github.com/kernow/shortcode) - A Wordpress style shortcode parser ruby gem that's easily extendable
 - [unused-code/unused](https://github.com/unused-code/unused) - A tool to identify potentially unused code.
-- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [ankane/rollup](https://github.com/ankane/rollup) - Rollup time-series data in Rails
 - [fnando/i18n-js](https://github.com/fnando/i18n-js) - It's a small library to provide the I18n translations on the Javascript. It comes with Rails support.
 - [vmg/rinku](https://github.com/vmg/rinku) - Autolinking. Ruby. Yes, that's pretty much it.
@@ -2292,6 +2291,17 @@
 
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+
+## zsh 
+
+- [carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin) - A multi-shell completion binary.
+- [naggie/dstask](https://github.com/naggie/dstask) - Git powered terminal-based todo/note manager --  markdown note page per task. Single binary!
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [gildesmarais/dotfiles](https://github.com/gildesmarais/dotfiles) - 🤯 Collection of files whose names are supposed to begin with a dot. But they don't in this repo. rcm handles the dots…
+- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 
 
 ## License
