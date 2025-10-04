@@ -197,6 +197,7 @@
 - [vagrant](#vagrant)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
+- [visualization](#visualization)
 - [vpn](#vpn)
 - [vue](#vue)
 - [vuejs](#vuejs)
@@ -606,7 +607,7 @@
 
 ## database 
 
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso Database is a project to build the next evolution of SQLite.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 - [pgadmin-org/pgadmin4](https://github.com/pgadmin-org/pgadmin4) - pgAdmin is the most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world.
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
@@ -1497,7 +1498,6 @@
 - [jensimmons/cssremedy](https://github.com/jensimmons/cssremedy) - Start your project with a remedy for the technical debt of CSS.
 - [resque/redis-namespace](https://github.com/resque/redis-namespace) - This gem adds a Redis::Namespace class which can be used to namespace Redis keys.
 - [rails/marcel](https://github.com/rails/marcel) - Find the mime type of files, examining file, filename and declared type
-- [vega/vega](https://github.com/vega/vega) - A visualization grammar.
 - [HierBautBerlin/website](https://github.com/HierBautBerlin/website) - A tool to inform citizens of Berlin about changes in their neighborhood.
 - [ankane/disco](https://github.com/ankane/disco) - Recommendations for Ruby and Rails using collaborative filtering
 - [ossu/data-science](https://github.com/ossu/data-science) - 📊 Path to a free self-taught education in Data Science!
@@ -1583,7 +1583,6 @@
 - [FGRibreau/mailchecker](https://github.com/FGRibreau/mailchecker) - :mailbox: Cross-language temporary (disposable/throwaway) email detection library. Covers 55 734+ fake email providers.
 - [flyerhzm/rails_best_practices](https://github.com/flyerhzm/rails_best_practices) - a code metric tool for rails projects
 - [DamirSvrtan/fasterer](https://github.com/DamirSvrtan/fasterer) - :zap: Don't make your Rubies go fast. Make them go fasterer ™. :zap:
-- [ankane/chartkick](https://github.com/ankane/chartkick) - Create beautiful JavaScript charts with one line of Ruby
 - [thoughtbot/rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management
 - [bevesce/unicode-symbols-search](https://github.com/bevesce/unicode-symbols-search) - find unicode symbols using alfred workflow
 - [thoughtbot/guides](https://github.com/thoughtbot/guides) - A guide for programming in style.
@@ -2038,7 +2037,7 @@
 
 ## sql 
 
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso Database is a project to build the next evolution of SQLite.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 - [jhollinger/occams-record](https://github.com/jhollinger/occams-record) - The missing high-efficiency query API for ActiveRecord
 - [scenic-views/scenic](https://github.com/scenic-views/scenic) - Versioned database views for Rails
 - [adelsz/pgtyped](https://github.com/adelsz/pgtyped) - pgTyped - Typesafe SQL in TypeScript
@@ -2205,6 +2204,13 @@
 ## visual-studio-code 
 
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
+
+## visualization 
+
+- [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
+- [vega/vega](https://github.com/vega/vega) - A visualization grammar.
+- [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
+- [ankane/chartkick](https://github.com/ankane/chartkick) - Create beautiful JavaScript charts with one line of Ruby
 
 ## vpn 
 
