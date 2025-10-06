@@ -1329,6 +1329,7 @@
 
 ## others 
 
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [seatsurfing/seatsurfing](https://github.com/seatsurfing/seatsurfing) - Desk sharing, room reservation, free seating, and co-working for enterprises
 - [rsynnot/magic-lists-for-navidrome](https://github.com/rsynnot/magic-lists-for-navidrome) - A magic playlist creator for Navidrome users. Create song or artist radio, Discover Weekly, or describe what you want and AI will curate a list for you.
 - [soundcloud/api](https://github.com/soundcloud/api) - A public repo for our Developer Community to engage about bugs and feature requests on our Public API
