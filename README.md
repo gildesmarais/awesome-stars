@@ -25,6 +25,7 @@
 - [Kotlin](#kotlin)
 - [Liquid](#liquid)
 - [MDX](#mdx)
+- [Markdown](#markdown)
 - [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
@@ -298,6 +299,10 @@
 - [openui/open-ui](https://github.com/openui/open-ui) - Maintain an open standard for UI and promote its adherence and adoption.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [html2rss/html2rss.github.io](https://github.com/html2rss/html2rss.github.io) - Our website. Serves project documentation and showcases out of the box available feeds.
+
+## Markdown 
+
+- [adr/adr.github.io](https://github.com/adr/adr.github.io) - Homepage of the ADR GitHub organization
 
 ## Nunjucks 
 
@@ -754,6 +759,7 @@
 
 ## TypeScript 
 
+- [runawaydevil/rssskull](https://github.com/runawaydevil/rssskull) - from any feed to telegram
 - [mswjs/msw](https://github.com/mswjs/msw) - Industry standard API mocking for JavaScript.
 - [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter) - Front Matter is a CMS running straight in Visual Studio Code. Can be used with static site generators like Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more...
 - [lostintangent/gitdoc](https://github.com/lostintangent/gitdoc) - VS Code extension that allows you to edit a Git repo, like it's a multi-file, versioned document.
