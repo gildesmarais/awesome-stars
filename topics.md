@@ -1341,6 +1341,7 @@
 
 ## others 
 
+- [carlos-algms/vscode-make-task-provider](https://github.com/carlos-algms/vscode-make-task-provider) - Adds support to run Make commands from VS Code
 - [adr/adr.github.io](https://github.com/adr/adr.github.io) - Homepage of the ADR GitHub organization
 - [runawaydevil/rssskull](https://github.com/runawaydevil/rssskull) - from any feed to telegram
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
