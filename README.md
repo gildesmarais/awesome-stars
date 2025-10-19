@@ -759,6 +759,7 @@
 
 ## TypeScript 
 
+- [carlos-algms/vscode-make-task-provider](https://github.com/carlos-algms/vscode-make-task-provider) - Adds support to run Make commands from VS Code
 - [runawaydevil/rssskull](https://github.com/runawaydevil/rssskull) - from any feed to telegram
 - [mswjs/msw](https://github.com/mswjs/msw) - Industry standard API mocking for JavaScript.
 - [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter) - Front Matter is a CMS running straight in Visual Studio Code. Can be used with static site generators like Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more...
