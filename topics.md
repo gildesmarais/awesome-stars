@@ -217,6 +217,7 @@
 ## ai 
 
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
+- [rsynnot/magic-lists-for-navidrome](https://github.com/rsynnot/magic-lists-for-navidrome) - 🎵 AI-Powered Playlist Generator for Navidrome  Create intelligent, personalized playlists from your Navidrome music library using advanced AI curation. Features multi-library support, "This Is Artist"
 - [steel-dev/steel-browser](https://github.com/steel-dev/steel-browser) - 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser sandbox that lets you automate the web without worrying about infrastructure.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
@@ -1220,6 +1221,7 @@
 
 ## music 
 
+- [rsynnot/magic-lists-for-navidrome](https://github.com/rsynnot/magic-lists-for-navidrome) - 🎵 AI-Powered Playlist Generator for Navidrome  Create intelligent, personalized playlists from your Navidrome music library using advanced AI curation. Features multi-library support, "This Is Artist"
 - [0PandaDEV/ufrume](https://github.com/0PandaDEV/ufrume) - A multithreaded CLI tool to organize your music files into a folder structure defined by you.
 - [aubio/aubio](https://github.com/aubio/aubio) - a library for audio and music analysis
 - [MTG/essentia](https://github.com/MTG/essentia) - C++ library for audio and music analysis, description and synthesis, including Python bindings
@@ -1347,7 +1349,6 @@
 - [runawaydevil/rssskull](https://github.com/runawaydevil/rssskull) - from any feed to telegram
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [seatsurfing/seatsurfing](https://github.com/seatsurfing/seatsurfing) - Desk sharing, room reservation, free seating, and co-working for enterprises
-- [rsynnot/magic-lists-for-navidrome](https://github.com/rsynnot/magic-lists-for-navidrome) - A magic playlist creator for Navidrome users. Create song or artist radio, Discover Weekly, or describe what you want and AI will curate a list for you.
 - [soundcloud/api](https://github.com/soundcloud/api) - A public repo for our Developer Community to engage about bugs and feature requests on our Public API
 - [basecamp/once-campfire](https://github.com/basecamp/once-campfire) - 
 - [jessegrosjean/TaskPaper](https://github.com/jessegrosjean/TaskPaper) - TaskPaper shared source code for TaskPaper license holders
