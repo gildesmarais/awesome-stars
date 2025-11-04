@@ -1351,7 +1351,6 @@
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [seatsurfing/seatsurfing](https://github.com/seatsurfing/seatsurfing) - Desk sharing, room reservation, free seating, and co-working for enterprises
 - [soundcloud/api](https://github.com/soundcloud/api) - A public repo for our Developer Community to engage about bugs and feature requests on our Public API
-- [basecamp/once-campfire](https://github.com/basecamp/once-campfire) - 
 - [jessegrosjean/TaskPaper](https://github.com/jessegrosjean/TaskPaper) - TaskPaper shared source code for TaskPaper license holders
 - [richiehowelll/jira-diff](https://github.com/richiehowelll/jira-diff) - 
 - [envato/zxcvbn-ruby](https://github.com/envato/zxcvbn-ruby) - Ruby port of Dropbox's zxcvbn javascript lib
