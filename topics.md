@@ -266,7 +266,7 @@
 
 ## angular 
 
-- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🚀 The OpenAPI to TypeScript codegen. Generate clients, SDKs, validators, and more. Support: @mrlubos
+- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🌀 OpenAPI to TypeScript code generator. Generate API clients, SDKs, validators, and more.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 
 ## ansible 
@@ -942,7 +942,7 @@
 
 ## http 
 
-- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🚀 The OpenAPI to TypeScript codegen. Generate clients, SDKs, validators, and more. Support: @mrlubos
+- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🌀 OpenAPI to TypeScript code generator. Generate API clients, SDKs, validators, and more.
 - [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) - Get PROXY List  that gets updated everyday
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -986,7 +986,7 @@
 
 ## javascript 
 
-- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🚀 The OpenAPI to TypeScript codegen. Generate clients, SDKs, validators, and more. Support: @mrlubos
+- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🌀 OpenAPI to TypeScript code generator. Generate API clients, SDKs, validators, and more.
 - [bamdadfr/bandcamp-plus--extension](https://github.com/bamdadfr/bandcamp-plus--extension) - Add multiple features to bandcamp.com
 - [julianrubisch/attractor](https://github.com/julianrubisch/attractor) - code complexity metrics visualization and exploration tool for ruby and javascript
 - [yairEO/tagify](https://github.com/yairEO/tagify) - 🔖 lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue
@@ -1265,7 +1265,7 @@
 ## nextjs 
 
 - [igeligel/workplacify](https://github.com/igeligel/workplacify) - The #1 desk reservation/scheduling solution for hybrid workplaces, fully open-source
-- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🚀 The OpenAPI to TypeScript codegen. Generate clients, SDKs, validators, and more. Support: @mrlubos
+- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🌀 OpenAPI to TypeScript code generator. Generate API clients, SDKs, validators, and more.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
@@ -1297,7 +1297,7 @@
 ## nodejs 
 
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
-- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🚀 The OpenAPI to TypeScript codegen. Generate clients, SDKs, validators, and more. Support: @mrlubos
+- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🌀 OpenAPI to TypeScript code generator. Generate API clients, SDKs, validators, and more.
 - [grammyjs/grammY](https://github.com/grammyjs/grammY) - The Telegram Bot Framework.
 - [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
 - [sindresorhus/alfred-emoj](https://github.com/sindresorhus/alfred-emoj) - Alfred 3 workflow to find relevant emoji from text
@@ -2161,7 +2161,7 @@
 
 - [igeligel/workplacify](https://github.com/igeligel/workplacify) - The #1 desk reservation/scheduling solution for hybrid workplaces, fully open-source
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
-- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🚀 The OpenAPI to TypeScript codegen. Generate clients, SDKs, validators, and more. Support: @mrlubos
+- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🌀 OpenAPI to TypeScript code generator. Generate API clients, SDKs, validators, and more.
 - [bamdadfr/bandcamp-plus--extension](https://github.com/bamdadfr/bandcamp-plus--extension) - Add multiple features to bandcamp.com
 - [AykutSarac/jsoncrack-vscode](https://github.com/AykutSarac/jsoncrack-vscode) - VS Code extension of JSON Crack. Convert your JSON files into graphs with a single click and view them onto graphs.
 - [lasuillard-s/raindrop-sync-chrome](https://github.com/lasuillard-s/raindrop-sync-chrome) - Chrome browser extension for syncing bookmarks with Raindrop.
