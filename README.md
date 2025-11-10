@@ -761,6 +761,7 @@
 
 ## TypeScript 
 
+- [gorhom/react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet) - A performant interactive bottom sheet with fully configurable options 🚀
 - [carlos-algms/vscode-make-task-provider](https://github.com/carlos-algms/vscode-make-task-provider) - Adds support to run Make commands from VS Code
 - [runawaydevil/rssskull](https://github.com/runawaydevil/rssskull) - from any feed to telegram
 - [mswjs/msw](https://github.com/mswjs/msw) - Industry standard API mocking for JavaScript.
