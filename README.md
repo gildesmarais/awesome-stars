@@ -392,6 +392,7 @@
 
 ## Python 
 
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [rsynnot/magic-lists-for-navidrome](https://github.com/rsynnot/magic-lists-for-navidrome) - 🎵 AI-Powered Playlist Generator for Navidrome  Create intelligent, personalized playlists from your Navidrome music library using advanced AI curation. Features multi-library support, "This Is Artist"
 - [pgadmin-org/pgadmin4](https://github.com/pgadmin-org/pgadmin4) - pgAdmin is the most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world.
 - [fabriziosalmi/UglyFeed](https://github.com/fabriziosalmi/UglyFeed) - Retrieve, aggregate, filter, evaluate, rewrite and serve RSS feeds using Large Language Models for fun, research and learning purposes
@@ -715,7 +716,6 @@
 ## Shell 
 
 - [jsburckhardt/devcontainer-features](https://github.com/jsburckhardt/devcontainer-features) - 
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [eborges-git/n8n-render](https://github.com/eborges-git/n8n-render) - Deploying n8n on Render (render.com) hosting, using separate Web Service (with Docker and Persistent Disk Storage) + Postgres DB.
 - [Naunter/BT_BlockLists](https://github.com/Naunter/BT_BlockLists) - Transmission block list
