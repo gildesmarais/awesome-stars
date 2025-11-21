@@ -96,7 +96,6 @@
 - [html5](#html5)
 - [http](#http)
 - [https](#https)
-- [instagram](#instagram)
 - [ios](#ios)
 - [ipfs](#ipfs)
 - [java](#java)
@@ -947,10 +946,6 @@
 ## https 
 
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-
-## instagram 
-
-- [stefansundin/rssbox](https://github.com/stefansundin/rssbox) - :newspaper: I consume the world via RSS feeds, and this is my attempt to keep it that way.
 
 ## ios 
 
@@ -2152,7 +2147,6 @@
 
 ## twitter 
 
-- [stefansundin/rssbox](https://github.com/stefansundin/rssbox) - :newspaper: I consume the world via RSS feeds, and this is my attempt to keep it that way.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 
