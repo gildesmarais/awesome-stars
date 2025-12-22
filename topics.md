@@ -1855,6 +1855,7 @@
 
 ## react-native 
 
+- [expo/atlas](https://github.com/expo/atlas) - Visualize React Native bundles to understand and optimize your app.
 - [gorhom/react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet) - A performant interactive bottom sheet with fully configurable options 🚀
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [dev-yakuza/react-native-image-modal](https://github.com/dev-yakuza/react-native-image-modal) - the simple image modal for React Native
