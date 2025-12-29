@@ -118,6 +118,8 @@
 
 ## Go 
 
+- [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [DataDog/terraform-provider-datadog](https://github.com/DataDog/terraform-provider-datadog) - Terraform Datadog provider
 - [seatsurfing/seatsurfing](https://github.com/seatsurfing/seatsurfing) - Desk sharing, room reservation, free seating, and co-working for enterprises
 - [fwdcloudsec/granted](https://github.com/fwdcloudsec/granted) - The easiest way to access AWS.
@@ -163,7 +165,6 @@
 - [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org) - HTTP Archive's annual "State of the Web" report made by the web community
 - [team-watchdog/colombo-skylines](https://github.com/team-watchdog/colombo-skylines) - A digital twin of the city of Colombo, Sri Lanka, implemented in Cities: Skylines, based on real data. Nearly 1:1 in terms of geography and population.
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
-- [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
 - [ai-genie/chatgpt-vscode](https://github.com/ai-genie/chatgpt-vscode) - Your best AI pair programmer in VS Code
 - [AndyTheFactory/newspaper4k](https://github.com/AndyTheFactory/newspaper4k) - 📰 Newspaper4k a fork of the beloved Newspaper3k. Extraction of articles, titles, and metadata from news websites.
 - [janko/rodauth-rails](https://github.com/janko/rodauth-rails) - Rails integration for Rodauth authentication framework
@@ -333,6 +334,7 @@
 - [wanghaisheng/awesome-microservice](https://github.com/wanghaisheng/awesome-microservice) - A curated list of Microservice resources
 - [97-things/97-things-every-programmer-should-know](https://github.com/97-things/97-things-every-programmer-should-know) - Pearls of wisdom for programmers collected from leading practitioners.
 - [basecamp/handbook](https://github.com/basecamp/handbook) - Basecamp Employee Handbook
+- [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
 - [adbar/German-NLP](https://github.com/adbar/German-NLP) - Curated list of open-access/open-source/off-the-shelf resources and tools developed with a particular focus on German
 - [gildesmarais/awesome-stars](https://github.com/gildesmarais/awesome-stars) - ✨ Automatically updated Awesome List of Stars I handed out on Github
 - [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
@@ -442,6 +444,9 @@
 
 ## Ruby 
 
+- [opal/opal](https://github.com/opal/opal) - Ruby ♥︎ JavaScript
+- [type-ruby/t-ruby](https://github.com/type-ruby/t-ruby) - T-Ruby, TypeScript-style types for Ruby language
+- [ruby2js/ruby2js](https://github.com/ruby2js/ruby2js) - Ruby to JavaScript conversion
 - [yabeda-rb/yabeda](https://github.com/yabeda-rb/yabeda) - Extendable framework for collecting and exporting metrics from your Ruby application
 - [truemail-rb/truemail](https://github.com/truemail-rb/truemail) - 🚀 Configurable framework agnostic plain Ruby 📨 email validator/verifier. Verify email via Regex, DNS, SMTP and even more. Be sure that email address valid and exists.
 - [afair/email_address](https://github.com/afair/email_address) - The EmailAddress Gem to work with and validate email addresses.
@@ -481,7 +486,7 @@
 - [reidmorrison/rails_semantic_logger](https://github.com/reidmorrison/rails_semantic_logger) - Rails Semantic Logger replaces the Rails default logger with Semantic Logger
 - [reidmorrison/semantic_logger](https://github.com/reidmorrison/semantic_logger) - Semantic Logger is a feature rich logging framework, and replacement for existing Ruby & Rails loggers.
 - [arbox/nlp-with-ruby](https://github.com/arbox/nlp-with-ruby) - Curated List: Practical Natural Language Processing done in Ruby
-- [vifreefly/kimuraframework](https://github.com/vifreefly/kimuraframework) - Kimurai is a modern Ruby web scraping framework that supports scraping with antidetect Chrome/Firefox as well as HTTP requests
+- [vifreefly/kimuraframework](https://github.com/vifreefly/kimuraframework) - Kimurai is a modern Ruby web scraping framework designed to scrape and interact with JavaScript-rendered websites using headless antidetect Chrome, Firefox, or simple HTTP requests
 - [nickjj/docker-rails-example](https://github.com/nickjj/docker-rails-example) - A production ready example Rails app that's using Docker and Docker Compose.
 - [stefansundin/rssbox](https://github.com/stefansundin/rssbox) - :newspaper: I consume the world via RSS feeds, and this is my attempt to keep it that way.
 - [davishmcclurg/json_schemer](https://github.com/davishmcclurg/json_schemer) - JSON Schema validator. Supports drafts 4, 6, 7, 2019-09, 2020-12, OpenAPI 3.0, and OpenAPI 3.1.
@@ -720,6 +725,7 @@
 
 ## Shell 
 
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
 - [jsburckhardt/devcontainer-features](https://github.com/jsburckhardt/devcontainer-features) - 
 - [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [eborges-git/n8n-render](https://github.com/eborges-git/n8n-render) - Deploying n8n on Render (render.com) hosting, using separate Web Service (with Docker and Persistent Disk Storage) + Postgres DB.
