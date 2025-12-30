@@ -222,7 +222,6 @@
 - [juliuste/direkt.bahn.guru](https://github.com/juliuste/direkt.bahn.guru) - All direct long-distance railway connections for cities in and beyond central Europe.
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [microsoft/vscode-recipes](https://github.com/microsoft/vscode-recipes) - 
-- [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
 - [sindresorhus/alfred-emoj](https://github.com/sindresorhus/alfred-emoj) - Alfred 3 workflow to find relevant emoji from text
 - [dibollinger/CookieBlock](https://github.com/dibollinger/CookieBlock) - Repository for the CookieBlock browser extension, which automatically enforces user privacy policy on browser cookies.
 - [tgel0/crssnt](https://github.com/tgel0/crssnt) - 🥐  Open-source LLM-friendly Markdown/JSON generator
@@ -637,6 +636,7 @@
 
 ## Rust 
 
+- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - Open-source Rust based AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization. 100% local processing. no cloud required. Meetily (Meetly
 - [uppnrise/iron-veil](https://github.com/uppnrise/iron-veil) - 🛡️ High-performance Rust database proxy for real-time PII anonymization. Masks sensitive data (emails, SSN, credit cards) without application changes. PostgreSQL & MySQL support with TLS, Prometheus m
 - [theiskaa/readabilityrs](https://github.com/theiskaa/readabilityrs) - A Rust port of Mozilla's standalone readability library
@@ -849,6 +849,7 @@
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
 - [adelsz/pgtyped](https://github.com/adelsz/pgtyped) - pgTyped - Typesafe SQL in TypeScript
+- [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
 - [soutaro/steep-vscode](https://github.com/soutaro/steep-vscode) - VSCode extension for Steep
 - [plantain-00/type-coverage](https://github.com/plantain-00/type-coverage) - A CLI tool to check type coverage for typescript code
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
