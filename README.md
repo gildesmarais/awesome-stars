@@ -71,7 +71,6 @@
 - [MTG/essentia](https://github.com/MTG/essentia) - C++ library for audio and music analysis, description and synthesis, including Python bindings
 - [electronicarts/CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) - Command & Conquer: Remastered Collection
 - [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
-- [mikekazakov/nimble-commander](https://github.com/mikekazakov/nimble-commander) - Nimble Commander - dual-pane file manager for Mac
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 - [widelands/widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and d
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
@@ -100,7 +99,6 @@
 ## Dart 
 
 - [a-mabe/OpenHIIT](https://github.com/a-mabe/OpenHIIT) - :weight_lifting: :medal_sports: Open-source, cross platform HIIT and Tabata interval timer. Pull requests are appreciated!
-- [spotter-application/spotter](https://github.com/spotter-application/spotter) - 🔭 Productivity tool to launch everything
 
 ## Dockerfile 
 
@@ -118,6 +116,7 @@
 
 ## Go 
 
+- [hetznercloud/terraform-provider-hcloud](https://github.com/hetznercloud/terraform-provider-hcloud) - Terraform Hetzner Cloud provider
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [DataDog/terraform-provider-datadog](https://github.com/DataDog/terraform-provider-datadog) - Terraform Datadog provider
@@ -139,6 +138,7 @@
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin) - A multi-shell completion binary.
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [naggie/dstask](https://github.com/naggie/dstask) - Git powered terminal-based todo/note manager --  markdown note page per task. Single binary!
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
@@ -165,7 +165,6 @@
 - [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org) - HTTP Archive's annual "State of the Web" report made by the web community
 - [team-watchdog/colombo-skylines](https://github.com/team-watchdog/colombo-skylines) - A digital twin of the city of Colombo, Sri Lanka, implemented in Cities: Skylines, based on real data. Nearly 1:1 in terms of geography and population.
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
-- [ai-genie/chatgpt-vscode](https://github.com/ai-genie/chatgpt-vscode) - Your best AI pair programmer in VS Code
 - [AndyTheFactory/newspaper4k](https://github.com/AndyTheFactory/newspaper4k) - 📰 Newspaper4k a fork of the beloved Newspaper3k. Extraction of articles, titles, and metadata from news websites.
 - [janko/rodauth-rails](https://github.com/janko/rodauth-rails) - Rails integration for Rodauth authentication framework
 - [damoeb/feedless](https://github.com/damoeb/feedless) - Middleware to create RSS feeds, filter existing feeds and transform them (e.g.  fulltext)
@@ -200,7 +199,6 @@
 - [akhilkalepu/record-stacks](https://github.com/akhilkalepu/record-stacks) - A web app which analyzes your DJ software's database file and provides analytics on your digital record collection.
 - [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari.
 - [julianrubisch/attractor](https://github.com/julianrubisch/attractor) - code complexity metrics visualization and exploration tool for ruby and javascript
-- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.
 - [thoughtbot/superglue](https://github.com/thoughtbot/superglue) - A productive library for Classic Rails, React and Redux
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [microlinkhq/top-user-agents](https://github.com/microlinkhq/top-user-agents) - An always up-to-date list of the top 100 HTTP user-agents most used over the Internet.
@@ -443,6 +441,7 @@
 
 ## Ruby 
 
+- [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [opal/opal](https://github.com/opal/opal) - Ruby ♥︎ JavaScript
 - [type-ruby/t-ruby](https://github.com/type-ruby/t-ruby) - T-Ruby, TypeScript-style types for Ruby language
 - [ruby2js/ruby2js](https://github.com/ruby2js/ruby2js) - Ruby to JavaScript conversion
@@ -465,7 +464,6 @@
 - [jpmckinney/tf-idf-similarity](https://github.com/jpmckinney/tf-idf-similarity) - Ruby gem to calculate the similarity between texts using tf*idf
 - [tuwukee/jwt_sessions](https://github.com/tuwukee/jwt_sessions) - XSS/CSRF safe JWT auth designed for SPA
 - [flavorjones/sqlean-ruby](https://github.com/flavorjones/sqlean-ruby) - Precompiled SQLean extensions for SQLite, packaged for the Ruby ecosystem.
-- [laserlemon/figaro](https://github.com/laserlemon/figaro) - Simple Rails app configuration
 - [jeromedalbert/rubocop-obsession](https://github.com/jeromedalbert/rubocop-obsession) - RuboCop extension focused on higher-level concepts, like checking that code reads from top to bottom
 - [flori/ollama-ruby](https://github.com/flori/ollama-ruby) - Ollama Ruby Library
 - [david-mccullars/text_rank](https://github.com/david-mccullars/text_rank) - Ruby implementation of TextRank solution to ranked keyword extraction
@@ -672,7 +670,6 @@
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 - [ImageOptim/gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
-- [ParthJadhav/Verve](https://github.com/ParthJadhav/Verve) - Verve is a lightweight and blazingly fast launcher for accessing and opening applications, files and documents. ⚡
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
 - [segler-alex/radiobrowser-api-rust](https://github.com/segler-alex/radiobrowser-api-rust) - radio-browser API implementation in rust
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
@@ -750,14 +747,13 @@
 
 ## Swift 
 
+- [lukas-ruzicka/testflight-feedback](https://github.com/lukas-ruzicka/testflight-feedback) - Managing TestFlight feedback better using GitHub Issues
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
-- [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [rileytestut/Delta](https://github.com/rileytestut/Delta) - Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.
 - [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [pascalpp/FreeRuler](https://github.com/pascalpp/FreeRuler) - A ruler application for Mac OS X
 - [raivo-otp/ios-application](https://github.com/raivo-otp/ios-application) - A native, lightweight and secure one-time-password (OTP) client built for iOS; Raivo OTP!
-- [dteoh/devdocs-macos](https://github.com/dteoh/devdocs-macos) - An unofficial DevDocs API Documentation viewer for macOS.
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [oe/sourcetree-alfred-workflow](https://github.com/oe/sourcetree-alfred-workflow) - Search bookmarks in SourceTree and open with code editor / SourceTree / finder via Alfred.
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
@@ -773,6 +769,7 @@
 
 ## TypeScript 
 
+- [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
 - [expo/atlas](https://github.com/expo/atlas) - Visualize React Native bundles to understand and optimize your app.
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [ferdikoomen/openapi-typescript-codegen](https://github.com/ferdikoomen/openapi-typescript-codegen) - NodeJS library that generates Typescript or Javascript clients based on the OpenAPI specification
@@ -818,7 +815,6 @@
 - [Shopify/flash-list](https://github.com/Shopify/flash-list) - A better list for React Native
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [grammyjs/grammY](https://github.com/grammyjs/grammY) - The Telegram Bot Framework.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
@@ -886,6 +882,7 @@
 
 ## Zig 
 
+- [Lulzx/zpdf](https://github.com/Lulzx/zpdf) - Zero-copy PDF text extraction library written in Zig. High-performance, memory-mapped parsing with SIMD acceleration.
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 
 
