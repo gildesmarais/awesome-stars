@@ -118,7 +118,6 @@
 
 - [hetznercloud/terraform-provider-hcloud](https://github.com/hetznercloud/terraform-provider-hcloud) - Terraform Hetzner Cloud provider
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [DataDog/terraform-provider-datadog](https://github.com/DataDog/terraform-provider-datadog) - Terraform Datadog provider
 - [seatsurfing/seatsurfing](https://github.com/seatsurfing/seatsurfing) - Desk sharing, room reservation, free seating, and co-working for enterprises
 - [fwdcloudsec/granted](https://github.com/fwdcloudsec/granted) - The easiest way to access AWS.
