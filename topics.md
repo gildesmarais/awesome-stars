@@ -1402,7 +1402,7 @@
 - [lukas-ruzicka/testflight-feedback](https://github.com/lukas-ruzicka/testflight-feedback) - Managing TestFlight feedback better using GitHub Issues
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [mjbvz/vscode-github-markdown-preview-style](https://github.com/mjbvz/vscode-github-markdown-preview-style) - VS Code extension that changes the built-in markdown preview to match Github's styling
-- [theiskaa/readabilityrs](https://github.com/theiskaa/readabilityrs) - A Rust port of Mozilla's standalone readability library
+- [reeedio/readabilityrs](https://github.com/reeedio/readabilityrs) - A Rust port of Mozilla's standalone readability library
 - [mensfeld/yard-lint](https://github.com/mensfeld/yard-lint) - Check your YARD docs like RuboCop checks your code - a linter for YARD documentation.
 - [jsburckhardt/devcontainer-features](https://github.com/jsburckhardt/devcontainer-features) - 
 - [carlos-algms/vscode-make-task-provider](https://github.com/carlos-algms/vscode-make-task-provider) - Adds support to run Make commands from VS Code
