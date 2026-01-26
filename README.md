@@ -637,6 +637,7 @@
 
 ## Rust 
 
+- [rvben/rumdl](https://github.com/rvben/rumdl) - Markdown Linter and Formatter written in Rust
 - [lagmoellertim/essentia-rs](https://github.com/lagmoellertim/essentia-rs) - Idiomatic Rust wrapper for the Essentia audio analysis library 🎶🦀
 - [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
