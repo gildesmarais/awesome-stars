@@ -229,6 +229,7 @@
 
 ## ai 
 
+- [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 - [dmux/pagepilot](https://github.com/dmux/pagepilot) - PagePilot is a VS Code Chat participant that automatically loads external context (documentation, APIs, README files) to provide enhanced responses. Language is automatically detected from your VS Cod
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
@@ -477,6 +478,7 @@
 
 ## cli 
 
+- [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [0PandaDEV/ufrume](https://github.com/0PandaDEV/ufrume) - A multithreaded CLI tool to organize your music files into a folder structure defined by you.
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
@@ -2266,6 +2268,7 @@
 
 ## typescript 
 
+- [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 - [ferdikoomen/openapi-typescript-codegen](https://github.com/ferdikoomen/openapi-typescript-codegen) - NodeJS library that generates Typescript or Javascript clients based on the OpenAPI specification
 - [igeligel/workplacify](https://github.com/igeligel/workplacify) - The #1 desk reservation/scheduling solution for hybrid workplaces, fully open-source
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
