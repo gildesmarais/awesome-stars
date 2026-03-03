@@ -118,6 +118,7 @@
 
 ## Go 
 
+- [BRO3886/rem](https://github.com/BRO3886/rem) - A powerful CLI tool for macOS Reminders app
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server) - The Terraform MCP Server provides seamless integration with Terraform ecosystem, enabling advanced automation and interaction capabilities for Infrastructure as Code (IaC) development.
 - [hetznercloud/terraform-provider-hcloud](https://github.com/hetznercloud/terraform-provider-hcloud) - Terraform Hetzner Cloud provider
@@ -644,7 +645,7 @@
 
 ## Rust 
 
-- [gildesmarais/moodbar.rs](https://github.com/gildesmarais/moodbar.rs) - Fast, pure-Rust moodbar generator - spectral audio visualization as SVG, PNG, or raw RGB
+- [gildesmarais/moodbar.rs](https://github.com/gildesmarais/moodbar.rs) - Fast, pure-Rust moodbar generator - spectral audio visualization as SVG, PNG, or raw RGB. WASM available!
 - [agavra/tuicr](https://github.com/agavra/tuicr) - A human-in-the-loop code review TUI for AI-generated changes.
 - [superhq-ai/shuru](https://github.com/superhq-ai/shuru) - A local-first microVM sandbox for running AI agents safely on macOS
 - [anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler) - Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.
@@ -763,6 +764,7 @@
 
 ## Swift 
 
+- [steipete/remindctl](https://github.com/steipete/remindctl) - cli for Apple Reminders app
 - [lukas-ruzicka/testflight-feedback](https://github.com/lukas-ruzicka/testflight-feedback) - Managing TestFlight feedback better using GitHub Issues
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [rileytestut/Delta](https://github.com/rileytestut/Delta) - Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.
