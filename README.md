@@ -396,6 +396,8 @@
 
 ## Python 
 
+- [Kapeli/dash-mcp-server](https://github.com/Kapeli/dash-mcp-server) - MCP server for Dash, the macOS documentation browser
+- [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 - [hald/things-mcp](https://github.com/hald/things-mcp) - Things.app MCP Server
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
@@ -787,6 +789,7 @@
 
 ## TypeScript 
 
+- [Karanjot786/agent-skills-cli](https://github.com/Karanjot786/agent-skills-cli) - Universal CLI for Agent Skills. Access 40,000+ skills from SkillsMP and sync them to Cursor, Claude Code, GitHub Copilot, OpenAI Codex, and Antigravity.
 - [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 - [dmux/pagepilot](https://github.com/dmux/pagepilot) - PagePilot is a VS Code Chat participant that automatically loads external context (documentation, APIs, README files) to provide enhanced responses. Language is automatically detected from your VS Cod
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
