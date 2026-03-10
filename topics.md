@@ -1431,6 +1431,8 @@
 
 ## others 
 
+- [RubyElders/schnellmcp](https://github.com/RubyElders/schnellmcp) - 
+- [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [Kapeli/dash-mcp-server](https://github.com/Kapeli/dash-mcp-server) - MCP server for Dash, the macOS documentation browser
 - [steipete/remindctl](https://github.com/steipete/remindctl) - cli for Apple Reminders app
