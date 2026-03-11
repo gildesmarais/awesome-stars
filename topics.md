@@ -1431,6 +1431,8 @@
 
 ## others 
 
+- [stuartcrobinson/unique-window-colors](https://github.com/stuartcrobinson/unique-window-colors) - Uniquely color different VSCode workspace windows with automatic selections or customized colors and themes.
+- [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust that unifies all your formatters in one tool.
 - [RubyElders/schnellmcp](https://github.com/RubyElders/schnellmcp) - 
 - [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
