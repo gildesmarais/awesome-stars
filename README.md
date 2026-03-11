@@ -651,6 +651,7 @@
 
 ## Rust 
 
+- [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust that unifies all your formatters in one tool.
 - [gildesmarais/moodbar.rs](https://github.com/gildesmarais/moodbar.rs) - Fast, pure-Rust moodbar generator - spectral audio visualization as SVG, PNG, or raw RGB. WASM available!
 - [agavra/tuicr](https://github.com/agavra/tuicr) - A human-in-the-loop code review TUI for AI-generated changes.
 - [superhq-ai/shuru](https://github.com/superhq-ai/shuru) - A local-first microVM sandbox for running AI agents safely on macOS
@@ -794,6 +795,7 @@
 
 ## TypeScript 
 
+- [stuartcrobinson/unique-window-colors](https://github.com/stuartcrobinson/unique-window-colors) - Uniquely color different VSCode workspace windows with automatic selections or customized colors and themes.
 - [Karanjot786/agent-skills-cli](https://github.com/Karanjot786/agent-skills-cli) - Universal CLI for Agent Skills. Access 40,000+ skills from SkillsMP and sync them to Cursor, Claude Code, GitHub Copilot, OpenAI Codex, and Antigravity.
 - [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 - [dmux/pagepilot](https://github.com/dmux/pagepilot) - PagePilot is a VS Code Chat participant that automatically loads external context (documentation, APIs, README files) to provide enhanced responses. Language is automatically detected from your VS Cod
