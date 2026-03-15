@@ -650,6 +650,7 @@
 
 ## Rust 
 
+- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust that unifies all your formatters in one tool.
 - [gildesmarais/moodbar.rs](https://github.com/gildesmarais/moodbar.rs) - Fast, pure-Rust moodbar generator - spectral audio visualization as SVG, PNG, or raw RGB. WASM available!
 - [agavra/tuicr](https://github.com/agavra/tuicr) - a terminal UI for local code review
