@@ -1617,7 +1617,7 @@
 - [litetex/pull-detached-remote](https://github.com/litetex/pull-detached-remote) - Creates a branch with updates from a detached upstream of a repo and a corresponding PullRequest
 - [mihai-vlc/spacegray-vscode](https://github.com/mihai-vlc/spacegray-vscode) - Spacegray theme for visual studio code
 - [lourenci/go-to-spec](https://github.com/lourenci/go-to-spec) - VS Code extension for switch between the code and the spec file
-- [IOriens/alfred-vscode](https://github.com/IOriens/alfred-vscode) - Alfred 3 workflow that allows you to browse and open Visual Studio Code projects or simply open specified folders/files
+- [junjie-xyz/alfred-vscode](https://github.com/junjie-xyz/alfred-vscode) - Alfred 3 workflow that allows you to browse and open Visual Studio Code projects or simply open specified folders/files
 - [jensimmons/cssremedy](https://github.com/jensimmons/cssremedy) - Start your project with a remedy for the technical debt of CSS.
 - [resque/redis-namespace](https://github.com/resque/redis-namespace) - This gem adds a Redis::Namespace class which can be used to namespace Redis keys.
 - [rails/marcel](https://github.com/rails/marcel) - Find the mime type of files, examining file, filename and declared type
