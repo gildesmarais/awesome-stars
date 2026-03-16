@@ -243,7 +243,7 @@
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [lourenci/go-to-spec](https://github.com/lourenci/go-to-spec) - VS Code extension for switch between the code and the spec file
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
-- [IOriens/alfred-vscode](https://github.com/IOriens/alfred-vscode) - Alfred 3 workflow that allows you to browse and open Visual Studio Code projects or simply open specified folders/files
+- [junjie-xyz/alfred-vscode](https://github.com/junjie-xyz/alfred-vscode) - Alfred 3 workflow that allows you to browse and open Visual Studio Code projects or simply open specified folders/files
 - [vega/vega](https://github.com/vega/vega) - A visualization grammar.
 - [apvarun/toastify-js](https://github.com/apvarun/toastify-js) - Pure JavaScript library for better notification messages
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
