@@ -1432,6 +1432,8 @@
 
 ## others 
 
+- [berlinrs/berline.rs](https://github.com/berlinrs/berline.rs) - Rust Berlin website
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [stuartcrobinson/unique-window-colors](https://github.com/stuartcrobinson/unique-window-colors) - Uniquely color different VSCode workspace windows with automatic selections or customized colors and themes.
 - [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust that unifies all your formatters in one tool.
 - [RubyElders/schnellmcp](https://github.com/RubyElders/schnellmcp) - 
@@ -1963,6 +1965,7 @@
 
 ## ruby 
 
+- [inferno-framework/inferno-core](https://github.com/inferno-framework/inferno-core) - Core library for the Inferno Framework
 - [exoego/rspec-openapi](https://github.com/exoego/rspec-openapi) - Generate OpenAPI schema from RSpec request specs
 - [mbj/mutant](https://github.com/mbj/mutant) - Mutation testing for Ruby. AI writes your code. AI writes your tests. But who tests the tests?
 - [ahx/openapi_first](https://github.com/ahx/openapi_first) - openapi_first is a Ruby gem for request / response validation and contract-testing against an OpenAPI API description. It makes APIFirst easy and reliable.
