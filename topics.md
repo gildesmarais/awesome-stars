@@ -1688,7 +1688,6 @@
 - [zombocom/wicked](https://github.com/zombocom/wicked) - Use wicked to turn your controller into a wizard
 - [alexreisner/geocoder](https://github.com/alexreisner/geocoder) - Complete Ruby geocoding solution.
 - [roshiro/TitleNotifier.js](https://github.com/roshiro/TitleNotifier.js) - 👋 Lightweight (&lt; 3kb), dependency-free javascript library to dynamically show the number of unread notifications in your webpage title through a simple API.
-- [domnikl/highscore](https://github.com/domnikl/highscore) - Find and rank keywords in text
 - [HexFiend/HexFiend](https://github.com/HexFiend/HexFiend) - A fast and clever hex editor for macOS
 - [rtomayko/rack-cache](https://github.com/rtomayko/rack-cache) - Real HTTP Caching for Ruby Web Apps
 - [diasks2/ruby-nlp](https://github.com/diasks2/ruby-nlp) - A collection of links to Ruby Natural Language Processing (NLP) libraries, tools and software
