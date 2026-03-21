@@ -619,7 +619,6 @@
 - [zombocom/wicked](https://github.com/zombocom/wicked) - Use wicked to turn your controller into a wizard
 - [alexreisner/geocoder](https://github.com/alexreisner/geocoder) - Complete Ruby geocoding solution.
 - [activerecord-hackery/ransack](https://github.com/activerecord-hackery/ransack) - Object-based searching.
-- [domnikl/highscore](https://github.com/domnikl/highscore) - Find and rank keywords in text
 - [gregnavis/active_record_doctor](https://github.com/gregnavis/active_record_doctor) - Identify database issues before they hit production.
 - [rtomayko/rack-cache](https://github.com/rtomayko/rack-cache) - Real HTTP Caching for Ruby Web Apps
 - [krisleech/wisper-activejob](https://github.com/krisleech/wisper-activejob) - Provides asynchronous event publishing to Wisper using ActiveJob
