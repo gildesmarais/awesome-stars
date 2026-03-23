@@ -427,7 +427,7 @@
 - [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
 - [zdf-opensource/recommendations-pa-base](https://github.com/zdf-opensource/recommendations-pa-base) - 
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
 - [kevinschaul/feedmaker](https://github.com/kevinschaul/feedmaker) - Quickly generate an RSS feed from any website
 - [carrotIndustries/redbook](https://github.com/carrotIndustries/redbook) - Reading the Red Book – decoding Compact Disc Digital Audio
 - [bi1yeu/recruiter_rm](https://github.com/bi1yeu/recruiter_rm) - A small utility to send personalized responses to recruiters
