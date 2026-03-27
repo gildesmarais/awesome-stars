@@ -1432,6 +1432,7 @@
 
 ## others 
 
+- [1tchy/mooncal](https://github.com/1tchy/mooncal) - 
 - [Blorp-Labs/blorp](https://github.com/Blorp-Labs/blorp) - Blorp – a Threadiverse client for Lemmy and PieFed. Web, iOS & macOS, and more!
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [rails/solid_cache](https://github.com/rails/solid_cache) - A database-backed ActiveSupport::Cache::Store
