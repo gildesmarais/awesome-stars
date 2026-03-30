@@ -85,8 +85,6 @@
 
 ## CSS 
 
-- [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
-- [lazaronixon/css-zero](https://github.com/lazaronixon/css-zero) - An opinionated front-end starter kit for your "nobuild" application
 - [jensimmons/cssremedy](https://github.com/jensimmons/cssremedy) - Start your project with a remedy for the technical debt of CSS.
 - [ghosh/microtip](https://github.com/ghosh/microtip) - 💬  Minimal, accessible, ultra lightweight css tooltip library. Just 1kb.
 - [HubSpot/odometer](https://github.com/HubSpot/odometer) - Smoothly transitions numbers with ease. #hubspot-open-source
@@ -209,7 +207,6 @@
 - [akhilkalepu/record-stacks](https://github.com/akhilkalepu/record-stacks) - A web app which analyzes your DJ software's database file and provides analytics on your digital record collection.
 - [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari.
 - [julianrubisch/attractor](https://github.com/julianrubisch/attractor) - code complexity metrics visualization and exploration tool for ruby and javascript
-- [thoughtbot/superglue](https://github.com/thoughtbot/superglue) - A productive library for Classic Rails, React and Redux
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [microlinkhq/top-user-agents](https://github.com/microlinkhq/top-user-agents) - An always up-to-date list of the top 100 HTTP user-agents most used over the Internet.
 - [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - The headless Chrome/Chromium driver on top of Puppeteer. Take screenshots, generate PDFs, extract text and HTML with a production-ready API.
@@ -473,10 +470,8 @@
 - [licensee/licensed](https://github.com/licensee/licensed) - A Ruby gem to cache and verify the licenses of dependencies
 - [ardatetikbey/Standalone-Ruby](https://github.com/ardatetikbey/Standalone-Ruby) - Standalone-Ruby allows you to make your projects independent of Ruby installations.
 - [inertiajs/inertia-rails](https://github.com/inertiajs/inertia-rails) - The Rails adapter for Inertia.js.
-- [tamatebako/tebako](https://github.com/tamatebako/tebako) - Tebako: an executable packager (for Ruby programs)
 - [postmodern/spidr](https://github.com/postmodern/spidr) - A versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.
 - [tonytonyjan/jaro_winkler](https://github.com/tonytonyjan/jaro_winkler) - Ruby & C implementation of Jaro-Winkler distance algorithm which supports UTF-8 string.
-- [ElMassimo/vite_ruby](https://github.com/ElMassimo/vite_ruby) - ⚡️ Vite.js in Ruby, bringing joy to your JavaScript experience
 - [jhollinger/occams-record](https://github.com/jhollinger/occams-record) - The missing high-efficiency query API for ActiveRecord
 - [Shopify/erb_lint](https://github.com/Shopify/erb_lint) - Lint your ERB or HTML files
 - [noraj/OSCP-Exam-Report-Template-Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown) - :orange_book: Markdown Templates for Offensive Security OSCP, OSWE, OSCE, OSEE, OSWP exam report
@@ -674,9 +669,7 @@
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [0PandaDEV/ufrume](https://github.com/0PandaDEV/ufrume) - A multithreaded CLI tool to organize your music files into a folder structure defined by you.
-- [richardscollin/tmux-rs](https://github.com/richardscollin/tmux-rs) - A Rust port of tmux
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
-- [alexykn/sps](https://github.com/alexykn/sps) - Rust based package manager for macOS
 - [TianyiShi2001/audiotags](https://github.com/TianyiShi2001/audiotags) - Unified IO for different types of audio metadata
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
 - [korken89/biquad-rs](https://github.com/korken89/biquad-rs) - A Rust library for digital second order IIR filtrers, also known as biquads
@@ -756,7 +749,6 @@
 
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
 - [jsburckhardt/devcontainer-features](https://github.com/jsburckhardt/devcontainer-features) - 
 - [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [eborges-git/n8n-render](https://github.com/eborges-git/n8n-render) - Deploying n8n on Render (render.com) hosting, using separate Web Service (with Docker and Persistent Disk Storage) + Postgres DB.
@@ -781,7 +773,6 @@
 ## Swift 
 
 - [maoyama/Changes](https://github.com/maoyama/Changes) - An Open Source GUI Git Client for macOS
-- [mherrera53/GitMac](https://github.com/mherrera53/GitMac) - A modern, native macOS Git client built with SwiftUI
 - [steipete/remindctl](https://github.com/steipete/remindctl) - cli for Apple Reminders app
 - [lukas-ruzicka/testflight-feedback](https://github.com/lukas-ruzicka/testflight-feedback) - Managing TestFlight feedback better using GitHub Issues
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
@@ -810,7 +801,6 @@
 - [stuartcrobinson/unique-window-colors](https://github.com/stuartcrobinson/unique-window-colors) - Uniquely color different VSCode workspace windows with automatic selections or customized colors and themes.
 - [Karanjot786/agent-skills-cli](https://github.com/Karanjot786/agent-skills-cli) - Universal CLI for Agent Skills. Access 40,000+ skills from SkillsMP and sync them to Cursor, Claude Code, GitHub Copilot, OpenAI Codex, and Antigravity.
 - [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
-- [dmux/pagepilot](https://github.com/dmux/pagepilot) - PagePilot is a VS Code Chat participant that automatically loads external context (documentation, APIs, README files) to provide enhanced responses. Language is automatically detected from your VS Cod
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [EvanBacon/expo-quick-actions](https://github.com/EvanBacon/expo-quick-actions) - Add home screen quick actions / shortcuts and custom icons to your Expo app
@@ -825,7 +815,6 @@
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [mswjs/msw](https://github.com/mswjs/msw) - Industry standard API mocking for JavaScript.
 - [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter) - Front Matter is a CMS running straight in Visual Studio Code. Can be used with static site generators like Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more...
-- [lostintangent/gitdoc](https://github.com/lostintangent/gitdoc) - VS Code extension that allows you to edit a Git repo, like it's a multi-file, versioned document.
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [igeligel/workplacify](https://github.com/igeligel/workplacify) - The #1 desk reservation/scheduling solution for hybrid workplaces, fully open-source
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
@@ -833,16 +822,13 @@
 - [j3lte/awesome-raycast](https://github.com/j3lte/awesome-raycast) - Automated list of all Raycast extensions
 - [bamdadfr/bandcamp-plus--extension](https://github.com/bamdadfr/bandcamp-plus--extension) - Add multiple features to bandcamp.com
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
-- [kortina/vscode-markdown-notes](https://github.com/kortina/vscode-markdown-notes) - Install from: https://ark.dance/md-notes
 - [holochain-apps/volla-messages](https://github.com/holochain-apps/volla-messages) - Chat app for the Volla ecosystem!
 - [usernamehw/vscode-error-lens](https://github.com/usernamehw/vscode-error-lens) - VSCode extension that enhances display of errors and warnings.
 - [AykutSarac/jsoncrack-vscode](https://github.com/AykutSarac/jsoncrack-vscode) - VS Code extension of JSON Crack. Convert your JSON files into graphs with a single click and view them onto graphs.
 - [abstimmung-eu/abstimmung.eu](https://github.com/abstimmung-eu/abstimmung.eu) - 
 - [romansky/dom-to-semantic-markdown](https://github.com/romansky/dom-to-semantic-markdown) - DOM to Semantic-Markdown for use with LLMs
 - [mtayllan/vscode-ruby-run-tests](https://github.com/mtayllan/vscode-ruby-run-tests) - Quickly run tests on terminal
-- [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 - [sabjorn/BandcampEnhancementSuite](https://github.com/sabjorn/BandcampEnhancementSuite) - A Chrome Extension providing extra functionality for Bandcamp
-- [steel-dev/steel-browser](https://github.com/steel-dev/steel-browser) - 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser sandbox that lets you automate the web without worrying about infrastructure.
 - [PaulKinlan/full-rss](https://github.com/PaulKinlan/full-rss) - 
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [TylerFisher/sill](https://github.com/TylerFisher/sill) - Find the most popular links from your Mastodon/Bluesky networks
