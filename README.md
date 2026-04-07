@@ -396,6 +396,7 @@
 
 ## Python 
 
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
 - [Kapeli/dash-mcp-server](https://github.com/Kapeli/dash-mcp-server) - MCP server for Dash, the macOS API documentation browser
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
@@ -452,6 +453,7 @@
 
 ## Ruby 
 
+- [ksss/rubocop-yard](https://github.com/ksss/rubocop-yard) - 
 - [rails/solid_cache](https://github.com/rails/solid_cache) - A database-backed ActiveSupport::Cache::Store
 - [inferno-framework/inferno-core](https://github.com/inferno-framework/inferno-core) - Core library for the Inferno Framework
 - [RubyElders/schnellmcp](https://github.com/RubyElders/schnellmcp) - 
