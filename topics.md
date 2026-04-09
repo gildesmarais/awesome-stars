@@ -242,6 +242,7 @@
 - [versun/RSSBox](https://github.com/versun/RSSBox) - 让RSS管理更智能，让信息获取更高效 | Smarter RSS management, more efficient information access
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ GPT-5 & Realtime WebRTC compatible!
+- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [IBM/MAX-Image-Resolution-Enhancer](https://github.com/IBM/MAX-Image-Resolution-Enhancer) - Upscale an image by a factor of 4, while generating photo-realistic details.
 
 ## ai-agents 
@@ -1263,6 +1264,7 @@
 - [always-further/nono](https://github.com/always-further/nono) - Kernel-enforced agent sandbox. Capability-based isolation with secure key management, atomic rollback, cryptographic immutable audit chain of provenance. Run your agents in a zero-trust environment.
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
+- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 
 ## microservices 
 
@@ -1335,6 +1337,7 @@
 
 ## nextjs 
 
+- [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
 - [igeligel/workplacify](https://github.com/igeligel/workplacify) - The #1 desk reservation/scheduling solution for hybrid workplaces, fully open-source
 - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🌀 OpenAPI to TypeScript codegen. Production-ready SDKs, Zod schemas, TanStack Query hooks, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
@@ -1734,6 +1737,7 @@
 
 ## postgresql 
 
+- [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
 - [uppnrise/iron-veil](https://github.com/uppnrise/iron-veil) - 🛡️ High-performance Rust database proxy for real-time PII anonymization. Masks sensitive data (emails, SSN, credit cards) without application changes. PostgreSQL & MySQL support with TLS, Prometheus m
 - [igeligel/workplacify](https://github.com/igeligel/workplacify) - The #1 desk reservation/scheduling solution for hybrid workplaces, fully open-source
 - [pgadmin-org/pgadmin4](https://github.com/pgadmin-org/pgadmin4) - pgAdmin is the most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world.
@@ -2233,6 +2237,7 @@
 
 ## tailwindcss 
 
+- [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
 - [lasuillard-s/raindrop-sync-chrome](https://github.com/lasuillard-s/raindrop-sync-chrome) - Chrome browser extension for syncing bookmarks with Raindrop.
 - [nickjj/docker-rails-example](https://github.com/nickjj/docker-rails-example) - A production ready example Rails app that's using Docker and Docker Compose.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
@@ -2297,6 +2302,7 @@
 
 ## typescript 
 
+- [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
 - [Karanjot786/agent-skills-cli](https://github.com/Karanjot786/agent-skills-cli) - Universal CLI for Agent Skills. Access 40,000+ skills from SkillsMP and sync them to Cursor, Claude Code, GitHub Copilot, OpenAI Codex, and Antigravity.
 - [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 - [ferdikoomen/openapi-typescript-codegen](https://github.com/ferdikoomen/openapi-typescript-codegen) - NodeJS library that generates Typescript or Javascript clients based on the OpenAPI specification
