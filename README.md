@@ -325,6 +325,7 @@
 
 ## Others 
 
+- [mxschmitt/awesome-playwright](https://github.com/mxschmitt/awesome-playwright) - A curated list of awesome tools, utils and projects using Playwright
 - [drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient) - One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes.
 - [soundcloud/api](https://github.com/soundcloud/api) - A public repo for our Developer Community to engage about bugs and feature requests on our Public API
 - [rehypejs/awesome-rehype](https://github.com/rehypejs/awesome-rehype) - Curated list of awesome rehype resources
@@ -396,6 +397,7 @@
 
 ## Python 
 
+- [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
 - [Kapeli/dash-mcp-server](https://github.com/Kapeli/dash-mcp-server) - MCP server for Dash, the macOS API documentation browser
@@ -659,7 +661,7 @@
 - [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust that unifies all your formatters in one tool.
 - [gildesmarais/moodbar.rs](https://github.com/gildesmarais/moodbar.rs) - Fast, pure-Rust moodbar generator - spectral audio visualization as SVG, PNG, or raw RGB. WASM available!
 - [agavra/tuicr](https://github.com/agavra/tuicr) - a terminal UI for local code review
-- [superhq-ai/shuru](https://github.com/superhq-ai/shuru) - A local-first microVM sandbox for running AI agents safely on macOS
+- [superhq-ai/shuru](https://github.com/superhq-ai/shuru) - A local-first microVM sandbox for running AI agents safely on macOS & Linux
 - [anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler) - Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.
 - [rvben/rumdl](https://github.com/rvben/rumdl) - Fast Markdown linter and formatter written in Rust
 - [lagmoellertim/essentia-rs](https://github.com/lagmoellertim/essentia-rs) - Idiomatic Rust wrapper for the Essentia audio analysis library 🎶🦀
