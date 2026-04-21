@@ -123,7 +123,6 @@
 - [hetznercloud/terraform-provider-hcloud](https://github.com/hetznercloud/terraform-provider-hcloud) - Terraform Hetzner Cloud provider
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [DataDog/terraform-provider-datadog](https://github.com/DataDog/terraform-provider-datadog) - Terraform Datadog provider
-- [seatsurfing/seatsurfing](https://github.com/seatsurfing/seatsurfing) - Desk sharing, room reservation, free seating, and co-working for enterprises
 - [fwdcloudsec/granted](https://github.com/fwdcloudsec/granted) - The easiest way to access AWS.
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources.
@@ -196,6 +195,7 @@
 
 ## JavaScript 
 
+- [ZachSaucier/Just-Read](https://github.com/ZachSaucier/Just-Read) - A customizable read mode web extension.
 - [joshuayoes/ios-simulator-mcp](https://github.com/joshuayoes/ios-simulator-mcp) - MCP server for interacting with the iOS simulator
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
 - [edvardchen/eslint-plugin-i18next](https://github.com/edvardchen/eslint-plugin-i18next) - ESLint plugin for i18next. Prevent to display non-localized text for users
