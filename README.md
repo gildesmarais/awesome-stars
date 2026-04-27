@@ -457,6 +457,7 @@
 
 ## Ruby 
 
+- [djezzzl/database_consistency](https://github.com/djezzzl/database_consistency) - The tool to avoid various issues due to inconsistencies and inefficiencies between a database schema and application models.
 - [ankane/authtrail](https://github.com/ankane/authtrail) - Track Devise login activity
 - [ksss/rubocop-yard](https://github.com/ksss/rubocop-yard) - 
 - [rails/solid_cache](https://github.com/rails/solid_cache) - A database-backed ActiveSupport::Cache::Store
@@ -776,7 +777,7 @@
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [opengapps/opengapps](https://github.com/opengapps/opengapps) - The main repository of the Open GApps Project
 - [rupa/z](https://github.com/rupa/z) - z - jump around
-- [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you or your team did on the last working day
+- [nilbuild/git-standup](https://github.com/nilbuild/git-standup) - Recall what you or your team did on the last working day
 
 ## Swift 
 
@@ -895,7 +896,7 @@
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
