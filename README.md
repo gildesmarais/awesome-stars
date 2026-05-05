@@ -17,7 +17,6 @@
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
-- [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
@@ -184,10 +183,6 @@
 
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
-## JSON 
-
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
-
 ## Java 
 
 - [1tchy/mooncal](https://github.com/1tchy/mooncal) - 
@@ -309,6 +304,7 @@
 ## Markdown 
 
 - [adr/adr.github.io](https://github.com/adr/adr.github.io) - Homepage of the ADR GitHub organization
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## Nunjucks 
 
@@ -567,7 +563,7 @@
 - [ankane/disco](https://github.com/ankane/disco) - Recommendations for Ruby and Rails using collaborative filtering
 - [shlima/health_bit](https://github.com/shlima/health_bit) - Tiny health check of Rack apps like Rails, Sinatra for use with uptime checking systems like Kubernetes, Docker or Uptimerobot
 - [ice-cube-ruby/ice_cube](https://github.com/ice-cube-ruby/ice_cube) - Ruby Date Recurrence Library - Allows easy creation of recurrence rules and fast querying
-- [gildesmarais/dotfiles](https://github.com/gildesmarais/dotfiles) - 🤯 Collection of files whose names are supposed to begin with a dot. But they don't in this repo. rcm handles the dots…
+- [gildesmarais/dotfiles](https://github.com/gildesmarais/dotfiles) - 🤯 Syncable configuration files and AI Skills, convenient scripts… 🎶
 - [serradura/u-case](https://github.com/serradura/u-case) - Represent use cases in a simple and powerful way while writing modular, expressive and sequentially logical code.
 - [AaronC81/sord](https://github.com/AaronC81/sord) - Convert YARD docs to Sorbet RBI and Ruby 3/Steep RBS files
 - [jrochkind/attr_json](https://github.com/jrochkind/attr_json) - Serialized json-hash-backed ActiveRecord attributes, super smooth
