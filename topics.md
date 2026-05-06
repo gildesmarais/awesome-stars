@@ -1449,7 +1449,7 @@
 - [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [Kapeli/dash-mcp-server](https://github.com/Kapeli/dash-mcp-server) - MCP server for Dash, the macOS API documentation browser
-- [steipete/remindctl](https://github.com/steipete/remindctl) - cli for Apple Reminders app
+- [openclaw/remindctl](https://github.com/openclaw/remindctl) - cli for Apple Reminders app
 - [joshuayoes/ios-simulator-mcp](https://github.com/joshuayoes/ios-simulator-mcp) - MCP server for interacting with the iOS simulator
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [superhq-ai/shuru](https://github.com/superhq-ai/shuru) - A local-first microVM sandbox for running AI agents safely on macOS & Linux
