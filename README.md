@@ -201,6 +201,7 @@
 - [jessegrosjean/TaskPaper](https://github.com/jessegrosjean/TaskPaper) - TaskPaper shared source code for TaskPaper license holders
 - [richiehowelll/jira-diff](https://github.com/richiehowelll/jira-diff) - 
 - [akhilkalepu/record-stacks](https://github.com/akhilkalepu/record-stacks) - A web app which analyzes your DJ software's database file and provides analytics on your digital record collection.
+- [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari.
 - [julianrubisch/attractor](https://github.com/julianrubisch/attractor) - code complexity metrics visualization and exploration tool for ruby and javascript
 - [microlinkhq/top-user-agents](https://github.com/microlinkhq/top-user-agents) - An always up-to-date list of the top 100 HTTP user-agents most used over the Internet.
 - [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - The headless Chrome/Chromium driver on top of Puppeteer. Take screenshots, generate PDFs, extract text and HTML with a production-ready API.
@@ -218,7 +219,7 @@
 - [rserota/wad](https://github.com/rserota/wad) - Web Audio DAW.  Use the Web Audio API for dynamic sound synthesis.  It's like jQuery for your ears.
 - [yujiosaka/headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) - Distributed crawler powered by Headless Chrome
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
-- [juliuste/direkt.bahn.guru](https://github.com/juliuste/direkt.bahn.guru) - All direct long-distance railway connections for cities in and beyond central Europe.
+- [juliuste/direkt.bahn.guru](https://github.com/juliuste/direkt.bahn.guru) - CURRENTLY ARCHIVED BECAUSE OUR DATA SOURCE IS NO LONGER AVAILABLE. CHECK https://github.com/ton-An/station_reach FOR AN ALTERNATIVE | All direct long-distance railway connections for cities in and bey
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [microsoft/vscode-recipes](https://github.com/microsoft/vscode-recipes) - 
 - [sindresorhus/alfred-emoj](https://github.com/sindresorhus/alfred-emoj) - Alfred 3 workflow to find relevant emoji from text
@@ -246,7 +247,7 @@
 - [bcomnes/jsonfeed-to-rss](https://github.com/bcomnes/jsonfeed-to-rss) - 📡Convert a jsonfeed to an RSS 2.0 feed with iTunes extensions
 - [lebab/lebab](https://github.com/lebab/lebab) - Turn your ES5 code into readable ES6. Lebab does the opposite of what Babel does.
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
-- [juliuste/bahn.guru](https://github.com/juliuste/bahn.guru) - Deutsche Bahn ticket price calendar.
+- [juliuste/bahn.guru](https://github.com/juliuste/bahn.guru) - CURRENTLY ARCHIVED BECAUSE OF OUTDATED UPSTREAM API. FOR DETAILS SEE https://github.com/juliuste/bahn.guru/issues/63 | Deutsche Bahn ticket price calendar.
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [BloombergGraphics/whatiscode](https://github.com/BloombergGraphics/whatiscode) - Paul Ford’s “What Is Code?”
 - [stormwarning/stylelint-config-recess-order](https://github.com/stormwarning/stylelint-config-recess-order) - 🗂️ Recess-based property sort order for Stylelint.
@@ -606,7 +607,7 @@
 - [2called-chaos/watchmonkey_cli](https://github.com/2called-chaos/watchmonkey_cli) - Watchmonkey CLI - dead simple monitoring tool for rubyists
 - [monora/rgl](https://github.com/monora/rgl) - RGL is a framework for graph data structures and algorithms in Ruby.
 - [softwareinmotion/ibanizator](https://github.com/softwareinmotion/ibanizator) - Ruby gem for calculating iban out of account details.
-- [html2rss/html2rss-web](https://github.com/html2rss/html2rss-web) - 🕸 Generates RSS feeds of any website & serves to the web! Automatic scraping. Ready to use configs. Write your own.
+- [html2rss/html2rss-web](https://github.com/html2rss/html2rss-web) - 🕸 Turn almost any website into an RSS feed and serve it instantly. Automatic scraping. Start fast with Docker.
 - [gildesmarais/alfred_workflows](https://github.com/gildesmarais/alfred_workflows) - ⌨️ Alfred workflows
 - [drapergem/draper](https://github.com/drapergem/draper) - Decorators/View-Models for Rails Applications
 - [tj/terminal-table](https://github.com/tj/terminal-table) - Ruby ASCII Table Generator, simple and feature rich.
@@ -781,7 +782,6 @@
 - [openclaw/remindctl](https://github.com/openclaw/remindctl) - cli for Apple Reminders app
 - [lukas-ruzicka/testflight-feedback](https://github.com/lukas-ruzicka/testflight-feedback) - Managing TestFlight feedback better using GitHub Issues
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
-- [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari.
 - [rileytestut/Delta](https://github.com/rileytestut/Delta) - Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.
 - [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
@@ -809,7 +809,6 @@
 - [stuartcrobinson/unique-window-colors](https://github.com/stuartcrobinson/unique-window-colors) - Uniquely color different VSCode workspace windows with automatic selections or customized colors and themes.
 - [Karanjot786/agent-skills-cli](https://github.com/Karanjot786/agent-skills-cli) - Universal CLI for Agent Skills. Access 40,000+ skills from SkillsMP and sync them to Cursor, Claude Code, GitHub Copilot, OpenAI Codex, and Antigravity.
 - [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
-- [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [EvanBacon/expo-quick-actions](https://github.com/EvanBacon/expo-quick-actions) - Add home screen quick actions / shortcuts and custom icons to your Expo app
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
@@ -891,7 +890,7 @@
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [WesleyAC/deeplinks](https://github.com/WesleyAC/deeplinks) - Simple deep links to any selection of text on your website.
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
-- [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
+- [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - Unofficial TypeScript & JavaScript Language Server
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
