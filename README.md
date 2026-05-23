@@ -229,7 +229,6 @@
 - [jefflau/jest-fetch-mock](https://github.com/jefflau/jest-fetch-mock) - Jest mock for fetch
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [semohr/risikogebiete_deutschland](https://github.com/semohr/risikogebiete_deutschland) - 
-- [AndreasArvidsson/MasvisOnline](https://github.com/AndreasArvidsson/MasvisOnline) - Online audio file mastering analyzer
 - [le0pard/pgtune](https://github.com/le0pard/pgtune) - Pgtune - tuning PostgreSQL config by your hardware
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [dennisdebel/pi_dj](https://github.com/dennisdebel/pi_dj) - Tips, configs and skins for djing using open source dj software, a raspberry pi and a controller.
@@ -395,6 +394,7 @@
 
 ## Python 
 
+- [marl/medleydb](https://github.com/marl/medleydb) - 
 - [html2rss/botasaurus-scrape-api](https://github.com/html2rss/botasaurus-scrape-api) - Scraper API bridge between html2rss and Botasaurus for rendered-page fetching.
 - [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
@@ -654,6 +654,7 @@
 
 ## Rust 
 
+- [Serial-ATA/lofty-rs](https://github.com/Serial-ATA/lofty-rs) - Audio metadata library
 - [jmg049/audio_samples](https://github.com/jmg049/audio_samples) - A high-performance audio processing library for Rust with Python bindings.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
@@ -896,6 +897,7 @@
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - Unofficial TypeScript & JavaScript Language Server
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [AndreasArvidsson/MasvisOnline](https://github.com/AndreasArvidsson/MasvisOnline) - Online audio file mastering analyzer
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
