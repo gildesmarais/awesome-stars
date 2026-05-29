@@ -566,7 +566,7 @@
 - [shlima/health_bit](https://github.com/shlima/health_bit) - Tiny health check of Rack apps like Rails, Sinatra for use with uptime checking systems like Kubernetes, Docker or Uptimerobot
 - [ice-cube-ruby/ice_cube](https://github.com/ice-cube-ruby/ice_cube) - Ruby Date Recurrence Library - Allows easy creation of recurrence rules and fast querying
 - [gildesmarais/dotfiles](https://github.com/gildesmarais/dotfiles) - 🤯 Syncable configuration files and AI Skills, convenient scripts… 🎶
-- [serradura/u-case](https://github.com/serradura/u-case) - Represent use cases in a simple and powerful way while writing modular, expressive and sequentially logical code.
+- [u-gems/u-case](https://github.com/u-gems/u-case) - Represent use cases in a simple and powerful way while writing modular, expressive and sequentially logical code.
 - [AaronC81/sord](https://github.com/AaronC81/sord) - Convert YARD docs to Sorbet RBI and Ruby 3/Steep RBS files
 - [jrochkind/attr_json](https://github.com/jrochkind/attr_json) - Serialized json-hash-backed ActiveRecord attributes, super smooth
 - [pay-rails/pay](https://github.com/pay-rails/pay) - Payments for Ruby on Rails apps
@@ -845,7 +845,7 @@
 - [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
 - [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx
 - [lasuillard-s/raindrop-sync-chrome](https://github.com/lasuillard-s/raindrop-sync-chrome) - Chrome browser extension for syncing bookmarks with Raindrop.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
 - [remvze/nothing](https://github.com/remvze/nothing) - 🌱 Simply do nothing and just be.
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI RSS Reader
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line 
