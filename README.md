@@ -690,7 +690,7 @@
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
 - [Holzhaus/rekordcrate](https://github.com/Holzhaus/rekordcrate) - Library for parsing Pioneer Rekordbox device exports
 - [gjtorikian/commonmarker](https://github.com/gjtorikian/commonmarker) - Ruby wrapper for the comrak (CommonMark parser) Rust crate
-- [exaroth/liveboat](https://github.com/exaroth/liveboat) - Generate static pages from your RSS urls
+- [exaroth/liveboat](https://github.com/exaroth/liveboat) - Generate static pages from RSS urls
 - [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
