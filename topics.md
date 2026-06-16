@@ -1447,6 +1447,8 @@
 
 ## others 
 
+- [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) - A collection of agent-optimized React Native skills for AI coding assistants.
+- [jamescamagong/DJ-set-analysis](https://github.com/jamescamagong/DJ-set-analysis) - Using data from 1001tracklists.com and Spotify to uncover the secrets of DJing
 - [ota-meshi/eslint-plugin-regexp](https://github.com/ota-meshi/eslint-plugin-regexp) - ESLint plugin for finding regex mistakes and style guide violations.
 - [marl/medleydb](https://github.com/marl/medleydb) - 
 - [jmg049/audio_samples](https://github.com/jmg049/audio_samples) - A high-performance audio processing library for Rust with Python bindings.
