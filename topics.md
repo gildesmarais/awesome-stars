@@ -429,7 +429,7 @@
 ## bootstrap 
 
 - [stormwarning/stylelint-config-recess-order](https://github.com/stormwarning/stylelint-config-recess-order) - 🗂️ Recess-based property sort order for Stylelint.
-- [ddnexus/pagy](https://github.com/ddnexus/pagy) - 🏆 The Best Pagination Ruby Gem 🥇
+- [ddnexus/pagy](https://github.com/ddnexus/pagy) - Agnostic pagination in plain ruby
 
 ## bot 
 
@@ -1918,7 +1918,7 @@
 - [westonganger/spreadsheet_architect](https://github.com/westonganger/spreadsheet_architect) - Spreadsheet Architect is a library that allows you to create XLSX, ODS, or CSV spreadsheets super easily from ActiveRecord relations, plain Ruby objects, or tabular data.
 - [ledermann/unread](https://github.com/ledermann/unread) - Handle unread records and mark them as read with Ruby on Rails
 - [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system.
-- [ddnexus/pagy](https://github.com/ddnexus/pagy) - 🏆 The Best Pagination Ruby Gem 🥇
+- [ddnexus/pagy](https://github.com/ddnexus/pagy) - Agnostic pagination in plain ruby
 - [markets/invisible_captcha](https://github.com/markets/invisible_captcha) - 🍯 Unobtrusive and flexible spam protection for Rails apps
 - [eliotsykes/rails-security-checklist](https://github.com/eliotsykes/rails-security-checklist) - :key: Community-driven Rails Security Checklist (see our GitHub Issues for the newest checks that aren't yet in the README)
 - [activerecord-hackery/ransack](https://github.com/activerecord-hackery/ransack) - Object-based searching.
@@ -2060,7 +2060,7 @@
 - [gildesmarais/matomo-to-influx](https://github.com/gildesmarais/matomo-to-influx) - 📯Push Matomo stats to influxDB. Can optionally run in Docker.
 - [InfluxCommunity/influxdb-ruby](https://github.com/InfluxCommunity/influxdb-ruby) - Ruby client for InfluxDB
 - [factbook/factbook](https://github.com/factbook/factbook) - factbook gem -  scripts for the world factbook (get open structured data e.g JSON etc.)
-- [ddnexus/pagy](https://github.com/ddnexus/pagy) - 🏆 The Best Pagination Ruby Gem 🥇
+- [ddnexus/pagy](https://github.com/ddnexus/pagy) - Agnostic pagination in plain ruby
 - [glebm/i18n-tasks](https://github.com/glebm/i18n-tasks) - Manage translation and localization with static analysis, for Ruby i18n
 - [2called-chaos/watchmonkey_cli](https://github.com/2called-chaos/watchmonkey_cli) - Watchmonkey CLI - dead simple monitoring tool for rubyists
 - [monora/rgl](https://github.com/monora/rgl) - RGL is a framework for graph data structures and algorithms in Ruby.
