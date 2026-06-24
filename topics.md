@@ -721,7 +721,7 @@
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [Karanjot786/agent-skills-cli](https://github.com/Karanjot786/agent-skills-cli) - Universal CLI for Agent Skills. Access 40,000+ skills from SkillsMP and sync them to Cursor, Claude Code, GitHub Copilot, OpenAI Codex, and Antigravity.
 - [rvben/rumdl](https://github.com/rvben/rumdl) - Fast Markdown linter and formatter written in Rust
-- [hey-api/hey-api](https://github.com/hey-api/hey-api) - 👨‍🚀 Ecosystem for turning API specifications into production-ready code. Used by Vercel, OpenCode, PayPal, AWS, Autodesk, and many more.
+- [hey-api/hey-api](https://github.com/hey-api/hey-api) - 👨‍🚀 Turn API specifications into production-ready SDKs, validators, mocks, and more. 20+ plugins. Millions of weekly npm downloads. Used by Vercel, OpenCode, PayPal, AWS, Autodesk, and many more.
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser. Your personal reference library, searchable in an instant.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
@@ -1866,7 +1866,7 @@
 ## python 
 
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
-- [hey-api/hey-api](https://github.com/hey-api/hey-api) - 👨‍🚀 Ecosystem for turning API specifications into production-ready code. Used by Vercel, OpenCode, PayPal, AWS, Autodesk, and many more.
+- [hey-api/hey-api](https://github.com/hey-api/hey-api) - 👨‍🚀 Turn API specifications into production-ready SDKs, validators, mocks, and more. 20+ plugins. Millions of weekly npm downloads. Used by Vercel, OpenCode, PayPal, AWS, Autodesk, and many more.
 - [aubio/aubio](https://github.com/aubio/aubio) - a library for audio and music analysis
 - [MTG/essentia](https://github.com/MTG/essentia) - C++ library for audio and music analysis, description and synthesis, including Python bindings
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
@@ -2375,7 +2375,7 @@
 - [ferdikoomen/openapi-typescript-codegen](https://github.com/ferdikoomen/openapi-typescript-codegen) - NodeJS library that generates Typescript or Javascript clients based on the OpenAPI specification
 - [igeligel/workplacify](https://github.com/igeligel/workplacify) - The #1 desk reservation/scheduling solution for hybrid workplaces, fully open-source
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
-- [hey-api/hey-api](https://github.com/hey-api/hey-api) - 👨‍🚀 Ecosystem for turning API specifications into production-ready code. Used by Vercel, OpenCode, PayPal, AWS, Autodesk, and many more.
+- [hey-api/hey-api](https://github.com/hey-api/hey-api) - 👨‍🚀 Turn API specifications into production-ready SDKs, validators, mocks, and more. 20+ plugins. Millions of weekly npm downloads. Used by Vercel, OpenCode, PayPal, AWS, Autodesk, and many more.
 - [bamdadfr/bandcamp-plus--extension](https://github.com/bamdadfr/bandcamp-plus--extension) - Add multiple features to bandcamp.com
 - [AykutSarac/jsoncrack-vscode](https://github.com/AykutSarac/jsoncrack-vscode) - VS Code extension of JSON Crack. Convert your JSON files into graphs with a single click and view them onto graphs.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
