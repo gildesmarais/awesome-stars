@@ -6,6 +6,7 @@
 ## Contents
 
 - [AppleScript](#applescript)
+- [Astro](#astro)
 - [C](#c)
 - [C++](#c++)
 - [CSS](#css)
@@ -48,6 +49,10 @@
 ## AppleScript 
 
 - [certuna/Applescripts-for-Music](https://github.com/certuna/Applescripts-for-Music) - Various Applescripts for Music
+
+## Astro 
+
+- [gildesmarais/website](https://github.com/gildesmarais/website) - My website and blog.
 
 ## C 
 
@@ -397,6 +402,7 @@
 
 ## Python 
 
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [marl/medleydb](https://github.com/marl/medleydb) - 
 - [html2rss/botasaurus-scrape-api](https://github.com/html2rss/botasaurus-scrape-api) - Scraper API bridge between html2rss and Botasaurus for rendered-page fetching.
 - [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers
