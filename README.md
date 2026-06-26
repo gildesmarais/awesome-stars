@@ -663,6 +663,7 @@
 
 ## Rust 
 
+- [sdroege/ebur128](https://github.com/sdroege/ebur128) - Implementation of the EBU R128 loudness standard
 - [spinel-coop/rv](https://github.com/spinel-coop/rv) - 💎💨 Extremely fast Ruby version and gem manager
 - [yotarok/flacenc-rs](https://github.com/yotarok/flacenc-rs) - FLAC encoder written in Rust
 - [HEnquist/rubato](https://github.com/HEnquist/rubato) - An asyncronous resampling library written in Rust
@@ -671,13 +672,13 @@
 - [jmg049/audio_samples](https://github.com/jmg049/audio_samples) - A high-performance audio processing library for Rust with Python bindings.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
-- [always-further/nono](https://github.com/always-further/nono) - Sandbox any AI agent in seconds - zero setup, zero latency.
+- [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - Sandbox any AI agent in seconds - zero setup, zero latency.
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [bountyyfi/lonkero](https://github.com/bountyyfi/lonkero) - Lonkero - Wraps around your attack surface.  Professional-grade scanner for real penetration testing. Fast. Modular. Rust.
 - [fabro-sh/fabro](https://github.com/fabro-sh/fabro) - ⚒️ The open source dark software factory for expert engineers.
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust that unifies all your formatters in one tool.
-- [gildesmarais/moodbar.rs](https://github.com/gildesmarais/moodbar.rs) - The classic Moodbar. Rust core with CLI, WASM and Native (iOS/Android) bindings.
+- [gildesmarais/moodbar.rs](https://github.com/gildesmarais/moodbar.rs) - Fast music visualisation: classic Amarok Moodbar plus new shiny waveforms. Bands and colors configurable. Rust crate with CLI, WASM (npm) and Native (iOS/Android) bindings. Demo on website.  🔴🔵🟢
 - [agavra/tuicr](https://github.com/agavra/tuicr) - a code review TUI with vim keybindings
 - [superhq-ai/shuru](https://github.com/superhq-ai/shuru) - A local-first microVM sandbox for running AI agents safely on macOS & Linux
 - [anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler) - Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.
