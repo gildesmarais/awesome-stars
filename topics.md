@@ -6,6 +6,7 @@
 ## Contents
 
 - [agent](#agent)
+- [agent-skills](#agent-skills)
 - [agents](#agents)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
@@ -232,6 +233,14 @@
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
+
+## agent-skills 
+
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
+- [dpearson2699/swift-ios-skills](https://github.com/dpearson2699/swift-ios-skills) - Agent Skills for iOS 26+, Swift 6.3, SwiftUI, and modern Apple frameworks
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
+- [Karanjot786/agent-skills-cli](https://github.com/Karanjot786/agent-skills-cli) - Universal CLI for Agent Skills. Access 40,000+ skills from SkillsMP and sync them to Cursor, Claude Code, GitHub Copilot, OpenAI Codex, and Antigravity.
+- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 
 ## agents 
 
@@ -761,6 +770,7 @@
 
 ## docker 
 
+- [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
@@ -1174,6 +1184,7 @@
 
 ## linux 
 
+- [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser. Your personal reference library, searchable in an instant.
@@ -1224,6 +1235,7 @@
 
 ## mac 
 
+- [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
@@ -1244,6 +1256,7 @@
 
 ## macos 
 
+- [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 - [mikekazakov/nimble-commander](https://github.com/mikekazakov/nimble-commander) - Nimble Commander - dual-pane file manager for Mac
 - [maoyama/Changes](https://github.com/maoyama/Changes) - An Open Source GUI Git Client for macOS
 - [BRO3886/rem](https://github.com/BRO3886/rem) - A powerful ai-native CLI tool for macOS Reminders app
@@ -1464,6 +1477,9 @@
 
 ## others 
 
+- [revivals47/hayate-app](https://github.com/revivals47/hayate-app) - Hayate - A native macOS file manager built with Rust and SwiftUI. Made in Japan.
+- [bikini/exploitarium](https://github.com/bikini/exploitarium) - A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed 
+- [shshemi/tabiew](https://github.com/shshemi/tabiew) - A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet.
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [yotarok/flacenc-rs](https://github.com/yotarok/flacenc-rs) - FLAC encoder written in Rust
 - [HEnquist/rubato](https://github.com/HEnquist/rubato) - An asyncronous resampling library written in Rust
@@ -1486,7 +1502,7 @@
 - [fabro-sh/fabro](https://github.com/fabro-sh/fabro) - ⚒️ The open source dark software factory for expert engineers.
 - [berlinrs/berline.rs](https://github.com/berlinrs/berline.rs) - Rust Berlin website
 - [stuartcrobinson/unique-window-colors](https://github.com/stuartcrobinson/unique-window-colors) - Uniquely color different VSCode workspace windows with automatic selections or customized colors and themes.
-- [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust that unifies all your formatters in one tool.
+- [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform that unifies all your formatters.
 - [RubyElders/schnellmcp](https://github.com/RubyElders/schnellmcp) - 
 - [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
@@ -1503,7 +1519,6 @@
 - [edvardchen/eslint-plugin-i18next](https://github.com/edvardchen/eslint-plugin-i18next) - ESLint plugin for i18next. Prevent to display non-localized text for users
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [lukas-ruzicka/testflight-feedback](https://github.com/lukas-ruzicka/testflight-feedback) - Managing TestFlight feedback better using GitHub Issues
-- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [mjbvz/vscode-github-markdown-preview-style](https://github.com/mjbvz/vscode-github-markdown-preview-style) - VS Code extension that changes the built-in markdown preview to match Github's styling
 - [theiskaa/readabilityrs](https://github.com/theiskaa/readabilityrs) - A Rust port of Mozilla's standalone readability library
 - [mensfeld/yard-lint](https://github.com/mensfeld/yard-lint) - Check your YARD docs like RuboCop checks your code - a linter for YARD documentation.
@@ -2116,6 +2131,7 @@
 
 ## rust 
 
+- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [sdroege/ebur128](https://github.com/sdroege/ebur128) - Implementation of the EBU R128 loudness standard
 - [M-Igashi/mp3rgain](https://github.com/M-Igashi/mp3rgain) - Lossless MP3 volume adjustment - a modern mp3gain replacement written in Rust
 - [Serial-ATA/lofty-rs](https://github.com/Serial-ATA/lofty-rs) - Audio metadata library
@@ -2161,7 +2177,6 @@
 - [wezm/rsspls](https://github.com/wezm/rsspls) - Generate RSS feeds from websites
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
-- [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [cdown/mack](https://github.com/cdown/mack) - An opinionated, fast music organiser.
@@ -2339,7 +2354,6 @@
 - [naggie/dstask](https://github.com/naggie/dstask) - Git powered terminal-based todo/note manager --  markdown note page per task. Single binary!
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
-- [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
@@ -2433,6 +2447,7 @@
 
 ## vim 
 
+- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [aioutecism/amVim-for-VSCode](https://github.com/aioutecism/amVim-for-VSCode) - The Vim mode for Visual Studio Code(vscode) that works as expected.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
