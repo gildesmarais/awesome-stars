@@ -169,6 +169,7 @@
 
 ## HTML 
 
+- [revivals47/hayate-app](https://github.com/revivals47/hayate-app) - Hayate - A native macOS file manager built with Rust and SwiftUI. Made in Japan.
 - [berlinrs/berline.rs](https://github.com/berlinrs/berline.rs) - Rust Berlin website
 - [yairEO/tagify](https://github.com/yairEO/tagify) - 🔖 lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue
 - [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org) - HTTP Archive's annual "State of the Web" report made by the web community
@@ -402,6 +403,7 @@
 
 ## Python 
 
+- [bikini/exploitarium](https://github.com/bikini/exploitarium) - A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed 
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [marl/medleydb](https://github.com/marl/medleydb) - 
 - [html2rss/botasaurus-scrape-api](https://github.com/html2rss/botasaurus-scrape-api) - Scraper API bridge between html2rss and Botasaurus for rendered-page fetching.
@@ -663,6 +665,8 @@
 
 ## Rust 
 
+- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
+- [shshemi/tabiew](https://github.com/shshemi/tabiew) - A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet.
 - [sdroege/ebur128](https://github.com/sdroege/ebur128) - Implementation of the EBU R128 loudness standard
 - [spinel-coop/rv](https://github.com/spinel-coop/rv) - 💎💨 Extremely fast Ruby version and gem manager
 - [yotarok/flacenc-rs](https://github.com/yotarok/flacenc-rs) - FLAC encoder written in Rust
@@ -677,7 +681,7 @@
 - [bountyyfi/lonkero](https://github.com/bountyyfi/lonkero) - Lonkero - Wraps around your attack surface.  Professional-grade scanner for real penetration testing. Fast. Modular. Rust.
 - [fabro-sh/fabro](https://github.com/fabro-sh/fabro) - ⚒️ The open source dark software factory for expert engineers.
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
-- [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust that unifies all your formatters in one tool.
+- [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform that unifies all your formatters.
 - [gildesmarais/moodbar.rs](https://github.com/gildesmarais/moodbar.rs) - Fast music visualisation: classic Amarok Moodbar plus new shiny waveforms. Bands and colors configurable. Rust crate with CLI, WASM (npm) and Native (iOS/Android) bindings. Demo on website.  🔴🔵🟢
 - [agavra/tuicr](https://github.com/agavra/tuicr) - a code review TUI with vim keybindings
 - [superhq-ai/shuru](https://github.com/superhq-ai/shuru) - A local-first microVM sandbox for running AI agents safely on macOS & Linux
@@ -735,7 +739,6 @@
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [Barre/privaxy](https://github.com/Barre/privaxy) - Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic. Also check out my new project, https://github.com/Barre/ZeroFS
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
-- [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [danielpclark/rutie](https://github.com/danielpclark/rutie) - “The Tie Between Ruby and Rust.”
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
@@ -770,6 +773,7 @@
 
 ## Shell 
 
+- [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 - [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) - A collection of agent-optimized React Native skills for AI coding assistants.
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
