@@ -1477,8 +1477,10 @@
 
 ## others 
 
+- [ASLP-lab/SongFormer](https://github.com/ASLP-lab/SongFormer) - 
+- [GiantSteps/giantsteps-tempo-dataset](https://github.com/GiantSteps/giantsteps-tempo-dataset) - This repository contains the annotations and download scripts for the audio files of the GiantSteps Tempo data set. This data set was published at ISMIR 2015: P. Knees et al.: "Two data sets for tempo
+- [GiantSteps/giantsteps-key-dataset](https://github.com/GiantSteps/giantsteps-key-dataset) - This repository contains the annotations and download scripts for the audio files of the GiantSteps Key data set. This data set was published at ISMIR 2015: P. Knees et al.: "Two data sets for tempo e
 - [revivals47/hayate-app](https://github.com/revivals47/hayate-app) - Hayate - A native macOS file manager built with Rust and SwiftUI. Made in Japan.
-- [bikini/exploitarium](https://github.com/bikini/exploitarium) - A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed 
 - [shshemi/tabiew](https://github.com/shshemi/tabiew) - A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet.
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [yotarok/flacenc-rs](https://github.com/yotarok/flacenc-rs) - FLAC encoder written in Rust
@@ -1597,8 +1599,8 @@
 - [Shopify/flash-list](https://github.com/Shopify/flash-list) - A better list for React Native
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
-- [reidmorrison/rails_semantic_logger](https://github.com/reidmorrison/rails_semantic_logger) - Rails Semantic Logger replaces the Rails default logger with Semantic Logger
-- [reidmorrison/semantic_logger](https://github.com/reidmorrison/semantic_logger) - Semantic Logger is a feature rich logging framework, and replacement for existing Ruby & Rails loggers.
+- [reidmorrison/rails_semantic_logger](https://github.com/reidmorrison/rails_semantic_logger) - Rails Semantic Logger replaces the Rails default logger with Semantic Logger, so that Rails, your application code, and many common gems all log through structured logging instead of plain text.
+- [reidmorrison/semantic_logger](https://github.com/reidmorrison/semantic_logger) - Semantic Logger is a high-performance, asynchronous structured logging framework for Ruby and Rails.
 - [ImageOptim/gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.
 - [instacart/wilson_score](https://github.com/instacart/wilson_score) - Simple, dependency-free Wilson score
 - [mrwhale/fritzbox-api](https://github.com/mrwhale/fritzbox-api) - bash script to collect various information from your Fritzbox via its SOAP api
@@ -2042,7 +2044,7 @@
 - [yabeda-rb/yabeda](https://github.com/yabeda-rb/yabeda) - Extendable framework for collecting and exporting metrics from your Ruby application
 - [truemail-rb/truemail](https://github.com/truemail-rb/truemail) - 🚀 Configurable framework agnostic plain Ruby 📨 email validator/verifier. Verify email via Regex, DNS, SMTP and even more. Be sure that email address valid and exists.
 - [afair/email_address](https://github.com/afair/email_address) - The EmailAddress Gem to work with and validate email addresses.
-- [ardatetikbey/Standalone-Ruby](https://github.com/ardatetikbey/Standalone-Ruby) - Standalone-Ruby allows you to make your projects independent of Ruby installations.
+- [heyardatetik/Standalone-Ruby](https://github.com/heyardatetik/Standalone-Ruby) - Standalone-Ruby allows you to make your projects independent of Ruby installations.
 - [julianrubisch/attractor](https://github.com/julianrubisch/attractor) - code complexity metrics visualization and exploration tool for ruby and javascript
 - [postmodern/spidr](https://github.com/postmodern/spidr) - A versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.
 - [tonytonyjan/jaro_winkler](https://github.com/tonytonyjan/jaro_winkler) - Ruby & C implementation of Jaro-Winkler distance algorithm which supports UTF-8 string.
