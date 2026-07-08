@@ -2037,7 +2037,7 @@
 - [yabeda-rb/yabeda](https://github.com/yabeda-rb/yabeda) - Extendable framework for collecting and exporting metrics from your Ruby application
 - [truemail-rb/truemail](https://github.com/truemail-rb/truemail) - 🚀 Configurable framework agnostic plain Ruby 📨 email validator/verifier. Verify email via Regex, DNS, SMTP and even more. Be sure that email address valid and exists.
 - [afair/email_address](https://github.com/afair/email_address) - The EmailAddress Gem to work with and validate email addresses.
-- [ardatetikbey/Standalone-Ruby](https://github.com/ardatetikbey/Standalone-Ruby) - Standalone-Ruby allows you to make your projects independent of Ruby installations.
+- [ardatetikexe/Standalone-Ruby](https://github.com/ardatetikexe/Standalone-Ruby) - Standalone-Ruby allows you to make your projects independent of Ruby installations.
 - [julianrubisch/attractor](https://github.com/julianrubisch/attractor) - code complexity metrics visualization and exploration tool for ruby and javascript
 - [postmodern/spidr](https://github.com/postmodern/spidr) - A versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.
 - [tonytonyjan/jaro_winkler](https://github.com/tonytonyjan/jaro_winkler) - Ruby & C implementation of Jaro-Winkler distance algorithm which supports UTF-8 string.
