@@ -1472,6 +1472,7 @@
 
 ## others 
 
+- [twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill) - SwiftUI agent skill for Claude Code, Codex, and other AI tools.
 - [attilagyorffy/chromaprint-next](https://github.com/attilagyorffy/chromaprint-next) - A pure-Rust 🦀 port of Chromaprint, the audio fingerprinting library used by AcoustID.
 - [ASLP-lab/SongFormer](https://github.com/ASLP-lab/SongFormer) - 
 - [GiantSteps/giantsteps-tempo-dataset](https://github.com/GiantSteps/giantsteps-tempo-dataset) - This repository contains the annotations and download scripts for the audio files of the GiantSteps Tempo data set. This data set was published at ISMIR 2015: P. Knees et al.: "Two data sets for tempo
