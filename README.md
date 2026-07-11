@@ -667,6 +667,7 @@
 
 ## Rust 
 
+- [malisper/pgrust](https://github.com/malisper/pgrust) - Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
 - [attilagyorffy/chromaprint-next](https://github.com/attilagyorffy/chromaprint-next) - A pure-Rust 🦀 port of Chromaprint, the audio fingerprinting library used by AcoustID.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [shshemi/tabiew](https://github.com/shshemi/tabiew) - A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet.
