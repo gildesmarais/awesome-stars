@@ -349,7 +349,6 @@
 - [adbar/German-NLP](https://github.com/adbar/German-NLP) - Curated list of open-access/open-source/off-the-shelf resources and tools developed with a particular focus on German
 - [gildesmarais/awesome-stars](https://github.com/gildesmarais/awesome-stars) - ✨ Automatically updated Awesome List of Stars I handed out on Github
 - [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
-- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [joelparkerhenderson/monorepo-vs-polyrepo](https://github.com/joelparkerhenderson/monorepo-vs-polyrepo) - Monorepo vs. polyrepo: architecture for source code management (SCM) version control systems (VCS)
 - [Droogans/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
@@ -442,6 +441,7 @@
 - [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
 - [zdf-opensource/recommendations-pa-base](https://github.com/zdf-opensource/recommendations-pa-base) - 
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin
+- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
 - [kevinschaul/feedmaker](https://github.com/kevinschaul/feedmaker) - Quickly generate an RSS feed from any website
 - [carrotIndustries/redbook](https://github.com/carrotIndustries/redbook) - Reading the Red Book – decoding Compact Disc Digital Audio
@@ -835,7 +835,7 @@
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [Blorp-Labs/blorp](https://github.com/Blorp-Labs/blorp) - Blorp – a Threadiverse client for Lemmy and PieFed. Web, iOS & macOS, and more!
 - [stuartcrobinson/unique-window-colors](https://github.com/stuartcrobinson/unique-window-colors) - Uniquely color different VSCode workspace windows with automatic selections or customized colors and themes.
-- [Karanjot786/agent-skills-cli](https://github.com/Karanjot786/agent-skills-cli) - Universal CLI for Agent Skills. Access 40,000+ skills from SkillsMP and sync them to Cursor, Claude Code, GitHub Copilot, OpenAI Codex, and Antigravity.
+- [Karanjot786/agent-skills-cli](https://github.com/Karanjot786/agent-skills-cli) - Universal CLI for Agent Skills. Access 200,000+ skills from SkillsMP and sync them to Cursor, Claude Code, GitHub Copilot, OpenAI Codex, and Antigravity.
 - [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [EvanBacon/expo-quick-actions](https://github.com/EvanBacon/expo-quick-actions) - Add home screen quick actions / shortcuts and custom icons to your Expo app
