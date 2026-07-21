@@ -1483,6 +1483,7 @@
 
 ## others 
 
+- [health-economics-metrics/health-economics-metrics](https://github.com/health-economics-metrics/health-economics-metrics) - Health Economics Metrics
 - [LAION-AI/CLAP](https://github.com/LAION-AI/CLAP) - Contrastive Language-Audio Pretraining
 - [jonwiggins/urlx](https://github.com/jonwiggins/urlx) - A memory-safe Rust reimplementation of curl and libcurl.
 - [jonwiggins/xmloxide](https://github.com/jonwiggins/xmloxide) - A pure Rust reimplementation of libxml2
@@ -1899,6 +1900,7 @@
 
 ## python 
 
+- [StemSplit/demucs-onnx](https://github.com/StemSplit/demucs-onnx) - Working ONNX export + inference for HT-Demucs FT (htdemucs_ft). Solves the 4 export blockers no other tool handles.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [hey-api/hey-api](https://github.com/hey-api/hey-api) - 👨‍🚀 Turn API specifications into production-ready SDKs, validators, mocks, and more. 20+ plugins. Millions of weekly npm downloads. Used by Vercel, OpenCode, PayPal, AWS, Autodesk, and many more.
 - [aubio/aubio](https://github.com/aubio/aubio) - a library for audio and music analysis
