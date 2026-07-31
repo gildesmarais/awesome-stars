@@ -673,9 +673,10 @@
 
 ## Rust 
 
+- [M-Igashi/baken](https://github.com/M-Igashi/baken) - Bake'n Deck — Rekordbox → CDJ prep toolkit: loudness gain, Key+BPM playlist sort, and CDJ-safe MP3 transcode baked into your files
 - [jonwiggins/urlx](https://github.com/jonwiggins/urlx) - A memory-safe Rust reimplementation of curl and libcurl.
 - [jonwiggins/xmloxide](https://github.com/jonwiggins/xmloxide) - A pure Rust reimplementation of libxml2
-- [malisper/pgrust](https://github.com/malisper/pgrust) - Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
+- [malisper/pgrust](https://github.com/malisper/pgrust) - Postgres rewritten in Rust, now faster than Postgres and Clickhouse
 - [attilagyorffy/chromaprint-next](https://github.com/attilagyorffy/chromaprint-next) - A pure-Rust 🦀 port of Chromaprint, the audio fingerprinting library used by AcoustID.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [shshemi/tabiew](https://github.com/shshemi/tabiew) - A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet.
