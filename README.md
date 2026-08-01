@@ -673,6 +673,7 @@
 
 ## Rust 
 
+- [Xoshbin/asyar](https://github.com/Xoshbin/asyar) - Privacy-focused Local-First Cross platform alternative to Raycast.
 - [M-Igashi/baken](https://github.com/M-Igashi/baken) - Bake'n Deck — Rekordbox → CDJ prep toolkit: loudness gain, Key+BPM playlist sort, and CDJ-safe MP3 transcode baked into your files
 - [jonwiggins/urlx](https://github.com/jonwiggins/urlx) - A memory-safe Rust reimplementation of curl and libcurl.
 - [jonwiggins/xmloxide](https://github.com/jonwiggins/xmloxide) - A pure Rust reimplementation of libxml2
@@ -782,6 +783,7 @@
 
 ## Shell 
 
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [GiantSteps/giantsteps-tempo-dataset](https://github.com/GiantSteps/giantsteps-tempo-dataset) - This repository contains the annotations and download scripts for the audio files of the GiantSteps Tempo data set. This data set was published at ISMIR 2015: P. Knees et al.: "Two data sets for tempo
 - [GiantSteps/giantsteps-key-dataset](https://github.com/GiantSteps/giantsteps-key-dataset) - This repository contains the annotations and download scripts for the audio files of the GiantSteps Key data set. This data set was published at ISMIR 2015: P. Knees et al.: "Two data sets for tempo e
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
