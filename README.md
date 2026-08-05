@@ -703,7 +703,7 @@
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [uppnrise/iron-veil](https://github.com/uppnrise/iron-veil) - 🛡️ High-performance Rust database proxy for real-time PII anonymization. Masks sensitive data (emails, SSN, credit cards) without application changes. PostgreSQL & MySQL support with TLS, Prometheus m
-- [theiskaa/readabilityrs](https://github.com/theiskaa/readabilityrs) - A Rust port of Mozilla's standalone readability library
+- [theiskaa/readabilityrs](https://github.com/theiskaa/readabilityrs) - Rust port of Mozilla's standalone readability library
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [0PandaDEV/ufrume](https://github.com/0PandaDEV/ufrume) - A multithreaded CLI tool to organize your music files into a folder structure defined by you.
@@ -724,6 +724,7 @@
 - [wealthfolio/wealthfolio](https://github.com/wealthfolio/wealthfolio) - A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.
 - [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
+- [casey/dotfiles](https://github.com/casey/dotfiles) - 📜 Dotfiles & Scripts
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [pdeljanov/Symphonia](https://github.com/pdeljanov/Symphonia) - Pure Rust multimedia format demuxing, tag reading, and audio decoding library
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
@@ -794,7 +795,6 @@
 - [Naunter/BT_BlockLists](https://github.com/Naunter/BT_BlockLists) - Transmission block list
 - [emmaworley/cdj3k-root](https://github.com/emmaworley/cdj3k-root) - Enable root SSH access on your CDJ-3000.
 - [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
-- [casey/dotfiles](https://github.com/casey/dotfiles) - 📜 Dotfiles & Scripts
 - [mrwhale/fritzbox-api](https://github.com/mrwhale/fritzbox-api) - bash script to collect various information from your Fritzbox via its SOAP api
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
@@ -841,7 +841,7 @@
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, R
 - [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference
 - [VasilisPlavos/Cookie-AutoDeleteV3](https://github.com/VasilisPlavos/Cookie-AutoDeleteV3) - Manifest V3 fork of Cookie AutoDelete — automatically deletes unused cookies. Now on the Chrome Web Store.
-- [saidkaban/expo-ai-kit](https://github.com/saidkaban/expo-ai-kit) - On-device AI for Expo apps. Run language models locally. No API keys, no cloud, just native intelligence.
+- [saidkaban/expo-ai-kit](https://github.com/saidkaban/expo-ai-kit) - On-device AI for Expo apps. Run AI models locally. No API keys, no cloud.
 - [ota-meshi/eslint-plugin-regexp](https://github.com/ota-meshi/eslint-plugin-regexp) - ESLint plugin for finding regex mistakes and style guide violations.
 - [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
