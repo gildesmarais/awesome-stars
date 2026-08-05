@@ -259,7 +259,7 @@
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
-- [saidkaban/expo-ai-kit](https://github.com/saidkaban/expo-ai-kit) - On-device AI for Expo apps. Run language models locally. No API keys, no cloud, just native intelligence.
+- [saidkaban/expo-ai-kit](https://github.com/saidkaban/expo-ai-kit) - On-device AI for Expo apps. Run AI models locally. No API keys, no cloud.
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [Karanjot786/agent-skills-cli](https://github.com/Karanjot786/agent-skills-cli) - Universal CLI for Agent Skills. Access 200,000+ skills from SkillsMP and sync them to Cursor, Claude Code, GitHub Copilot, OpenAI Codex, and Antigravity.
 - [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
@@ -1168,7 +1168,7 @@
 
 ## kotlin 
 
-- [saidkaban/expo-ai-kit](https://github.com/saidkaban/expo-ai-kit) - On-device AI for Expo apps. Run language models locally. No API keys, no cloud, just native intelligence.
+- [saidkaban/expo-ai-kit](https://github.com/saidkaban/expo-ai-kit) - On-device AI for Expo apps. Run AI models locally. No API keys, no cloud.
 - [EvanBacon/expo-quick-actions](https://github.com/EvanBacon/expo-quick-actions) - Add home screen quick actions / shortcuts and custom icons to your Expo app
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 
@@ -1548,7 +1548,7 @@
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [lukas-ruzicka/testflight-feedback](https://github.com/lukas-ruzicka/testflight-feedback) - Managing TestFlight feedback better using GitHub Issues
 - [mjbvz/vscode-github-markdown-preview-style](https://github.com/mjbvz/vscode-github-markdown-preview-style) - VS Code extension that changes the built-in markdown preview to match Github's styling
-- [theiskaa/readabilityrs](https://github.com/theiskaa/readabilityrs) - A Rust port of Mozilla's standalone readability library
+- [theiskaa/readabilityrs](https://github.com/theiskaa/readabilityrs) - Rust port of Mozilla's standalone readability library
 - [mensfeld/yard-lint](https://github.com/mensfeld/yard-lint) - Check your YARD docs like RuboCop checks your code - a linter for YARD documentation.
 - [carlos-algms/vscode-make-task-provider](https://github.com/carlos-algms/vscode-make-task-provider) - Adds support to run Make commands from VS Code
 - [adr/adr.github.io](https://github.com/adr/adr.github.io) - Homepage of the ADR GitHub organization
@@ -2024,7 +2024,7 @@
 
 ## react-native 
 
-- [saidkaban/expo-ai-kit](https://github.com/saidkaban/expo-ai-kit) - On-device AI for Expo apps. Run language models locally. No API keys, no cloud, just native intelligence.
+- [saidkaban/expo-ai-kit](https://github.com/saidkaban/expo-ai-kit) - On-device AI for Expo apps. Run AI models locally. No API keys, no cloud.
 - [gildesmarais/moodbar.rs](https://github.com/gildesmarais/moodbar.rs) - Fast music visualisation: classic Amarok Moodbar plus new shiny waveforms. Bands and colors configurable. Rust crate with CLI, WASM (npm) and Native (iOS/Android) bindings. Demo on website.  🔴🔵🟢
 - [EvanBacon/expo-quick-actions](https://github.com/EvanBacon/expo-quick-actions) - Add home screen quick actions / shortcuts and custom icons to your Expo app
 - [expo/atlas](https://github.com/expo/atlas) - Visualize React Native bundles to understand and optimize your app.
@@ -2344,7 +2344,7 @@
 ## swift 
 
 - [dpearson2699/swift-ios-skills](https://github.com/dpearson2699/swift-ios-skills) - Agent Skills for iOS 26+, Swift 6.3, SwiftUI, and modern Apple frameworks
-- [saidkaban/expo-ai-kit](https://github.com/saidkaban/expo-ai-kit) - On-device AI for Expo apps. Run language models locally. No API keys, no cloud, just native intelligence.
+- [saidkaban/expo-ai-kit](https://github.com/saidkaban/expo-ai-kit) - On-device AI for Expo apps. Run AI models locally. No API keys, no cloud.
 - [gildesmarais/moodbar.rs](https://github.com/gildesmarais/moodbar.rs) - Fast music visualisation: classic Amarok Moodbar plus new shiny waveforms. Bands and colors configurable. Rust crate with CLI, WASM (npm) and Native (iOS/Android) bindings. Demo on website.  🔴🔵🟢
 - [EvanBacon/expo-quick-actions](https://github.com/EvanBacon/expo-quick-actions) - Add home screen quick actions / shortcuts and custom icons to your Expo app
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
