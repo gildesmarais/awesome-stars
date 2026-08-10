@@ -1511,6 +1511,7 @@
 
 ## others 
 
+- [twostraws/Swift-Agent-Skills](https://github.com/twostraws/Swift-Agent-Skills) - A curated directory of open-source AI agent skills for Swift and Apple platform development.
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [health-economics-metrics/health-economics-metrics](https://github.com/health-economics-metrics/health-economics-metrics) - Health Economics Metrics
 - [LAION-AI/CLAP](https://github.com/LAION-AI/CLAP) - Contrastive Language-Audio Pretraining
