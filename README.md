@@ -333,6 +333,7 @@
 
 ## Others 
 
+- [nobie-org/nobie-cli](https://github.com/nobie-org/nobie-cli) - nobie is a full Excel-compatible engine in your terminal. Pipe data in, compute formulas, style cells, query with SQL, and render to PNG or PDF. It composes with jq, awk, curl, sqlite, and the rest of
 - [twostraws/Swift-Agent-Skills](https://github.com/twostraws/Swift-Agent-Skills) - A curated directory of open-source AI agent skills for Swift and Apple platform development.
 - [health-economics-metrics/health-economics-metrics](https://github.com/health-economics-metrics/health-economics-metrics) - Health Economics Metrics
 - [digital-health-guide/digital-health-guide](https://github.com/digital-health-guide/digital-health-guide) - Digital Health Guide
