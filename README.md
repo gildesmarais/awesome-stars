@@ -477,6 +477,7 @@
 
 ## Ruby 
 
+- [crmne/archspec](https://github.com/crmne/archspec) - Architecture checks for Ruby and Rails.
 - [djezzzl/database_consistency](https://github.com/djezzzl/database_consistency) - The tool to avoid various issues due to inconsistencies and inefficiencies between a database schema and application models.
 - [ankane/authtrail](https://github.com/ankane/authtrail) - Track Devise login activity
 - [ksss/rubocop-yard](https://github.com/ksss/rubocop-yard) - 
