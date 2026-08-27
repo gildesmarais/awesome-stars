@@ -240,7 +240,6 @@
 - [tgel0/crssnt](https://github.com/tgel0/crssnt) - 🥐  Open-source LLM-friendly Markdown/JSON generator
 - [hectahertz/react-native-typography](https://github.com/hectahertz/react-native-typography) - Pixel–perfect, native–looking typographic styles for React Native ✒️
 - [jefflau/jest-fetch-mock](https://github.com/jefflau/jest-fetch-mock) - Jest mock for fetch
-- [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [semohr/risikogebiete_deutschland](https://github.com/semohr/risikogebiete_deutschland) - 
 - [le0pard/pgtune](https://github.com/le0pard/pgtune) - Pgtune - tuning PostgreSQL config by your hardware
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
@@ -369,6 +368,7 @@
 - [okfde/lebensmittel-kontrollergebnisse-data](https://github.com/okfde/lebensmittel-kontrollergebnisse-data) - 
 - [OldUnreal/UnrealTournamentPatches](https://github.com/OldUnreal/UnrealTournamentPatches) - 
 - [danvk/effective-typescript](https://github.com/danvk/effective-typescript) - Effective TypeScript 2nd Edition: 83 Specific Ways to Improve Your TypeScript
+- [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [html2rss/brand](https://github.com/html2rss/brand) - 🗃 Logos and icons (for now).
 - [mihai-vlc/spacegray-vscode](https://github.com/mihai-vlc/spacegray-vscode) - Spacegray theme for visual studio code
