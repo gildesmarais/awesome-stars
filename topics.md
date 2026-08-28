@@ -289,7 +289,7 @@
 - [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference
 - [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - secure multiplexed execution paths for agents - zero trust, zero setup, zero latency.
 - [Karanjot786/agent-skills-cli](https://github.com/Karanjot786/agent-skills-cli) - Universal CLI for Agent Skills. Access 200,000+ skills from SkillsMP and sync them to Cursor, Claude Code, GitHub Copilot, OpenAI Codex, and Antigravity.
-- [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
+- [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
@@ -529,7 +529,7 @@
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [Microck/ordinary-claude-skills](https://github.com/Microck/ordinary-claude-skills) - An unappealing collection of Claude Skills and resources.
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
-- [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
+- [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## claude-code 
@@ -541,13 +541,13 @@
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [Karanjot786/agent-skills-cli](https://github.com/Karanjot786/agent-skills-cli) - Universal CLI for Agent Skills. Access 200,000+ skills from SkillsMP and sync them to Cursor, Claude Code, GitHub Copilot, OpenAI Codex, and Antigravity.
-- [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
+- [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 
 ## claude-skills 
 
 - [Microck/ordinary-claude-skills](https://github.com/Microck/ordinary-claude-skills) - An unappealing collection of Claude Skills and resources.
 - [Karanjot786/agent-skills-cli](https://github.com/Karanjot786/agent-skills-cli) - Universal CLI for Agent Skills. Access 200,000+ skills from SkillsMP and sync them to Cursor, Claude Code, GitHub Copilot, OpenAI Codex, and Antigravity.
-- [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
+- [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 
 ## cli 
 
@@ -613,6 +613,7 @@
 
 ## code-review 
 
+- [enola-labs/enola](https://github.com/enola-labs/enola) - Architecture intelligence for developers, coding agents, and CI - understand codebases, analyze change impact, and catch architectural regressions.
 - [mbj/mutant](https://github.com/mbj/mutant) - Mutation testing for Ruby. AI writes your code. AI writes your tests. But who tests the tests?
 - [danger/danger](https://github.com/danger/danger) - 🚫 Stop saying "you forgot to …" in code review (in Ruby)
 - [crev-dev/cargo-crev](https://github.com/crev-dev/cargo-crev) - A cryptographically verifiable code review system for the cargo (Rust) package manager.
@@ -772,6 +773,7 @@
 
 ## developer-tools 
 
+- [enola-labs/enola](https://github.com/enola-labs/enola) - Architecture intelligence for developers, coding agents, and CI - understand codebases, analyze change impact, and catch architectural regressions.
 - [nobie-org/nobie-cli](https://github.com/nobie-org/nobie-cli) - nobie is a full Excel-compatible engine in your terminal. Pipe data in, compute formulas, style cells, query with SQL, and render to PNG or PDF. It composes with jq, awk, curl, sqlite, and the rest of
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [Karanjot786/agent-skills-cli](https://github.com/Karanjot786/agent-skills-cli) - Universal CLI for Agent Skills. Access 200,000+ skills from SkillsMP and sync them to Cursor, Claude Code, GitHub Copilot, OpenAI Codex, and Antigravity.
