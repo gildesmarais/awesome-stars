@@ -1535,6 +1535,7 @@
 
 ## others 
 
+- [basecamp/hotcell](https://github.com/basecamp/hotcell) - ☢️HotCell☢️ is an unprivileged sidecar container for handling untrusted inputs with insecurable dependencies, purpose-built for Rails applications.
 - [crmne/archspec](https://github.com/crmne/archspec) - Architecture checks for Ruby and Rails.
 - [twostraws/Swift-Agent-Skills](https://github.com/twostraws/Swift-Agent-Skills) - A curated directory of open-source AI agent skills for Swift and Apple platform development.
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
@@ -1717,7 +1718,6 @@
 - [bundesAPI/strukturen](https://github.com/bundesAPI/strukturen) - 
 - [jefflau/jest-fetch-mock](https://github.com/jefflau/jest-fetch-mock) - Jest mock for fetch
 - [dejan/auto_html](https://github.com/dejan/auto_html) - Collection of filters that transform plain text into HTML code.
-- [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [semohr/risikogebiete_deutschland](https://github.com/semohr/risikogebiete_deutschland) - 
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
 - [travisbrown/cancel-culture](https://github.com/travisbrown/cancel-culture) - Tools for fighting abuse on Twitter
@@ -2567,6 +2567,7 @@
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [sparklemotion/mechanize](https://github.com/sparklemotion/mechanize) - Mechanize is a ruby library that makes automated web interaction easy.
 - [WesleyAC/deeplinks](https://github.com/WesleyAC/deeplinks) - Simple deep links to any selection of text on your website.
+- [remix-run/remix](https://github.com/remix-run/remix) - The fully-stacked web framework
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 - [SORMAS-Foundation/SORMAS-Project](https://github.com/SORMAS-Foundation/SORMAS-Project) - SORMAS (Surveillance, Outbreak Response Management and Analysis System) is an early warning and management system to fight the spread of infectious diseases.
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
@@ -2578,6 +2579,7 @@
 
 ## web-development 
 
+- [remix-run/remix](https://github.com/remix-run/remix) - The fully-stacked web framework
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 
 ## webapp 
