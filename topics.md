@@ -821,6 +821,7 @@
 
 ## docker 
 
+- [crmne/kamal-backup](https://github.com/crmne/kamal-backup) - Add scheduled Rails backups to Kamal
 - [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AI uses sonic analysis to rediscover forgotten songs, uncover hidden connections in your music library, and generate intelligent playlists for Navidrome, Jellyfin, LMS, Lyrion, Emby and Plex
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
@@ -1421,6 +1422,7 @@
 
 ## mysql 
 
+- [crmne/kamal-backup](https://github.com/crmne/kamal-backup) - Add scheduled Rails backups to Kamal
 - [uppnrise/iron-veil](https://github.com/uppnrise/iron-veil) - 🛡️ High-performance Rust database proxy for real-time PII anonymization. Masks sensitive data (emails, SSN, credit cards) without application changes. PostgreSQL & MySQL support with TLS, Prometheus m
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 - [motor-admin/motor-admin](https://github.com/motor-admin/motor-admin) - Deploy a no-code admin panel for any application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports.
@@ -1535,6 +1537,7 @@
 
 ## others 
 
+- [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari.
 - [basecamp/hotcell](https://github.com/basecamp/hotcell) - ☢️HotCell☢️ is an unprivileged sidecar container for handling untrusted inputs with insecurable dependencies, purpose-built for Rails applications.
 - [crmne/archspec](https://github.com/crmne/archspec) - Architecture checks for Ruby and Rails.
 - [twostraws/Swift-Agent-Skills](https://github.com/twostraws/Swift-Agent-Skills) - A curated directory of open-source AI agent skills for Swift and Apple platform development.
@@ -2007,6 +2010,7 @@
 
 ## rails 
 
+- [crmne/kamal-backup](https://github.com/crmne/kamal-backup) - Add scheduled Rails backups to Kamal
 - [djezzzl/database_consistency](https://github.com/djezzzl/database_consistency) - The tool to avoid various issues due to inconsistencies and inefficiencies between a database schema and application models.
 - [exoego/rspec-openapi](https://github.com/exoego/rspec-openapi) - Generate OpenAPI schema from RSpec request specs
 - [janko/rodauth-rails](https://github.com/janko/rodauth-rails) - Rails integration for Rodauth authentication framework
@@ -2105,6 +2109,8 @@
 
 ## ruby 
 
+- [matsadler/magnus](https://github.com/matsadler/magnus) - Ruby bindings for Rust. Write Ruby extension gems in Rust, or call Ruby from Rust.
+- [crmne/kamal-backup](https://github.com/crmne/kamal-backup) - Add scheduled Rails backups to Kamal
 - [spinel-coop/rv](https://github.com/spinel-coop/rv) - 💎💨 Extremely fast Ruby version and gem manager
 - [djezzzl/database_consistency](https://github.com/djezzzl/database_consistency) - The tool to avoid various issues due to inconsistencies and inefficiencies between a database schema and application models.
 - [inferno-framework/inferno-core](https://github.com/inferno-framework/inferno-core) - Core library for the Inferno Framework
@@ -2205,6 +2211,7 @@
 
 ## rust 
 
+- [matsadler/magnus](https://github.com/matsadler/magnus) - Ruby bindings for Rust. Write Ruby extension gems in Rust, or call Ruby from Rust.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [Xoshbin/asyar](https://github.com/Xoshbin/asyar) - The power of Raycast. The speed of Alfred. Privacy by design.
 - [M-Igashi/baken](https://github.com/M-Igashi/baken) - Bake'n Deck — Rekordbox → CDJ prep toolkit: loudness gain, Key+BPM playlist sort, and CDJ-safe MP3 transcode baked into your files
@@ -2214,7 +2221,7 @@
 - [M-Igashi/mp3rgain](https://github.com/M-Igashi/mp3rgain) - Lossless MP3 volume adjustment - a modern mp3gain replacement written in Rust
 - [Serial-ATA/lofty-rs](https://github.com/Serial-ATA/lofty-rs) - Audio metadata library
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-- [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+- [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [bountyyfi/lonkero](https://github.com/bountyyfi/lonkero) - Lonkero - Wraps around your attack surface.  Professional-grade scanner for real penetration testing. Fast. Modular. Rust.
 - [gildesmarais/moodbar.rs](https://github.com/gildesmarais/moodbar.rs) - Fast music visualisation: classic Amarok Moodbar plus new shiny waveforms. Bands and colors configurable. Rust crate with CLI, WASM (npm) and Native (iOS/Android) bindings. Demo on website.  🔴🔵🟢
 - [rvben/rumdl](https://github.com/rvben/rumdl) - Fast Markdown linter and formatter written in Rust
@@ -2367,6 +2374,7 @@
 
 ## sqlite 
 
+- [crmne/kamal-backup](https://github.com/crmne/kamal-backup) - Add scheduled Rails backups to Kamal
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management.
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
