@@ -479,6 +479,7 @@
 
 ## Ruby 
 
+- [socketry/falcon](https://github.com/socketry/falcon) - A high-performance web server for Ruby, supporting HTTP/1, HTTP/2 and TLS.
 - [crmne/kamal-backup](https://github.com/crmne/kamal-backup) - Add scheduled Rails backups to Kamal
 - [basecamp/hotcell](https://github.com/basecamp/hotcell) - ☢️HotCell☢️ is an unprivileged sidecar container for handling untrusted inputs with insecurable dependencies, purpose-built for Rails applications.
 - [crmne/archspec](https://github.com/crmne/archspec) - Architecture checks for Ruby and Rails.
