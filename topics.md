@@ -2114,6 +2114,7 @@
 
 ## ruby 
 
+- [socketry/falcon](https://github.com/socketry/falcon) - A high-performance web server for Ruby, supporting HTTP/1, HTTP/2 and TLS.
 - [matsadler/magnus](https://github.com/matsadler/magnus) - Ruby bindings for Rust. Write Ruby extension gems in Rust, or call Ruby from Rust.
 - [crmne/kamal-backup](https://github.com/crmne/kamal-backup) - Add scheduled Rails backups to Kamal
 - [spinel-coop/rv](https://github.com/spinel-coop/rv) - 💎💨 Extremely fast Ruby version and gem manager
@@ -2340,6 +2341,7 @@
 
 ## server 
 
+- [socketry/falcon](https://github.com/socketry/falcon) - A high-performance web server for Ruby, supporting HTTP/1, HTTP/2 and TLS.
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [gildesmarais/ansible-5-minutes-server](https://github.com/gildesmarais/ansible-5-minutes-server) - 🚀 Setup an Ubuntu server with common security configurations in less than 5 minutes.
 
