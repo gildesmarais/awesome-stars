@@ -335,6 +335,7 @@
 
 ## Others 
 
+- [luoling8192/software-design-philosophy-skill](https://github.com/luoling8192/software-design-philosophy-skill) - Claude Code skill: Software design philosophy guide based on A Philosophy of Software Design by John Ousterhout
 - [nobie-org/nobie-cli](https://github.com/nobie-org/nobie-cli) - nobie is a full Excel-compatible engine in your terminal. Pipe data in, compute formulas, style cells, query with SQL, and render to PNG or PDF. It composes with jq, awk, curl, sqlite, and the rest of
 - [twostraws/Swift-Agent-Skills](https://github.com/twostraws/Swift-Agent-Skills) - A curated directory of open-source AI agent skills for Swift and Apple platform development.
 - [health-economics-metrics/health-economics-metrics](https://github.com/health-economics-metrics/health-economics-metrics) - Health Economics Metrics
@@ -432,7 +433,7 @@
 - [fabriziosalmi/UglyFeed](https://github.com/fabriziosalmi/UglyFeed) - Retrieve, aggregate, filter, evaluate, rewrite and serve RSS feeds using Large Language Models for fun, research and learning purposes
 - [metabrainz/troi-recommendation-playground](https://github.com/metabrainz/troi-recommendation-playground) - A recommendation engine playground that should hopefully make playing with music recommendations easy.
 - [blastbeng/spotisub](https://github.com/blastbeng/spotisub) - Spotify to subsonic Playlist Generator and Importer
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [explosion/spacy-models](https://github.com/explosion/spacy-models) - 💫  Models for the spaCy Natural Language Processing (NLP) library
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
@@ -847,6 +848,7 @@
 
 ## TypeScript 
 
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [madhan-g-p/DevDocs-MCP](https://github.com/madhan-g-p/DevDocs-MCP) - Documentation Authority for AI Agents based upon Devdocs
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, R
