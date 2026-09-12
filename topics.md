@@ -256,7 +256,7 @@
 
 ## agents 
 
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, R
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [patterns-ai-core/langchainrb](https://github.com/patterns-ai-core/langchainrb) - Build LLM-powered applications in Ruby
@@ -291,7 +291,7 @@
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [nobie-org/nobie-cli](https://github.com/nobie-org/nobie-cli) - nobie is a full Excel-compatible engine in your terminal. Pipe data in, compute formulas, style cells, query with SQL, and render to PNG or PDF. It composes with jq, awk, curl, sqlite, and the rest of
 - [madhan-g-p/DevDocs-MCP](https://github.com/madhan-g-p/DevDocs-MCP) - Documentation Authority for AI Agents based upon Devdocs
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, R
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
 - [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference
 - [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - secure multiplexed execution paths for agents - zero trust, zero setup, zero latency.
 - [Karanjot786/agent-skills-cli](https://github.com/Karanjot786/agent-skills-cli) - Universal CLI for Agent Skills. Access 200,000+ skills from SkillsMP and sync them to Cursor, Claude Code, GitHub Copilot, OpenAI Codex, and Antigravity.
@@ -549,7 +549,7 @@
 
 - [luoling8192/software-design-philosophy-skill](https://github.com/luoling8192/software-design-philosophy-skill) - Claude Code skill: Software design philosophy guide based on A Philosophy of Software Design by John Ousterhout
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, R
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [Microck/ordinary-claude-skills](https://github.com/Microck/ordinary-claude-skills) - An unappealing collection of Claude Skills and resources.
 - [dpearson2699/swift-ios-skills](https://github.com/dpearson2699/swift-ios-skills) - Agent Skills for iOS 26+, Swift 6.3, SwiftUI, and modern Apple frameworks
@@ -872,7 +872,7 @@
 
 ## dsh-plugin 
 
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, R
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
 
 ## education 
 
@@ -1511,7 +1511,7 @@
 
 ## npm 
 
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, R
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
 - [gildesmarais/moodbar.rs](https://github.com/gildesmarais/moodbar.rs) - Fast music visualisation: classic Amarok Moodbar plus new shiny waveforms. Bands and colors configurable. Rust crate with CLI, WASM (npm) and Native (iOS/Android) bindings. Demo on website.  🔴🔵🟢
 - [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
 
@@ -1559,7 +1559,7 @@
 ## others 
 
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
-- [basecamp/hotcell](https://github.com/basecamp/hotcell) - ☢️HotCell☢️ is an unprivileged sidecar container for handling untrusted inputs with insecurable dependencies, purpose-built for Rails applications.
+- [basecamp/hotcell](https://github.com/basecamp/hotcell) - ☢️HotCell☢️ is an unprivileged sidecar container for handling untrusted inputs, purpose-built for Rails applications.
 - [crmne/archspec](https://github.com/crmne/archspec) - Architecture checks for Ruby and Rails.
 - [twostraws/Swift-Agent-Skills](https://github.com/twostraws/Swift-Agent-Skills) - A curated directory of open-source AI agent skills for Swift and Apple platform development.
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
@@ -2422,6 +2422,7 @@
 - [saidkaban/expo-ai-kit](https://github.com/saidkaban/expo-ai-kit) - On-device AI for Expo and React Native. Local LLM, speech-to-text, vision, and embeddings. No API keys, no cloud.
 - [gildesmarais/moodbar.rs](https://github.com/gildesmarais/moodbar.rs) - Fast music visualisation: classic Amarok Moodbar plus new shiny waveforms. Bands and colors configurable. Rust crate with CLI, WASM (npm) and Native (iOS/Android) bindings. Demo on website.  🔴🔵🟢
 - [EvanBacon/expo-quick-actions](https://github.com/EvanBacon/expo-quick-actions) - Add home screen quick actions / shortcuts and custom icons to your Expo app
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [raivo-otp/ios-application](https://github.com/raivo-otp/ios-application) - A native, lightweight and secure one-time-password (OTP) client built for iOS; Raivo OTP!
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
@@ -2434,6 +2435,7 @@
 
 - [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari. Free and open source on macOS, iOS, iPadOS, and visionOS, with 750,000 rules, userscripts, userstyles, and an element zapper.
 - [dpearson2699/swift-ios-skills](https://github.com/dpearson2699/swift-ios-skills) - Agent Skills for iOS 26+, Swift 6.3, SwiftUI, and modern Apple frameworks
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 
@@ -2506,7 +2508,7 @@
 ## typescript 
 
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, R
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
 - [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference
 - [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
 - [Karanjot786/agent-skills-cli](https://github.com/Karanjot786/agent-skills-cli) - Universal CLI for Agent Skills. Access 200,000+ skills from SkillsMP and sync them to Cursor, Claude Code, GitHub Copilot, OpenAI Codex, and Antigravity.
