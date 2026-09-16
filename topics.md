@@ -1560,6 +1560,7 @@
 
 ## others 
 
+- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [basecamp/hotcell](https://github.com/basecamp/hotcell) - ☢️HotCell☢️ is an unprivileged sidecar container for handling untrusted inputs, purpose-built for Rails applications.
 - [crmne/archspec](https://github.com/crmne/archspec) - Architecture checks for Ruby and Rails.
