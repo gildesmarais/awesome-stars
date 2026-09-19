@@ -240,7 +240,7 @@
 
 ## agent 
 
-- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
@@ -249,7 +249,7 @@
 
 ## agent-skills 
 
-- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [dpearson2699/swift-ios-skills](https://github.com/dpearson2699/swift-ios-skills) - Agent Skills for iOS 26+, Swift 6.3, SwiftUI, and modern Apple frameworks
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
@@ -633,7 +633,7 @@
 
 ## code-review 
 
-- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,
 - [enola-labs/enola](https://github.com/enola-labs/enola) - Architecture intelligence for developers, coding agents, and CI - understand codebases, analyze change impact, and catch architectural regressions.
 - [mbj/mutant](https://github.com/mbj/mutant) - Mutation testing for Ruby. AI writes your code. AI writes your tests. But who tests the tests?
 - [danger/danger](https://github.com/danger/danger) - 🚫 Stop saying "you forgot to …" in code review (in Ruby)
@@ -1565,6 +1565,7 @@
 
 ## others 
 
+- [Rheinmetall/onboardapi](https://github.com/Rheinmetall/onboardapi) - Onboardapi data-model and middleware for distributed modular architectures. Looking for commercial support? Contact: opensource.rme@rheinmetall.com
 - [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [basecamp/hotcell](https://github.com/basecamp/hotcell) - ☢️HotCell☢️ is an unprivileged sidecar container for handling untrusted inputs, purpose-built for Rails applications.
