@@ -1587,7 +1587,7 @@
 - [crmne/archspec](https://github.com/crmne/archspec) - Architecture checks for Ruby and Rails.
 - [twostraws/Swift-Agent-Skills](https://github.com/twostraws/Swift-Agent-Skills) - A curated directory of open-source AI agent skills for Swift and Apple platform development.
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
-- [health-economics-metrics/health-economics-metrics](https://github.com/health-economics-metrics/health-economics-metrics) - Health Economics Metrics
+- [health-economics-metrics/health-economics-metrics.github.io](https://github.com/health-economics-metrics/health-economics-metrics.github.io) - Health Economics Metrics
 - [LAION-AI/CLAP](https://github.com/LAION-AI/CLAP) - Contrastive Language-Audio Pretraining
 - [jonwiggins/urlx](https://github.com/jonwiggins/urlx) - A memory-safe Rust reimplementation of curl and libcurl.
 - [jonwiggins/xmloxide](https://github.com/jonwiggins/xmloxide) - A pure Rust reimplementation of libxml2
