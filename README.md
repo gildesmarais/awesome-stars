@@ -72,6 +72,7 @@
 
 ## C++ 
 
+- [incoai/splash](https://github.com/incoai/splash) - A local inference engine for Apple silicon, built around the model.
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [mikekazakov/nimble-commander](https://github.com/mikekazakov/nimble-commander) - Nimble Commander - dual-pane file manager for Mac
