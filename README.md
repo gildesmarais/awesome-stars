@@ -218,6 +218,7 @@
 - [jessegrosjean/TaskPaper](https://github.com/jessegrosjean/TaskPaper) - TaskPaper shared source code for TaskPaper license holders
 - [richiehowelll/jira-diff](https://github.com/richiehowelll/jira-diff) - 
 - [akhilkalepu/record-stacks](https://github.com/akhilkalepu/record-stacks) - A web app which analyzes your DJ software's database file and provides analytics on your digital record collection.
+- [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [datacontract/datacontract-cli](https://github.com/datacontract/datacontract-cli) - Enforce Data Contracts
 - [microlinkhq/top-user-agents](https://github.com/microlinkhq/top-user-agents) - Always up-to-date list of the top 100 most common browser user-agents for HTTP clients.
 - [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - The headless Chrome/Chromium driver on top of Puppeteer. Take screenshots, generate PDFs, extract text and HTML with a production-ready API.
@@ -432,7 +433,6 @@
 - [metabrainz/troi-recommendation-playground](https://github.com/metabrainz/troi-recommendation-playground) - A recommendation engine playground that should hopefully make playing with music recommendations easy.
 - [blastbeng/spotisub](https://github.com/blastbeng/spotisub) - Spotify to subsonic Playlist Generator and Importer
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
-- [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [explosion/spacy-models](https://github.com/explosion/spacy-models) - 💫  Models for the spaCy Natural Language Processing (NLP) library
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.
 - [ivbeg/newsworker](https://github.com/ivbeg/newsworker) - Advanced news feeds extractor and finder library. Helps to automatically extract news from websites without RSS/ATOM feeds
@@ -891,7 +891,7 @@
 - [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
 - [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx
 - [lasuillard-s/raindrop-sync-chrome](https://github.com/lasuillard-s/raindrop-sync-chrome) - A Chrome browser extension for syncing bookmarks with Raindrop.io.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
 - [remvze/nothing](https://github.com/remvze/nothing) - Simply do nothing and just be.
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI RSS Reader
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line 
