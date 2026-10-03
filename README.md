@@ -72,6 +72,7 @@
 
 ## C++ 
 
+- [incoai/splash](https://github.com/incoai/splash) - A local inference engine for Apple silicon, built around the model.
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [mikekazakov/nimble-commander](https://github.com/mikekazakov/nimble-commander) - Nimble Commander - dual-pane file manager for Mac
@@ -405,7 +406,6 @@
 
 ## Python 
 
-- [incoai/splash](https://github.com/incoai/splash) - A local inference engine for Apple silicon, built around the model.
 - [HelloThisIsFlo/omnifocus-operator](https://github.com/HelloThisIsFlo/omnifocus-operator) - An MCP server that exposes OmniFocus to AI agents via the Model Context Protocol (MCP).
 - [HelloThisIsFlo/Things3-To-OmniFocus](https://github.com/HelloThisIsFlo/Things3-To-OmniFocus) - Migrate from Things3 to OmniFocus (via TaskPaper)
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
