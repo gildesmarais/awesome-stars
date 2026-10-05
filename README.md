@@ -55,6 +55,7 @@
 
 ## C 
 
+- [matz/spinel](https://github.com/matz/spinel) - Ruby AOT compiler
 - [enola-labs/enola](https://github.com/enola-labs/enola) - Understand, analyze, and govern software systems across repositories, languages, and technologies.
 - [aubio/aubio](https://github.com/aubio/aubio) - a library for audio and music analysis
 - [planbnet/QuickNFO](https://github.com/planbnet/QuickNFO) - Quicklook Plugin for NFO files
@@ -95,6 +96,7 @@
 ## CSS 
 
 - [health-economics-metrics/health-economics-metrics.github.io](https://github.com/health-economics-metrics/health-economics-metrics.github.io) - Health Economics Metrics
+- [digital-health-guide/digital-health-guide](https://github.com/digital-health-guide/digital-health-guide) - Digital Health Guide
 - [jensimmons/cssremedy](https://github.com/jensimmons/cssremedy) - Start your project with a remedy for the technical debt of CSS.
 - [ghosh/microtip](https://github.com/ghosh/microtip) - 💬  Minimal, accessible, ultra lightweight css tooltip library. Just 1kb.
 - [HubSpot/odometer](https://github.com/HubSpot/odometer) - Smoothly transitions numbers with ease. #hubspot-open-source
@@ -336,7 +338,6 @@
 - [Rheinmetall/onboardapi](https://github.com/Rheinmetall/onboardapi) - Onboardapi data-model and middleware for distributed modular architectures. Looking for commercial support? Contact: opensource.rme@rheinmetall.com
 - [nobie-org/nobie-cli](https://github.com/nobie-org/nobie-cli) - nobie is a full Excel-compatible engine in your terminal. Pipe data in, compute formulas, style cells, query with SQL, and render to PNG or PDF. It composes with jq, awk, curl, sqlite, and the rest of
 - [twostraws/Swift-Agent-Skills](https://github.com/twostraws/Swift-Agent-Skills) - A curated directory of open-source AI agent skills for Swift and Apple platform development.
-- [digital-health-guide/digital-health-guide](https://github.com/digital-health-guide/digital-health-guide) - Digital Health Guide
 - [twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill) - SwiftUI agent skill for Claude Code, Codex, and other AI tools.
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [mxschmitt/awesome-playwright](https://github.com/mxschmitt/awesome-playwright) - A curated list of awesome tools, utils and projects using Playwright
