@@ -300,7 +300,7 @@
 - [madhan-g-p/DevDocs-MCP](https://github.com/madhan-g-p/DevDocs-MCP) - Documentation Authority for AI Agents based upon Devdocs
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
 - [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference
-- [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - agent runtime security - zero trust, zero setup, zero latency micro sandboxes
+- [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - agent runtime security - zero trust, zero setup, zero latency agent sandbox
 - [Karanjot786/agent-skills-cli](https://github.com/Karanjot786/agent-skills-cli) - Universal CLI for Agent Skills. Access 200,000+ skills from SkillsMP and sync them to Cursor, Claude Code, GitHub Copilot, OpenAI Codex, and Antigravity.
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
@@ -1403,7 +1403,7 @@
 - [HelloThisIsFlo/omnifocus-operator](https://github.com/HelloThisIsFlo/omnifocus-operator) - An MCP server that exposes OmniFocus to AI agents via the Model Context Protocol (MCP).
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
-- [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - agent runtime security - zero trust, zero setup, zero latency micro sandboxes
+- [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - agent runtime security - zero trust, zero setup, zero latency agent sandbox
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.
@@ -1512,7 +1512,7 @@
 
 ## node 
 
-- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
+- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [postlight/parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
@@ -1584,7 +1584,6 @@
 - [Rheinmetall/onboardapi](https://github.com/Rheinmetall/onboardapi) - Onboardapi data-model and middleware for distributed modular architectures. Looking for commercial support? Contact: opensource.rme@rheinmetall.com
 - [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
-- [basecamp/hotcell](https://github.com/basecamp/hotcell) - ☢️HotCell☢️ is an unprivileged sidecar container for handling untrusted inputs, purpose-built for Rails applications.
 - [crmne/archspec](https://github.com/crmne/archspec) - Architecture checks for Ruby and Rails.
 - [twostraws/Swift-Agent-Skills](https://github.com/twostraws/Swift-Agent-Skills) - A curated directory of open-source AI agent skills for Swift and Apple platform development.
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
@@ -2058,6 +2057,7 @@
 ## rails 
 
 - [crmne/kamal-backup](https://github.com/crmne/kamal-backup) - Add scheduled Rails backups to Kamal
+- [basecamp/hotcell](https://github.com/basecamp/hotcell) - ☢️HotCell☢️ is an unprivileged sidecar container for handling untrusted inputs, purpose-built for Rails applications.
 - [djezzzl/database_consistency](https://github.com/djezzzl/database_consistency) - The tool to avoid various issues due to inconsistencies and inefficiencies between a database schema and application models.
 - [exoego/rspec-openapi](https://github.com/exoego/rspec-openapi) - Generate OpenAPI schema from RSpec request specs
 - [janko/rodauth-rails](https://github.com/janko/rodauth-rails) - Rails integration for Rodauth authentication framework
@@ -2340,7 +2340,8 @@
 ## security 
 
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
-- [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - agent runtime security - zero trust, zero setup, zero latency micro sandboxes
+- [basecamp/hotcell](https://github.com/basecamp/hotcell) - ☢️HotCell☢️ is an unprivileged sidecar container for handling untrusted inputs, purpose-built for Rails applications.
+- [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - agent runtime security - zero trust, zero setup, zero latency agent sandbox
 - [bountyyfi/lonkero](https://github.com/bountyyfi/lonkero) - Lonkero - Wraps around your attack surface.  Professional-grade scanner for real penetration testing. Fast. Modular. Rust.
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [uppnrise/iron-veil](https://github.com/uppnrise/iron-veil) - 🛡️ High-performance Rust database proxy for real-time PII anonymization. Masks sensitive data (emails, SSN, credit cards) without application changes. PostgreSQL & MySQL support with TLS, Prometheus m
@@ -2385,7 +2386,7 @@
 ## server 
 
 - [socketry/falcon](https://github.com/socketry/falcon) - A high-performance web server for Ruby, supporting HTTP/1, HTTP/2 and TLS.
-- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
+- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites.
 - [gildesmarais/ansible-5-minutes-server](https://github.com/gildesmarais/ansible-5-minutes-server) - 🚀 Setup an Ubuntu server with common security configurations in less than 5 minutes.
 
 ## serverless 
