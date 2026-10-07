@@ -266,6 +266,7 @@
 
 ## ai 
 
+- [storytold/artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
@@ -1076,7 +1077,6 @@
 - [eggheads/eggdrop](https://github.com/eggheads/eggdrop) - The Eggdrop IRC Bot
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [open-discourse/open-discourse](https://github.com/open-discourse/open-discourse) - Open Discourse is the first fully comprehensive corpus of the plenary proceedings of the federal German Parliament (Bundestag).
-- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [pay-rails/pay](https://github.com/pay-rails/pay) - Payments for Ruby on Rails apps
 - [stoplightio/spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI (v3.1, v3.0, and v2.0), Arazzo v1.0, as well as AsyncAPI v2.x.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -2258,6 +2258,7 @@
 
 ## rust 
 
+- [storytold/photocraft](https://github.com/storytold/photocraft) - An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
 - [matsadler/magnus](https://github.com/matsadler/magnus) - Ruby bindings for Rust. Write Ruby extension gems in Rust, or call Ruby from Rust.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [Xoshbin/asyar](https://github.com/Xoshbin/asyar) - The power of Raycast. The speed of Alfred. Privacy by design.
