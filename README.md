@@ -222,7 +222,7 @@
 - [richiehowelll/jira-diff](https://github.com/richiehowelll/jira-diff) - 
 - [akhilkalepu/record-stacks](https://github.com/akhilkalepu/record-stacks) - A web app which analyzes your DJ software's database file and provides analytics on your digital record collection.
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
-- [datacontract/datacontract-cli](https://github.com/datacontract/datacontract-cli) - Enforce Data Contracts
+- [datacontract/datacontract-cli](https://github.com/datacontract/datacontract-cli) - Open-source data contract testing for Snowflake, Databricks, BigQuery, Kafka & 15 more. Built on the Open Data Contract Standard (ODCS). MIT.
 - [microlinkhq/top-user-agents](https://github.com/microlinkhq/top-user-agents) - Always up-to-date list of the top 100 most common browser user-agents for HTTP clients.
 - [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - The headless Chrome/Chromium driver on top of Puppeteer. Take screenshots, generate PDFs, extract text and HTML with a production-ready API.
 - [offen/offen](https://github.com/offen/offen) - Offen Fair Web Analytics
