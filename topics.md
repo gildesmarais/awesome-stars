@@ -1594,6 +1594,7 @@
 
 ## others 
 
+- [aejimmi/fail2ban-rs](https://github.com/aejimmi/fail2ban-rs) - Fail2ban port in pure rust
 - [interagent/committee](https://github.com/interagent/committee) - A collection of Rack middleware to support JSON Schema.
 - [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
 - [HeyPuter/everything](https://github.com/HeyPuter/everything) - We're rebuilding and open-sourcing the world’s software from scratch.
@@ -1784,7 +1785,6 @@
 - [bundesAPI/strukturen](https://github.com/bundesAPI/strukturen) - 
 - [jefflau/jest-fetch-mock](https://github.com/jefflau/jest-fetch-mock) - Jest mock for fetch
 - [dejan/auto_html](https://github.com/dejan/auto_html) - Collection of filters that transform plain text into HTML code.
-- [semohr/risikogebiete_deutschland](https://github.com/semohr/risikogebiete_deutschland) - 
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
 - [travisbrown/cancel-culture](https://github.com/travisbrown/cancel-culture) - Tools for fighting abuse on Twitter
 - [gildesmarais/gil_beats](https://github.com/gildesmarais/gil_beats) - ⌚ A command-line tool (and library) for the rusty Swatch Internet Time. Comes with XBar/Swiftbar support.
