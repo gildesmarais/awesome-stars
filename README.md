@@ -375,7 +375,6 @@
 - [danvk/effective-typescript](https://github.com/danvk/effective-typescript) - Effective TypeScript 2nd Edition: 83 Specific Ways to Improve Your TypeScript
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
-- [html2rss/brand](https://github.com/html2rss/brand) - 🗃 Logos and icons (for now).
 - [mihai-vlc/spacegray-vscode](https://github.com/mihai-vlc/spacegray-vscode) - Spacegray theme for visual studio code
 - [ossu/data-science](https://github.com/ossu/data-science) - 📊 Path to a free self-taught education in Data Science!
 - [hanshack/car-tagging-data-berlin](https://github.com/hanshack/car-tagging-data-berlin) - This repo is about the **data** collected by volunteers using a map tagging tool which was developed to tag cars on aerial images from the city of Berlin.
