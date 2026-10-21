@@ -1797,7 +1797,6 @@
 - [micke/valid_email2](https://github.com/micke/valid_email2) - ActiveModel validation for email. Including MX lookup and disposable email blocklist
 - [alexkay/spek](https://github.com/alexkay/spek) - Acoustic spectrum analyser
 - [rossmcdonald/telegraf](https://github.com/rossmcdonald/telegraf) - Ansible role for installing, configuring, and maintaining Telegraf
-- [html2rss/brand](https://github.com/html2rss/brand) - 🗃 Logos and icons (for now).
 - [certuna/Applescripts-for-Music](https://github.com/certuna/Applescripts-for-Music) - Various Applescripts for Music
 - [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1) - FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry
 - [jeremyevans/roda](https://github.com/jeremyevans/roda) - Routing Tree Web Toolkit
