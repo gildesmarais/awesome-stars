@@ -584,7 +584,7 @@
 - [testdouble/suture](https://github.com/testdouble/suture) - 🏥 A Ruby gem that helps you refactor your legacy code
 - [bibendi/activerecord-postgres_enum](https://github.com/bibendi/activerecord-postgres_enum) - Integrate PostgreSQL's enum data type into ActiveRecord's schema and migrations.
 - [micke/valid_email2](https://github.com/micke/valid_email2) - ActiveModel validation for email. Including MX lookup and disposable email blocklist
-- [fixrb/brutal](https://github.com/fixrb/brutal) - A code-first approach to automate the writing of unit tests.
+- [fixrb/brutal](https://github.com/fixrb/brutal) - Plain Ruby tests, written from what the code does.
 - [pivotal/LicenseFinder](https://github.com/pivotal/LicenseFinder) - Find licenses for your project's dependencies.
 - [Shopify/tapioca](https://github.com/Shopify/tapioca) - The swiss army knife of RBI generation
 - [jeremyevans/roda](https://github.com/jeremyevans/roda) - Routing Tree Web Toolkit
