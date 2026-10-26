@@ -127,6 +127,7 @@
 
 ## Go 
 
+- [kungfusheep/hue](https://github.com/kungfusheep/hue) - Philips Hue MCP Server, Supports v2 API
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
@@ -178,6 +179,7 @@
 
 ## HTML 
 
+- [Aiseam/RM38](https://github.com/Aiseam/RM38) - A web version similar to the classic Reason Studio Rebirth 338, this version is quite faithful to the original with some improvements!
 - [revivals47/hayate-app](https://github.com/revivals47/hayate-app) - Hayate - A native macOS file manager built with Rust and SwiftUI. Made in Japan.
 - [berlinrs/berline.rs](https://github.com/berlinrs/berline.rs) - Rust Berlin website
 - [yairEO/tagify](https://github.com/yairEO/tagify) - 🔖 lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue
@@ -275,7 +277,6 @@
 - [stormwarning/stylelint-config-recess-order](https://github.com/stormwarning/stylelint-config-recess-order) - 🗂️ Recess-based property sort order for Stylelint.
 - [kbitdk/kbsslenforcer](https://github.com/kbitdk/kbsslenforcer) - Automatic security, browse encrypted
 - [micromodal/Micromodal](https://github.com/micromodal/Micromodal) - ⭕   Tiny javascript library for creating accessible modal dialogs
-- [francoischalifour/medium-zoom](https://github.com/francoischalifour/medium-zoom) - 🔎🖼 A JavaScript library for zooming images like Medium
 - [WickyNilliams/headroom.js](https://github.com/WickyNilliams/headroom.js) - Give your pages some headroom. Hide your header until you need it
 - [tylerjpeterson/ios-inner-height](https://github.com/tylerjpeterson/ios-inner-height) - Retrieve a consistent, accurate window.innerHeight measurement from iOS
 - [YozhikM/stylelint-a11y](https://github.com/YozhikM/stylelint-a11y) - Plugin for stylelint with a11y rules
@@ -340,6 +341,7 @@
 
 ## Others 
 
+- [guillaumebriday/kamal-ansible-manager](https://github.com/guillaumebriday/kamal-ansible-manager) - Manage and optimize your servers automatically for Kamal with Ansible
 - [Rheinmetall/onboardapi](https://github.com/Rheinmetall/onboardapi) - Onboardapi data-model and middleware for distributed modular architectures. Looking for commercial support? Contact: opensource.rme@rheinmetall.com
 - [nobie-org/nobie-cli](https://github.com/nobie-org/nobie-cli) - nobie is a full Excel-compatible engine in your terminal. Pipe data in, compute formulas, style cells, query with SQL, and render to PNG or PDF. It composes with jq, awk, curl, sqlite, and the rest of
 - [twostraws/Swift-Agent-Skills](https://github.com/twostraws/Swift-Agent-Skills) - A curated directory of open-source AI agent skills for Swift and Apple platform development.
@@ -687,6 +689,8 @@
 
 ## Rust 
 
+- [OpenRsG/OpenFadeR](https://github.com/OpenRsG/OpenFadeR) - 
+- [sebastian-beca/opendj](https://github.com/sebastian-beca/opendj) - Fast, modern, open-source DJ and mixing software built with Rust.
 - [aejimmi/fail2ban-rs](https://github.com/aejimmi/fail2ban-rs) - Fail2ban port in pure rust
 - [storytold/artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
 - [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust
@@ -720,7 +724,7 @@
 - [lagmoellertim/essentia-rs](https://github.com/lagmoellertim/essentia-rs) - Idiomatic Rust wrapper for the Essentia audio analysis library 🎶🦀
 - [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first AI meeting note taker. Download Free and open source granola, otter ai, fireflies alternative. Parakeet / Whisper live transcription, on-device speaker diarization, built on Rust. 100% l
 - [uppnrise/iron-veil](https://github.com/uppnrise/iron-veil) - 🛡️ High-performance Rust database proxy for real-time PII anonymization. Masks sensitive data (emails, SSN, credit cards) without application changes. PostgreSQL & MySQL support with TLS, Prometheus m
 - [theiskaa/readabilityrs](https://github.com/theiskaa/readabilityrs) - Rust port of Mozilla's standalone readability library
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
@@ -833,6 +837,7 @@
 
 ## Swift 
 
+- [omarshahine/HomeClaw](https://github.com/omarshahine/HomeClaw) - HomeKit smart home control via MCP — lights, locks, thermostats, and scenes for Claude Desktop, Claude Code, and OpenClaw
 - [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
 - [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - Free, open-source Safari ad blocker for macOS, iOS, iPadOS and visionOS. Up to 750,000 rules, custom filter lists, userscripts and userstyles. No subscription.
 - [scosman/cursed_browser](https://github.com/scosman/cursed_browser) - True AI-Native Browser — a VLM reads the HTML and hallucinates the page.
@@ -967,6 +972,7 @@
 - [technologiestiftung/giessdenkiez-de](https://github.com/technologiestiftung/giessdenkiez-de) - The consequences of climate change, especially the dry and hot summers, are putting a strain on Berlin's ecosystem. Our urban trees are drying out and suffering long-term damage. Gieß den Kiez is made
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
+- [francoischalifour/medium-zoom](https://github.com/francoischalifour/medium-zoom) - 🔎🖼 A JavaScript library for zooming images like Medium. Works with React and any web framework.
 - [Kombustor/rss-fulltext-proxy](https://github.com/Kombustor/rss-fulltext-proxy) - Get full-text content for any RSS-feed.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
