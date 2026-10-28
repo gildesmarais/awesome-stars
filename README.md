@@ -220,7 +220,6 @@
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [ZachSaucier/Just-Read](https://github.com/ZachSaucier/Just-Read) - A customizable read mode web extension.
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
-- [joshuayoes/ios-simulator-mcp](https://github.com/joshuayoes/ios-simulator-mcp) - MCP server for interacting with the iOS simulator
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
 - [edvardchen/eslint-plugin-i18next](https://github.com/edvardchen/eslint-plugin-i18next) - ESLint plugin for i18next. Prevent to display non-localized text for users
 - [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 300 powerful ESLint rules
@@ -879,6 +878,7 @@
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [Blorp-Labs/blorp](https://github.com/Blorp-Labs/blorp) - Blorp – a Threadiverse client for Lemmy and PieFed. Web, iOS & macOS, and more!
 - [Karanjot786/agent-skills-cli](https://github.com/Karanjot786/agent-skills-cli) - Install, update and manage AI agent skills across 45 coding agents from one CLI. Sources: marketplace, GitHub, private Git and npm.
+- [joshuayoes/ios-simulator-mcp](https://github.com/joshuayoes/ios-simulator-mcp) - MCP server for interacting with the iOS simulator
 - [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [EvanBacon/expo-quick-actions](https://github.com/EvanBacon/expo-quick-actions) - Add home screen quick actions / shortcuts and custom icons to your Expo app
@@ -972,7 +972,7 @@
 - [technologiestiftung/giessdenkiez-de](https://github.com/technologiestiftung/giessdenkiez-de) - The consequences of climate change, especially the dry and hot summers, are putting a strain on Berlin's ecosystem. Our urban trees are drying out and suffering long-term damage. Gieß den Kiez is made
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
-- [francoischalifour/medium-zoom](https://github.com/francoischalifour/medium-zoom) - 🔎🖼 A JavaScript library for zooming images like Medium. Works with React and any web framework.
+- [francoischalifour/medium-zoom](https://github.com/francoischalifour/medium-zoom) - Lightweight Medium-style image zoom for the web. Zero dependencies, any framework, React component via shadcn.
 - [Kombustor/rss-fulltext-proxy](https://github.com/Kombustor/rss-fulltext-proxy) - Get full-text content for any RSS-feed.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
