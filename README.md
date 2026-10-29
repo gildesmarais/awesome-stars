@@ -484,6 +484,7 @@
 
 ## Ruby 
 
+- [davidteren/mutineer](https://github.com/davidteren/mutineer) - Mutineer - a clean-room mutation-testing tool for Ruby. Prism + stdlib only, zero runtime deps.
 - [interagent/committee](https://github.com/interagent/committee) - A collection of Rack middleware to support JSON Schema.
 - [socketry/falcon](https://github.com/socketry/falcon) - A high-performance web server for Ruby, supporting HTTP/1, HTTP/2 and TLS.
 - [crmne/kamal-backup](https://github.com/crmne/kamal-backup) - Add scheduled Rails backups to Kamal
@@ -864,6 +865,7 @@
 
 ## TypeScript 
 
+- [stryker-mutator/stryker-js](https://github.com/stryker-mutator/stryker-js) - Mutation testing for JavaScript and friends
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative t
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
@@ -972,7 +974,7 @@
 - [technologiestiftung/giessdenkiez-de](https://github.com/technologiestiftung/giessdenkiez-de) - The consequences of climate change, especially the dry and hot summers, are putting a strain on Berlin's ecosystem. Our urban trees are drying out and suffering long-term damage. Gieß den Kiez is made
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
-- [francoischalifour/medium-zoom](https://github.com/francoischalifour/medium-zoom) - Lightweight Medium-style image zoom for the web. Zero dependencies, any framework, React component via shadcn.
+- [francoischalifour/medium-zoom](https://github.com/francoischalifour/medium-zoom) - 🔎🖼️ Lightweight image zoom for the web. Zero dependencies, any framework, React via shadcn.
 - [Kombustor/rss-fulltext-proxy](https://github.com/Kombustor/rss-fulltext-proxy) - Get full-text content for any RSS-feed.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
