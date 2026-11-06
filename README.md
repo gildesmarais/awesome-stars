@@ -254,6 +254,7 @@
 - [tgel0/crssnt](https://github.com/tgel0/crssnt) - 🥐  Open-source LLM-friendly Markdown/JSON generator
 - [hectahertz/react-native-typography](https://github.com/hectahertz/react-native-typography) - Pixel–perfect, native–looking typographic styles for React Native ✒️
 - [jefflau/jest-fetch-mock](https://github.com/jefflau/jest-fetch-mock) - Jest mock for fetch
+- [semohr/risikogebiete_deutschland](https://github.com/semohr/risikogebiete_deutschland) - 
 - [le0pard/pgtune](https://github.com/le0pard/pgtune) - Pgtune - tuning PostgreSQL config by your hardware
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [dennisdebel/pi_dj](https://github.com/dennisdebel/pi_dj) - Tips, configs and skins for djing using open source dj software, a raspberry pi and a controller.
