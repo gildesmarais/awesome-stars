@@ -228,6 +228,7 @@
 - [visual-studio-code](#visual-studio-code)
 - [visualization](#visualization)
 - [vpn](#vpn)
+- [vscode](#vscode)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -255,6 +256,7 @@
 
 ## agent-skills 
 
+- [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) - Open-source plugin for designing and reviewing software with agents
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
@@ -306,6 +308,7 @@
 
 ## ai-agents 
 
+- [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) - Open-source plugin for designing and reviewing software with agents
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [nobie-org/nobie-cli](https://github.com/nobie-org/nobie-cli) - nobie is a full Excel-compatible engine in your terminal. Pipe data in, compute formulas, style cells, query with SQL, and render to PNG or PDF. It composes with jq, awk, curl, sqlite, and the rest of
 - [madhan-g-p/DevDocs-MCP](https://github.com/madhan-g-p/DevDocs-MCP) - Documentation Authority for AI Agents based upon Devdocs
@@ -580,6 +583,7 @@
 
 ## claude-code 
 
+- [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) - Open-source plugin for designing and reviewing software with agents
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
@@ -593,6 +597,7 @@
 
 ## claude-skills 
 
+- [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) - Open-source plugin for designing and reviewing software with agents
 - [Microck/ordinary-claude-skills](https://github.com/Microck/ordinary-claude-skills) - An unappealing collection of Claude Skills and resources.
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [Karanjot786/agent-skills-cli](https://github.com/Karanjot786/agent-skills-cli) - Install, update and manage AI agent skills across 45 coding agents from one CLI. Sources: marketplace, GitHub, private Git and npm.
@@ -828,6 +833,7 @@
 
 ## developer-tools 
 
+- [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) - Open-source plugin for designing and reviewing software with agents
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [enola-labs/enola](https://github.com/enola-labs/enola) - Understand, analyze, and govern software systems across repositories, languages, and technologies.
@@ -1323,6 +1329,7 @@
 
 ## llm 
 
+- [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) - Open-source plugin for designing and reviewing software with agents
 - [HelloThisIsFlo/omnifocus-operator](https://github.com/HelloThisIsFlo/omnifocus-operator) - An MCP server that exposes OmniFocus to AI agents via the Model Context Protocol (MCP).
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
@@ -1671,7 +1678,7 @@
 - [marl/medleydb](https://github.com/marl/medleydb) - 
 - [jmg049/audio_samples](https://github.com/jmg049/audio_samples) - A high-performance audio processing library for Rust with Python bindings.
 - [scosman/cursed_browser](https://github.com/scosman/cursed_browser) - True AI-Native Browser — a VLM reads the HTML and hallucinates the page.
-- [NdoleStudio/httpsms](https://github.com/NdoleStudio/httpsms) - Send and receive SMS messages using your Android phone programmatically via a simple HTTP API
+- [NdoleStudio/httpsms](https://github.com/NdoleStudio/httpsms) - Send and receive SMS messages using your Android phone programmatically via a simple HTTP API with end to end encryption supported.
 - [html2rss/botasaurus-scrape-api](https://github.com/html2rss/botasaurus-scrape-api) - Scraper API bridge between html2rss and Botasaurus for rendered-page fetching.
 - [ankane/authtrail](https://github.com/ankane/authtrail) - Track Devise login activity
 - [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers
@@ -1702,7 +1709,6 @@
 - [mjbvz/vscode-github-markdown-preview-style](https://github.com/mjbvz/vscode-github-markdown-preview-style) - VS Code extension that changes the built-in markdown preview to match Github's styling
 - [theiskaa/readabilityrs](https://github.com/theiskaa/readabilityrs) - Rust port of Mozilla's standalone readability library
 - [mensfeld/yard-lint](https://github.com/mensfeld/yard-lint) - Check your YARD docs like RuboCop checks your code - a linter for YARD documentation.
-- [carlos-algms/vscode-make-task-provider](https://github.com/carlos-algms/vscode-make-task-provider) - Adds support to run Make commands from VS Code
 - [adr/adr.github.io](https://github.com/adr/adr.github.io) - Homepage of the ADR GitHub organization
 - [runawaydevil/rssskull](https://github.com/runawaydevil/rssskull) - Enterprise-grade RSS to Telegram bot with advanced anti-blocking capabilities. Monitors RSS feeds and delivers content notifications to Telegram channels with enterprise-level reliability.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
@@ -2050,6 +2056,7 @@
 
 ## prompt-engineering 
 
+- [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) - Open-source plugin for designing and reviewing software with agents
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
@@ -2695,6 +2702,15 @@
 ## vpn 
 
 - [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) - Get PROXY List  that gets updated everyday
+
+## vscode 
+
+- [carlos-algms/vscode-make-task-provider](https://github.com/carlos-algms/vscode-make-task-provider) - Adds support to run Make commands from VS Code
+- [AykutSarac/jsoncrack-vscode](https://github.com/AykutSarac/jsoncrack-vscode) - VS Code extension of JSON Crack. Convert your JSON files into graphs with a single click and view them onto graphs.
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
+- [aioutecism/amVim-for-VSCode](https://github.com/aioutecism/amVim-for-VSCode) - The Vim mode for Visual Studio Code(vscode) that works as expected.
+- [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
+- [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 
 ## vue 
 
