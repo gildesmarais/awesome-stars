@@ -842,7 +842,7 @@
 ## Swift 
 
 - [omarshahine/HomeClaw](https://github.com/omarshahine/HomeClaw) - HomeKit smart home control via MCP — lights, locks, thermostats, and scenes for Claude Desktop, Claude Code, and OpenClaw
-- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
+- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - A native macOS launcher for everyday productivity. Lightweight and open source.
 - [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - Free, open-source Safari ad blocker for macOS, iOS, iPadOS and visionOS. Up to 750,000 rules, custom filter lists, userscripts and userstyles. No subscription.
 - [scosman/cursed_browser](https://github.com/scosman/cursed_browser) - True AI-Native Browser — a VLM reads the HTML and hallucinates the page.
 - [openclaw/remindctl](https://github.com/openclaw/remindctl) - cli for Apple Reminders app
