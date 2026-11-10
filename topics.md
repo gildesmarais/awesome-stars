@@ -1648,11 +1648,11 @@
 
 ## others 
 
-- [storytold/gridcraft](https://github.com/storytold/gridcraft) - GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.
+- [storytold/gridcraft](https://github.com/storytold/gridcraft) - GridCraft: an open-source, clean-room spreadsheet in pure Rust. By ArtCraft.
 - [davidteren/mutineer](https://github.com/davidteren/mutineer) - Mutineer - a clean-room mutation-testing tool for Ruby. Prism + stdlib only, zero runtime deps.
 - [kungfusheep/hue](https://github.com/kungfusheep/hue) - Philips Hue MCP Server, Supports v2 API
 - [OpenRsG/OpenFadeR](https://github.com/OpenRsG/OpenFadeR) - 
-- [sebastian-beca/opendj](https://github.com/sebastian-beca/opendj) - Fast, modern, open-source DJ and mixing software built with Rust.
+- [openwave-studio/opendj](https://github.com/openwave-studio/opendj) - Fast, modern, open-source DJ and mixing software built with Rust.
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 - [aejimmi/fail2ban-rs](https://github.com/aejimmi/fail2ban-rs) - Fail2ban port in pure rust
 - [interagent/committee](https://github.com/interagent/committee) - A collection of Rack middleware to support JSON Schema.
@@ -2341,7 +2341,7 @@
 
 - [chaosprint/glicol](https://github.com/chaosprint/glicol) - Graph-oriented live coding language and music/audio DSP library written in Rust
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
-- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust
+- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source photo editor written from scratch in pure Rust
 - [matsadler/magnus](https://github.com/matsadler/magnus) - Ruby bindings for Rust. Write Ruby extension gems in Rust, or call Ruby from Rust.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [Xoshbin/asyar](https://github.com/Xoshbin/asyar) - The power of Raycast. The speed of Alfred. Privacy by design.
