@@ -377,7 +377,7 @@
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser. Your personal reference library, searchable in an instant.
 - [tuwukee/jwt_sessions](https://github.com/tuwukee/jwt_sessions) - XSS/CSRF safe JWT auth designed for SPA
-- [opensubsonic/open-subsonic-api](https://github.com/opensubsonic/open-subsonic-api) - Repository hosting the definition and discussions of the Open Subsonic API
+- [opensubsonic/opensubsonic.github.io](https://github.com/opensubsonic/opensubsonic.github.io) - Repository hosting the definition and discussions of the Open Subsonic API
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 
 ## artificial-intelligence 
@@ -472,6 +472,7 @@
 
 ## aws 
 
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - This repo hosts Prowler OSS (CLI and Local Server). Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment for 
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [fwdcloudsec/granted](https://github.com/fwdcloudsec/granted) - The easiest way to access AWS.
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources.
@@ -480,6 +481,7 @@
 
 ## azure 
 
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - This repo hosts Prowler OSS (CLI and Local Server). Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment for 
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 
 ## babel 
@@ -608,6 +610,7 @@
 
 ## cli 
 
+- [appleboy/drone-ssh](https://github.com/appleboy/drone-ssh) - Drone plugin for executing remote ssh commands
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [nobie-org/nobie-cli](https://github.com/nobie-org/nobie-cli) - nobie is a full Excel-compatible engine in your terminal. Pipe data in, compute formulas, style cells, query with SQL, and render to PNG or PDF. It composes with jq, awk, curl, sqlite, and the rest of
@@ -652,6 +655,7 @@
 
 ## cloud 
 
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - This repo hosts Prowler OSS (CLI and Local Server). Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment for 
 - [fwdcloudsec/granted](https://github.com/fwdcloudsec/granted) - The easiest way to access AWS.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
@@ -1088,6 +1092,7 @@
 
 ## hacktoberfest 
 
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - This repo hosts Prowler OSS (CLI and Local Server). Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment for 
 - [Tecnativa/docker-socket-proxy](https://github.com/Tecnativa/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts
 - [stryker-mutator/stryker-js](https://github.com/stryker-mutator/stryker-js) - Mutation testing for JavaScript and friends
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
@@ -1654,6 +1659,7 @@
 
 ## others 
 
+- [supabase/splinter](https://github.com/supabase/splinter) - Supabase Postgres Linter: Performance and Security Advisors
 - [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - One-stop Proxies Crawling and Aggregation Platform
 - [storytold/gridcraft](https://github.com/storytold/gridcraft) - GridCraft: an open-source, clean-room spreadsheet in pure Rust. By ArtCraft.
 - [davidteren/mutineer](https://github.com/davidteren/mutineer) - Mutineer - a clean-room mutation-testing tool for Ruby. Prism + stdlib only, zero runtime deps.
@@ -1673,7 +1679,7 @@
 - [crmne/archspec](https://github.com/crmne/archspec) - Architecture checks for Ruby and Rails.
 - [twostraws/Swift-Agent-Skills](https://github.com/twostraws/Swift-Agent-Skills) - A curated directory of open-source AI agent skills for Swift and Apple platform development.
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
-- [health-economics-metrics/health-economics-metrics.github.io](https://github.com/health-economics-metrics/health-economics-metrics.github.io) - Health Economics Metrics
+- [health-economics-metrics/health-economics-metrics](https://github.com/health-economics-metrics/health-economics-metrics) - Health Economics Metrics
 - [LAION-AI/CLAP](https://github.com/LAION-AI/CLAP) - Contrastive Language-Audio Pretraining
 - [jonwiggins/urlx](https://github.com/jonwiggins/urlx) - A memory-safe Rust reimplementation of curl and libcurl.
 - [jonwiggins/xmloxide](https://github.com/jonwiggins/xmloxide) - A pure Rust reimplementation of libxml2
@@ -2088,6 +2094,7 @@
 
 ## python 
 
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - This repo hosts Prowler OSS (CLI and Local Server). Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment for 
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [StemSplit/demucs-onnx](https://github.com/StemSplit/demucs-onnx) - Working ONNX export + inference for HT-Demucs FT (htdemucs_ft). Solves the 4 export blockers no other tool handles.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
@@ -2431,6 +2438,7 @@
 
 ## security 
 
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - This repo hosts Prowler OSS (CLI and Local Server). Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment for 
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [basecamp/hotcell](https://github.com/basecamp/hotcell) - ☢️HotCell☢️ is an unprivileged sidecar container for handling untrusted inputs, purpose-built for Rails applications.
@@ -2454,6 +2462,7 @@
 
 ## security-tools 
 
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - This repo hosts Prowler OSS (CLI and Local Server). Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment for 
 - [bountyyfi/lonkero](https://github.com/bountyyfi/lonkero) - Lonkero - Wraps around your attack surface.  Professional-grade scanner for real penetration testing. Fast. Modular. Rust.
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb) - Next generation web scanner
