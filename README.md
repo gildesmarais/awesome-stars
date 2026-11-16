@@ -128,6 +128,7 @@
 
 ## Go 
 
+- [MobAI-App/simslim](https://github.com/MobAI-App/simslim) - Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need
 - [BRO3886/ical](https://github.com/BRO3886/ical) - A fast, ai-native macOS Calendar CLI built on go-eventkit
 - [appleboy/drone-ssh](https://github.com/appleboy/drone-ssh) - Drone plugin for executing remote ssh commands
 - [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper) - scrape data  from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews number, latitude and longitude, reviews,email and more for each place
