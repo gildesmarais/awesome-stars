@@ -504,6 +504,7 @@
 
 ## Ruby 
 
+- [Qqwy/ruby-prop_check](https://github.com/Qqwy/ruby-prop_check) - Property Testing library in Ruby
 - [davidteren/mutineer](https://github.com/davidteren/mutineer) - Mutineer - a clean-room mutation-testing tool for Ruby. Prism + stdlib only, zero runtime deps.
 - [interagent/committee](https://github.com/interagent/committee) - A collection of Rack middleware to support JSON Schema.
 - [socketry/falcon](https://github.com/socketry/falcon) - A high-performance web server for Ruby, supporting HTTP/1, HTTP/2 and TLS.
@@ -972,7 +973,7 @@
 - [BlackGlory/copycat](https://github.com/BlackGlory/copycat) - 🌳 Copy content from web powerful than ever before.
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [easepick/easepick](https://github.com/easepick/easepick) - Date range picker. Uses Shadow DOM, lightweight size, no dependencies.
-- [renovatebot/github-action](https://github.com/renovatebot/github-action) - 
+- [renovatebot/github-action](https://github.com/renovatebot/github-action) - GitHub Action to run Renovate self-hosted
 - [ridedott/merge-me-action](https://github.com/ridedott/merge-me-action) - Automatically merges Pull Requests.
 - [oakserver/oak](https://github.com/oakserver/oak) - [UNMAINTAINED] A middleware framework for handling HTTP with Deno, Node, Bun and Cloudflare Workers 🐿️ 🦕
 - [jameskerr/react-arborist](https://github.com/jameskerr/react-arborist) - The complete tree view component for React
